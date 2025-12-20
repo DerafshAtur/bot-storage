@@ -12,8 +12,46 @@
     "created_by": 6001769473,
     "id": "25993d24-5576-4534-8e29-71a9a4bdd808",
     "created_at": "2025-12-20T18:31:52.074463",
-    "status": "pending",
-    "sent_messages": [],
-    "failed_targets": []
+    "status": "completed",
+    "sent_messages": [
+      3074,
+      3075,
+      3076,
+      3077,
+      3078,
+      3079,
+      3080
+    ],
+    "failed_targets": [
+      {
+        "id": 5755558025,
+        "type": "user",
+        "name": "User 5755558025",
+        "error": "Telegram server says - Forbidden: bot was blocked by the user",
+        "timestamp": "2025-12-20T18:31:53.216058"
+      },
+      {
+        "id": 7215842569,
+        "type": "user",
+        "name": "User 7215842569",
+        "error": "Telegram server says - Forbidden: bot was blocked by the user",
+        "timestamp": "2025-12-20T18:31:53.387073"
+      },
+      {
+        "id": 905899628,
+        "type": "user",
+        "name": "User 905899628",
+        "error": "Telegram server says - Forbidden: bot was blocked by the user",
+        "timestamp": "2025-12-20T18:31:53.505900"
+      },
+      {
+        "id": 8489265199,
+        "type": "user",
+        "name": "User 8489265199",
+        "error": "Telegram server says - Forbidden: bot was blocked by the user",
+        "timestamp": "2025-12-20T18:31:53.841600"
+      }
+    ],
+    "completed_at": "2025-12-20T18:31:54.831423"
   }
 ]
