@@ -147,9 +147,10 @@
     "is_premium": false
   },
   "6188919658": {
-    "last_message_time": 1766259166.686643,
+    "last_message_time": 1766259192.866385,
     "message_times": [
-      1766259166.686643
+      1766259166.686643,
+      1766259192.866385
     ],
     "spam_count": 0,
     "warnings_given": 0,
