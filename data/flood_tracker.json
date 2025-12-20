@@ -233,10 +233,11 @@
     "is_premium": false
   },
   "8347642534": {
-    "last_message_time": 1766270244.13232,
+    "last_message_time": 1766270258.836024,
     "message_times": [
       1766270226.32053,
-      1766270244.13232
+      1766270244.13232,
+      1766270258.836024
     ],
     "spam_count": 0,
     "warnings_given": 0,
