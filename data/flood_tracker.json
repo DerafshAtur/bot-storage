@@ -14,10 +14,19 @@
   },
   "5755558025": {
     "last_message_time": 1766254955.700195,
+    "message_times": [],
+    "spam_count": 2,
+    "warnings_given": 0,
+    "blocked_until": 1766255556.10823,
+    "total_warnings": 1,
+    "is_premium": false
+  },
+  "8047619629": {
+    "last_message_time": 1766254956.11148,
     "message_times": [
-      1766254955.688003,
-      1766254955.700195,
-      1766254955.703548
+      1766254956.110578,
+      1766254956.11148,
+      1766254956.112142
     ],
     "spam_count": 1,
     "warnings_given": 1,
