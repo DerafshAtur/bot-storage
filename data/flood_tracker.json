@@ -1,13 +1,11 @@
 {
   "8274048318": {
-    "last_message_time": 1766254955.369831,
+    "last_message_time": 1766255559.345754,
     "message_times": [
-      1766254955.178814,
-      1766254955.369831,
-      1766254955.376559
+      1766255559.345754
     ],
     "spam_count": 1,
-    "warnings_given": 1,
+    "warnings_given": 0,
     "blocked_until": 0,
     "total_warnings": 1,
     "is_premium": false
