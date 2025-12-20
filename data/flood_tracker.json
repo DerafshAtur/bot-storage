@@ -1,1 +1,28 @@
-{}
+{
+  "8274048318": {
+    "last_message_time": 1766254955.369831,
+    "message_times": [
+      1766254955.178814,
+      1766254955.369831,
+      1766254955.376559
+    ],
+    "spam_count": 1,
+    "warnings_given": 1,
+    "blocked_until": 0,
+    "total_warnings": 1,
+    "is_premium": false
+  },
+  "5755558025": {
+    "last_message_time": 1766254955.700195,
+    "message_times": [
+      1766254955.688003,
+      1766254955.700195,
+      1766254955.703548
+    ],
+    "spam_count": 1,
+    "warnings_given": 1,
+    "blocked_until": 0,
+    "total_warnings": 1,
+    "is_premium": false
+  }
+}
