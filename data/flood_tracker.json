@@ -197,9 +197,10 @@
     "is_premium": false
   },
   "6955057726": {
-    "last_message_time": 1766262005.479001,
+    "last_message_time": 1766262010.800479,
     "message_times": [
-      1766262005.479001
+      1766262005.479001,
+      1766262010.800479
     ],
     "spam_count": 0,
     "warnings_given": 0,
