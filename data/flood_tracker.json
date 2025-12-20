@@ -108,9 +108,10 @@
     "is_premium": false
   },
   "8475856253": {
-    "last_message_time": 1766255758.89811,
+    "last_message_time": 1766255779.936882,
     "message_times": [
-      1766255758.89811
+      1766255758.89811,
+      1766255779.936882
     ],
     "spam_count": 0,
     "warnings_given": 0,
