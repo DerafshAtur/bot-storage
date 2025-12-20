@@ -33,5 +33,48 @@
     "blocked_until": 0,
     "total_warnings": 1,
     "is_premium": false
+  },
+  "6874165377": {
+    "last_message_time": 1766254956.83341,
+    "message_times": [
+      1766254956.83341
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "5401900773": {
+    "last_message_time": 1766254957.028707,
+    "message_times": [
+      1766254957.028367,
+      1766254957.028707
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "8380242569": {
+    "last_message_time": 1766254957.029222,
+    "message_times": [],
+    "spam_count": 2,
+    "warnings_given": 0,
+    "blocked_until": 1766255557.029952,
+    "total_warnings": 1,
+    "is_premium": false
+  },
+  "6001769473": {
+    "last_message_time": 1766254987.789069,
+    "message_times": [
+      1766254987.789069
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
