@@ -89,9 +89,10 @@
     "is_premium": false
   },
   "6889537286": {
-    "last_message_time": 1766255639.732054,
+    "last_message_time": 1766255654.233015,
     "message_times": [
-      1766255639.732054
+      1766255639.732054,
+      1766255654.233015
     ],
     "spam_count": 0,
     "warnings_given": 0,
