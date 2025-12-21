@@ -669,9 +669,10 @@
     "is_premium": false
   },
   "6709047783": {
-    "last_message_time": 1766349387.853149,
+    "last_message_time": 1766349420.570779,
     "message_times": [
-      1766349387.853149
+      1766349387.853149,
+      1766349420.570779
     ],
     "spam_count": 0,
     "warnings_given": 0,
