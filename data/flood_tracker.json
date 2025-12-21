@@ -363,9 +363,10 @@
     "is_premium": false
   },
   "8369396334": {
-    "last_message_time": 1766296680.68447,
+    "last_message_time": 1766296684.920884,
     "message_times": [
-      1766296680.68447
+      1766296680.68447,
+      1766296684.920884
     ],
     "spam_count": 0,
     "warnings_given": 0,
