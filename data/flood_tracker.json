@@ -66,11 +66,9 @@
     "is_premium": false
   },
   "6001769473": {
-    "last_message_time": 1766326892.90717,
+    "last_message_time": 1766327295.342046,
     "message_times": [
-      1766326858.82195,
-      1766326874.528984,
-      1766326892.90717
+      1766327295.342046
     ],
     "spam_count": 0,
     "warnings_given": 0,
