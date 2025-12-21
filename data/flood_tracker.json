@@ -704,9 +704,10 @@
     "is_premium": false
   },
   "8095806460": {
-    "last_message_time": 1766350394.844021,
+    "last_message_time": 1766350418.642313,
     "message_times": [
-      1766350394.844021
+      1766350394.844021,
+      1766350418.642313
     ],
     "spam_count": 0,
     "warnings_given": 0,
