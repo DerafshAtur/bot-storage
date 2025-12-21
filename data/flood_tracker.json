@@ -646,9 +646,10 @@
     "is_premium": false
   },
   "7868642713": {
-    "last_message_time": 1766345723.509911,
+    "last_message_time": 1766345830.217845,
     "message_times": [
-      1766345723.509911
+      1766345723.509911,
+      1766345830.217845
     ],
     "spam_count": 0,
     "warnings_given": 0,
