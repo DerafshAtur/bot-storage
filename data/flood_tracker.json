@@ -262,9 +262,10 @@
     "is_premium": true
   },
   "6947181771": {
-    "last_message_time": 1766279308.640324,
+    "last_message_time": 1766279326.244296,
     "message_times": [
-      1766279308.640324
+      1766279308.640324,
+      1766279326.244296
     ],
     "spam_count": 0,
     "warnings_given": 0,
