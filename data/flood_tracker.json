@@ -313,10 +313,9 @@
     "is_premium": false
   },
   "7493945598": {
-    "last_message_time": 1766285955.173327,
+    "last_message_time": 1766286152.486966,
     "message_times": [
-      1766285851.764745,
-      1766285955.173327
+      1766286152.486966
     ],
     "spam_count": 0,
     "warnings_given": 0,
