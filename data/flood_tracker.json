@@ -388,9 +388,10 @@
     "is_premium": false
   },
   "7352941290": {
-    "last_message_time": 1766305864.089501,
+    "last_message_time": 1766305909.022513,
     "message_times": [
-      1766305864.089501
+      1766305864.089501,
+      1766305909.022513
     ],
     "spam_count": 0,
     "warnings_given": 0,
