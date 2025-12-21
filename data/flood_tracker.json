@@ -621,10 +621,11 @@
     "is_premium": false
   },
   "7475993477": {
-    "last_message_time": 1766341807.501221,
+    "last_message_time": 1766341822.504214,
     "message_times": [
       1766341801.048593,
-      1766341807.501221
+      1766341807.501221,
+      1766341822.504214
     ],
     "spam_count": 0,
     "warnings_given": 0,
