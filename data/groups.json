@@ -6,8 +6,8 @@
     "chat_type": "supergroup",
     "discovered_via": "active_scan",
     "active": true,
-    "last_message": "2025-12-21T17:12:44.991359",
-    "message_count": 408
+    "last_message": "2025-12-21T17:12:46.617339",
+    "message_count": 459
   },
   "-1002177293171": {
     "title": "DLGAMES GP \ud83d\udda4\u2764",
@@ -16,8 +16,8 @@
     "chat_type": "supergroup",
     "discovered_via": "active_scan",
     "active": true,
-    "last_message": "2025-12-21T17:12:44.993930",
-    "message_count": 2451
+    "last_message": "2025-12-21T17:12:46.618950",
+    "message_count": 2789
   },
   "-1002431601784": {
     "title": "\u0628\u0627\u0646\u06a9",
@@ -25,8 +25,10 @@
     "added_date": "2025-12-21T17:12:44.631479",
     "chat_type": "supergroup",
     "discovered_via": "active_scan",
-    "active": true,
+    "active": false,
     "last_message": "2025-12-21T17:12:44.989257",
-    "message_count": 24
+    "message_count": 24,
+    "last_checked": "2025-12-21T17:12:46.694568",
+    "error": "cannot access local variable 'chat_type' where it is not associated with a value"
   }
 }
