@@ -324,10 +324,9 @@
     "is_premium": false
   },
   "7265408357": {
-    "last_message_time": 1766292094.940071,
+    "last_message_time": 1766292216.058143,
     "message_times": [
-      1766292040.18332,
-      1766292094.940071
+      1766292216.058143
     ],
     "spam_count": 0,
     "warnings_given": 0,
