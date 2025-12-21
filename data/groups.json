@@ -16,7 +16,7 @@
     "chat_type": "supergroup",
     "discovered_via": "active_scan",
     "active": true,
-    "last_message": "2025-12-21T17:15:11.188053",
+    "last_message": "2025-12-21T17:15:15.293968",
     "message_count": 2961
   },
   "-1002431601784": {
@@ -25,9 +25,10 @@
     "added_date": "2025-12-21T17:12:44.631479",
     "chat_type": "supergroup",
     "discovered_via": "active_scan",
-    "active": true,
+    "active": false,
     "last_message": "2025-12-21T17:12:44.989257",
     "message_count": 24,
-    "last_checked": "2025-12-21T17:15:10.095777"
+    "last_checked": "2025-12-21T17:12:48.231183",
+    "error": "cannot access local variable 'chat_type' where it is not associated with a value"
   }
 }
