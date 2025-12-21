@@ -746,9 +746,10 @@
     "is_premium": false
   },
   "6623194941": {
-    "last_message_time": 1766353229.935543,
+    "last_message_time": 1766353232.813113,
     "message_times": [
-      1766353229.935543
+      1766353229.935543,
+      1766353232.813113
     ],
     "spam_count": 0,
     "warnings_given": 0,
