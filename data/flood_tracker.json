@@ -758,9 +758,10 @@
     "is_premium": false
   },
   "8244194926": {
-    "last_message_time": 1766353237.758115,
+    "last_message_time": 1766353239.275715,
     "message_times": [
-      1766353237.758115
+      1766353237.758115,
+      1766353239.275715
     ],
     "spam_count": 0,
     "warnings_given": 0,
