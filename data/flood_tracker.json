@@ -1594,9 +1594,10 @@
     "is_premium": false
   },
   "6903769469": {
-    "last_message_time": 1766431617.182824,
+    "last_message_time": 1766431632.634024,
     "message_times": [
-      1766431617.182824
+      1766431617.182824,
+      1766431632.634024
     ],
     "spam_count": 0,
     "warnings_given": 0,
