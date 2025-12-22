@@ -1536,5 +1536,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "6201477870": {
+    "last_message_time": 1766430796.273839,
+    "message_times": [
+      1766430796.273839
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
