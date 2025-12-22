@@ -1400,10 +1400,11 @@
     "is_premium": false
   },
   "7989866935": {
-    "last_message_time": 1766423933.139676,
+    "last_message_time": 1766423965.727941,
     "message_times": [
       1766423867.850044,
-      1766423933.139676
+      1766423933.139676,
+      1766423965.727941
     ],
     "spam_count": 0,
     "warnings_given": 0,
