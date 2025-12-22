@@ -1254,10 +1254,11 @@
     "is_premium": false
   },
   "6707915592": {
-    "last_message_time": 1766419535.758644,
+    "last_message_time": 1766419588.405227,
     "message_times": [
       1766419503.918502,
-      1766419535.758644
+      1766419535.758644,
+      1766419588.405227
     ],
     "spam_count": 0,
     "warnings_given": 0,
