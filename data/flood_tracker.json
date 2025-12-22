@@ -663,10 +663,11 @@
     "is_premium": false
   },
   "6479025869": {
-    "last_message_time": 1766409274.447749,
+    "last_message_time": 1766409285.880535,
     "message_times": [
       1766409246.488868,
-      1766409274.447749
+      1766409274.447749,
+      1766409285.880535
     ],
     "spam_count": 0,
     "warnings_given": 0,
