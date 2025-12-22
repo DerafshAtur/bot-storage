@@ -1037,11 +1037,9 @@
     "is_premium": false
   },
   "6482803263": {
-    "last_message_time": 1766409043.536782,
+    "last_message_time": 1766409375.032128,
     "message_times": [
-      1766409022.13291,
-      1766409025.183326,
-      1766409043.536782
+      1766409375.032128
     ],
     "spam_count": 0,
     "warnings_given": 0,
