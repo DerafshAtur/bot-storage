@@ -1261,10 +1261,11 @@
     "is_premium": false
   },
   "6573505392": {
-    "last_message_time": 1766419146.930154,
+    "last_message_time": 1766419180.930771,
     "message_times": [
       1766419134.966908,
-      1766419146.930154
+      1766419146.930154,
+      1766419180.930771
     ],
     "spam_count": 0,
     "warnings_given": 0,
