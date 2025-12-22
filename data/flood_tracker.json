@@ -1727,10 +1727,9 @@
     "is_premium": false
   },
   "7587014839": {
-    "last_message_time": 1766444812.325871,
+    "last_message_time": 1766444955.348071,
     "message_times": [
-      1766444747.284009,
-      1766444812.325871
+      1766444955.348071
     ],
     "spam_count": 0,
     "warnings_given": 0,
