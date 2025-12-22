@@ -1362,10 +1362,11 @@
     "is_premium": false
   },
   "8525543224": {
-    "last_message_time": 1766422545.649203,
+    "last_message_time": 1766422556.35759,
     "message_times": [
       1766422517.699886,
-      1766422545.649203
+      1766422545.649203,
+      1766422556.35759
     ],
     "spam_count": 0,
     "warnings_given": 0,
