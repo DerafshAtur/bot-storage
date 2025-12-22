@@ -1567,10 +1567,11 @@
     "is_premium": false
   },
   "8558787623": {
-    "last_message_time": 1766431038.382176,
+    "last_message_time": 1766431047.087803,
     "message_times": [
       1766431004.478726,
-      1766431038.382176
+      1766431038.382176,
+      1766431047.087803
     ],
     "spam_count": 0,
     "warnings_given": 0,
