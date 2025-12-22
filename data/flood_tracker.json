@@ -1050,9 +1050,10 @@
     "is_premium": false
   },
   "5767182513": {
-    "last_message_time": 1766409469.675607,
+    "last_message_time": 1766409555.562031,
     "message_times": [
-      1766409469.675607
+      1766409469.675607,
+      1766409555.562031
     ],
     "spam_count": 0,
     "warnings_given": 0,
