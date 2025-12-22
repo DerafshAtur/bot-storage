@@ -1619,9 +1619,10 @@
     "is_premium": false
   },
   "7329179474": {
-    "last_message_time": 1766433200.149112,
+    "last_message_time": 1766433249.10914,
     "message_times": [
-      1766433200.149112
+      1766433200.149112,
+      1766433249.10914
     ],
     "spam_count": 0,
     "warnings_given": 0,
