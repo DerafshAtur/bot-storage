@@ -1285,10 +1285,11 @@
     "is_premium": false
   },
   "7779107094": {
-    "last_message_time": 1766419184.395739,
+    "last_message_time": 1766419191.206622,
     "message_times": [
       1766419172.008882,
-      1766419184.395739
+      1766419184.395739,
+      1766419191.206622
     ],
     "spam_count": 0,
     "warnings_given": 0,
