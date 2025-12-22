@@ -1073,10 +1073,11 @@
     "is_premium": false
   },
   "6979122561": {
-    "last_message_time": 1766410910.82254,
+    "last_message_time": 1766410957.324618,
     "message_times": [
       1766410841.58495,
-      1766410910.82254
+      1766410910.82254,
+      1766410957.324618
     ],
     "spam_count": 0,
     "warnings_given": 0,
