@@ -1502,9 +1502,10 @@
     "is_premium": false
   },
   "8409240383": {
-    "last_message_time": 1766430200.731573,
+    "last_message_time": 1766430285.422271,
     "message_times": [
-      1766430200.731573
+      1766430200.731573,
+      1766430285.422271
     ],
     "spam_count": 0,
     "warnings_given": 0,
