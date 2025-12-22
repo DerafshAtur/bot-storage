@@ -1350,11 +1350,9 @@
     "is_premium": false
   },
   "1372670888": {
-    "last_message_time": 1766424576.983736,
+    "last_message_time": 1766424704.747232,
     "message_times": [
-      1766424535.265722,
-      1766424566.397374,
-      1766424576.983736
+      1766424704.747232
     ],
     "spam_count": 0,
     "warnings_given": 0,
