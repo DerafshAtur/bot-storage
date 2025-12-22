@@ -804,5 +804,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "7716394572": {
+    "last_message_time": 1766362559.451821,
+    "message_times": [
+      1766362559.451821
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
