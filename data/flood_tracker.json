@@ -1647,5 +1647,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "116719510": {
+    "last_message_time": 1766435648.806561,
+    "message_times": [
+      1766435648.806561
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
