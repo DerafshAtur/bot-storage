@@ -663,10 +663,11 @@
     "is_premium": false
   },
   "6479025869": {
-    "last_message_time": 1766409024.023526,
+    "last_message_time": 1766409056.734923,
     "message_times": [
       1766408999.045018,
-      1766409024.023526
+      1766409024.023526,
+      1766409056.734923
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -1022,10 +1023,11 @@
     "is_premium": false
   },
   "8332907291": {
-    "last_message_time": 1766409047.781766,
+    "last_message_time": 1766409069.331483,
     "message_times": [
       1766409018.18574,
-      1766409047.781766
+      1766409047.781766,
+      1766409069.331483
     ],
     "spam_count": 0,
     "warnings_given": 0,
