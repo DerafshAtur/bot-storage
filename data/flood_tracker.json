@@ -1184,11 +1184,9 @@
     "is_premium": false
   },
   "1272270566": {
-    "last_message_time": 1766417067.157697,
+    "last_message_time": 1766417197.954423,
     "message_times": [
-      1766417019.863755,
-      1766417042.980581,
-      1766417067.157697
+      1766417197.954423
     ],
     "spam_count": 0,
     "warnings_given": 0,
