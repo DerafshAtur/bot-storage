@@ -1084,9 +1084,10 @@
     "is_premium": false
   },
   "5936935544": {
-    "last_message_time": 1766413993.589468,
+    "last_message_time": 1766414039.798066,
     "message_times": [
-      1766413993.589468
+      1766413993.589468,
+      1766414039.798066
     ],
     "spam_count": 0,
     "warnings_given": 0,
