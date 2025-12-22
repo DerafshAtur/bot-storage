@@ -1226,9 +1226,10 @@
     "is_premium": false
   },
   "1178132695": {
-    "last_message_time": 1766418092.578259,
+    "last_message_time": 1766418142.601277,
     "message_times": [
-      1766418092.578259
+      1766418092.578259,
+      1766418142.601277
     ],
     "spam_count": 0,
     "warnings_given": 0,
