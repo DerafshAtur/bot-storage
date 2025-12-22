@@ -1182,9 +1182,10 @@
     "is_premium": false
   },
   "1272270566": {
-    "last_message_time": 1766417197.954423,
+    "last_message_time": 1766417226.896207,
     "message_times": [
-      1766417197.954423
+      1766417197.954423,
+      1766417226.896207
     ],
     "spam_count": 0,
     "warnings_given": 0,
