@@ -16,8 +16,8 @@
     "chat_type": "supergroup",
     "discovered_via": "active_scan",
     "active": true,
-    "last_message": "2025-12-22T19:44:27.218270",
-    "message_count": 12733
+    "last_message": "2025-12-22T19:44:28.488077",
+    "message_count": 12735
   },
   "-1002431601784": {
     "title": "\u0628\u0627\u0646\u06a9",
@@ -26,8 +26,8 @@
     "chat_type": "supergroup",
     "discovered_via": "active_scan",
     "active": true,
-    "last_message": "2025-12-22T19:44:28.144912",
-    "message_count": 258,
+    "last_message": "2025-12-22T19:44:32.852880",
+    "message_count": 259,
     "last_checked": "2025-12-21T17:15:10.095777"
   }
 }
