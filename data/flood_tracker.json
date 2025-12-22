@@ -1577,9 +1577,10 @@
     "is_premium": false
   },
   "8020655290": {
-    "last_message_time": 1766431005.954566,
+    "last_message_time": 1766431107.908318,
     "message_times": [
-      1766431005.954566
+      1766431005.954566,
+      1766431107.908318
     ],
     "spam_count": 0,
     "warnings_given": 0,
