@@ -971,9 +971,10 @@
     "is_premium": false
   },
   "7044754751": {
-    "last_message_time": 1766406505.182586,
+    "last_message_time": 1766406582.087774,
     "message_times": [
-      1766406505.182586
+      1766406505.182586,
+      1766406582.087774
     ],
     "spam_count": 0,
     "warnings_given": 0,
