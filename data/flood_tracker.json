@@ -1493,9 +1493,10 @@
     "is_premium": false
   },
   "5402329456": {
-    "last_message_time": 1766430090.174652,
+    "last_message_time": 1766430131.47928,
     "message_times": [
-      1766430090.174652
+      1766430090.174652,
+      1766430131.47928
     ],
     "spam_count": 0,
     "warnings_given": 0,
