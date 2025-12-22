@@ -1316,9 +1316,10 @@
     "is_premium": false
   },
   "5037362732": {
-    "last_message_time": 1766420058.273675,
+    "last_message_time": 1766420088.16615,
     "message_times": [
-      1766420058.273675
+      1766420058.273675,
+      1766420088.16615
     ],
     "spam_count": 0,
     "warnings_given": 0,
