@@ -29,34 +29,10 @@
   ],
   "6001769473": [
     {
-      "message_id": 64695,
-      "content": "who are you",
-      "timestamp": "2025-12-22 12:52:30.624893",
-      "reply_to": 64694
-    },
-    {
-      "message_id": 64697,
-      "content": "\u06a9\u06cc\u0631 \u062a\u0648 \u0646\u0646\u062a",
-      "timestamp": "2025-12-22 12:52:49.722685",
-      "reply_to": 64696
-    },
-    {
-      "message_id": 64699,
-      "content": "who are you?",
-      "timestamp": "2025-12-22 12:53:03.128302",
-      "reply_to": 64698
-    },
-    {
-      "message_id": 64703,
-      "content": "who are you?",
-      "timestamp": "2025-12-22 12:53:41.684634",
-      "reply_to": 64702
-    },
-    {
-      "message_id": 64705,
-      "content": "\u0646\u0646\u0647 \u0633\u06af \u062a\u0648 \u06a9\u06cc \u0647\u0633\u062a\u06cc\u061f",
-      "timestamp": "2025-12-22 12:54:00.631187",
-      "reply_to": 64704
+      "message_id": 64716,
+      "content": "hi",
+      "timestamp": "2025-12-22 13:01:35.189250",
+      "reply_to": 64715
     }
   ],
   "7000565072": [
@@ -677,10 +653,10 @@
   ],
   "6001769473": [
     {
-      "message_id": 64716,
-      "content": "hi",
-      "timestamp": "2025-12-22 13:01:35.189250",
-      "reply_to": 64715
+      "message_id": 64722,
+      "content": "who are you",
+      "timestamp": "2025-12-22 13:07:10.754878",
+      "reply_to": 64719
     }
   ]
 }
