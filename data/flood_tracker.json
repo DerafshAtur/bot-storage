@@ -1551,10 +1551,9 @@
     "is_premium": false
   },
   "6537299471": {
-    "last_message_time": 1766430977.506215,
+    "last_message_time": 1766431118.442711,
     "message_times": [
-      1766430963.481749,
-      1766430977.506215
+      1766431118.442711
     ],
     "spam_count": 0,
     "warnings_given": 0,
