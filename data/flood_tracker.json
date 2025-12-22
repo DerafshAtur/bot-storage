@@ -1242,10 +1242,9 @@
     "is_premium": false
   },
   "1184067397": {
-    "last_message_time": 1766419375.136289,
+    "last_message_time": 1766419880.101139,
     "message_times": [
-      1766419288.025598,
-      1766419375.136289
+      1766419880.101139
     ],
     "spam_count": 0,
     "warnings_given": 0,
