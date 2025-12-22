@@ -1132,10 +1132,11 @@
     "is_premium": false
   },
   "6835015995": {
-    "last_message_time": 1766416298.298579,
+    "last_message_time": 1766416327.557553,
     "message_times": [
       1766416257.871483,
-      1766416298.298579
+      1766416298.298579,
+      1766416327.557553
     ],
     "spam_count": 0,
     "warnings_given": 0,
