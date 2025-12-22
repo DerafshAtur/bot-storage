@@ -1777,10 +1777,9 @@
     "is_premium": false
   },
   "6290563277": {
-    "last_message_time": 1766445446.694321,
+    "last_message_time": 1766445586.468091,
     "message_times": [
-      1766445424.841734,
-      1766445446.694321
+      1766445586.468091
     ],
     "spam_count": 0,
     "warnings_given": 0,
