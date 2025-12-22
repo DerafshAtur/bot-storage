@@ -1325,10 +1325,11 @@
     "is_premium": false
   },
   "8536728065": {
-    "last_message_time": 1766421926.721378,
+    "last_message_time": 1766421933.411419,
     "message_times": [
       1766421905.631854,
-      1766421926.721378
+      1766421926.721378,
+      1766421933.411419
     ],
     "spam_count": 0,
     "warnings_given": 0,
