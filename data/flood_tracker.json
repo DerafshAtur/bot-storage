@@ -1424,11 +1424,9 @@
     "is_premium": false
   },
   "8464087327": {
-    "last_message_time": 1766424608.84079,
+    "last_message_time": 1766427229.994153,
     "message_times": [
-      1766424588.686078,
-      1766424593.265925,
-      1766424608.84079
+      1766427229.994153
     ],
     "spam_count": 0,
     "warnings_given": 0,
