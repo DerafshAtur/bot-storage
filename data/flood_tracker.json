@@ -1424,5 +1424,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "8464087327": {
+    "last_message_time": 1766424588.686078,
+    "message_times": [
+      1766424588.686078
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
