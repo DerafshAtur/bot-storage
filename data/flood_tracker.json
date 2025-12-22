@@ -910,9 +910,10 @@
     "is_premium": false
   },
   "8348540250": {
-    "last_message_time": 1766394955.480518,
+    "last_message_time": 1766394969.496343,
     "message_times": [
-      1766394955.480518
+      1766394955.480518,
+      1766394969.496343
     ],
     "spam_count": 0,
     "warnings_given": 0,
