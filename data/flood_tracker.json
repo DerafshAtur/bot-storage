@@ -875,10 +875,11 @@
     "is_premium": false
   },
   "6523308308": {
-    "last_message_time": 1766388039.197707,
+    "last_message_time": 1766388056.227048,
     "message_times": [
       1766387996.796488,
-      1766388039.197707
+      1766388039.197707,
+      1766388056.227048
     ],
     "spam_count": 0,
     "warnings_given": 0,
