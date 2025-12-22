@@ -1711,9 +1711,10 @@
     "is_premium": false
   },
   "8126144288": {
-    "last_message_time": 1766442567.776772,
+    "last_message_time": 1766442596.989764,
     "message_times": [
-      1766442567.776772
+      1766442567.776772,
+      1766442596.989764
     ],
     "spam_count": 0,
     "warnings_given": 0,
