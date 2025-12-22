@@ -817,9 +817,10 @@
     "is_premium": false
   },
   "5011577209": {
-    "last_message_time": 1766363819.425015,
+    "last_message_time": 1766363825.161192,
     "message_times": [
-      1766363819.425015
+      1766363819.425015,
+      1766363825.161192
     ],
     "spam_count": 0,
     "warnings_given": 0,
