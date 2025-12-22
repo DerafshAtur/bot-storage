@@ -888,9 +888,10 @@
     "is_premium": false
   },
   "7816112782": {
-    "last_message_time": 1766391319.210472,
+    "last_message_time": 1766391324.323741,
     "message_times": [
-      1766391319.210472
+      1766391319.210472,
+      1766391324.323741
     ],
     "spam_count": 0,
     "warnings_given": 0,
