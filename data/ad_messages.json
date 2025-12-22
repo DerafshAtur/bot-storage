@@ -278,5 +278,50 @@
     "original_chat_id": 6001769473,
     "success_count": 54,
     "fail_count": 27
+  },
+  "a33c9b1a": {
+    "sent_message_ids": [
+      {
+        "chat_id": 6546418659,
+        "message_id": 5324,
+        "type": "user"
+      },
+      {
+        "chat_id": 7329179474,
+        "message_id": 5325,
+        "type": "user"
+      },
+      {
+        "chat_id": 6836635827,
+        "message_id": 5326,
+        "type": "user"
+      },
+      {
+        "chat_id": 7971211710,
+        "message_id": 5327,
+        "type": "user"
+      },
+      {
+        "chat_id": -1002610002026,
+        "message_id": 65500,
+        "type": "group"
+      },
+      {
+        "chat_id": -1002177293171,
+        "message_id": 3123168,
+        "type": "group"
+      },
+      {
+        "chat_id": -1002431601784,
+        "message_id": 77603,
+        "type": "group"
+      }
+    ],
+    "target_type": "all",
+    "timestamp": "2025-12-22T19:54:57.003773",
+    "original_message_id": 5319,
+    "original_chat_id": 6001769473,
+    "success_count": 7,
+    "fail_count": 0
   }
 }
