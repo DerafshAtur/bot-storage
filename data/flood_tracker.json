@@ -1800,10 +1800,11 @@
     "is_premium": false
   },
   "8346873407": {
-    "last_message_time": 1766446844.367344,
+    "last_message_time": 1766446852.025749,
     "message_times": [
       1766446810.745056,
-      1766446844.367344
+      1766446844.367344,
+      1766446852.025749
     ],
     "spam_count": 0,
     "warnings_given": 0,
