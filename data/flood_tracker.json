@@ -356,9 +356,10 @@
     "is_premium": false
   },
   "7885343319": {
-    "last_message_time": 1766419369.030208,
+    "last_message_time": 1766419396.421727,
     "message_times": [
-      1766419369.030208
+      1766419369.030208,
+      1766419396.421727
     ],
     "spam_count": 0,
     "warnings_given": 0,
