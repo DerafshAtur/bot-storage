@@ -1542,12 +1542,11 @@
     "is_premium": false
   },
   "6201477870": {
-    "last_message_time": 1766431343.281923,
+    "last_message_time": 1766431394.009997,
     "message_times": [
-      1766431236.740564,
-      1766431251.234615,
       1766431301.055987,
-      1766431343.281923
+      1766431343.281923,
+      1766431394.009997
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -1587,6 +1586,17 @@
       1766431123.388887,
       1766431149.74811,
       1766431172.805446
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "6903769469": {
+    "last_message_time": 1766431617.182824,
+    "message_times": [
+      1766431617.182824
     ],
     "spam_count": 0,
     "warnings_given": 0,
