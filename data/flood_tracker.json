@@ -984,10 +984,11 @@
     "is_premium": false
   },
   "6418897443": {
-    "last_message_time": 1766406144.621065,
+    "last_message_time": 1766406150.529544,
     "message_times": [
       1766406132.755029,
-      1766406144.621065
+      1766406144.621065,
+      1766406150.529544
     ],
     "spam_count": 0,
     "warnings_given": 0,
