@@ -1261,10 +1261,9 @@
     "is_premium": false
   },
   "6573505392": {
-    "last_message_time": 1766431126.251561,
+    "last_message_time": 1766431281.561605,
     "message_times": [
-      1766431105.92433,
-      1766431126.251561
+      1766431281.561605
     ],
     "spam_count": 0,
     "warnings_given": 0,
