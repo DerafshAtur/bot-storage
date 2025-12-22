@@ -1480,9 +1480,10 @@
     "is_premium": false
   },
   "7320334623": {
-    "last_message_time": 1766429648.429592,
+    "last_message_time": 1766429651.373724,
     "message_times": [
-      1766429648.429592
+      1766429648.429592,
+      1766429651.373724
     ],
     "spam_count": 0,
     "warnings_given": 0,
