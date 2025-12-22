@@ -958,9 +958,10 @@
     "is_premium": false
   },
   "8030376903": {
-    "last_message_time": 1766404654.527367,
+    "last_message_time": 1766404675.379628,
     "message_times": [
-      1766404654.527367
+      1766404654.527367,
+      1766404675.379628
     ],
     "spam_count": 0,
     "warnings_given": 0,
