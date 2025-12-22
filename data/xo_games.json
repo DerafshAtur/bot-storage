@@ -94,5 +94,29 @@
     "message_id": 4925,
     "created_at": "2025-12-22T15:34:18.493977",
     "last_move": null
+  },
+  "07494250": {
+    "player1": 6001769473,
+    "player1_name": "D3R4F5H",
+    "player2": null,
+    "player2_name": null,
+    "current_player": 6001769473,
+    "current_player_name": "D3R4F5H",
+    "board": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "status": "waiting",
+    "chat_id": -1002177293171,
+    "message_id": 3121304,
+    "created_at": "2025-12-22T17:22:12.278083",
+    "last_move": null
   }
 }
