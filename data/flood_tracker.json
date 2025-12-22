@@ -633,9 +633,10 @@
     "is_premium": false
   },
   "1846556766": {
-    "last_message_time": 1766407379.257346,
+    "last_message_time": 1766407420.724811,
     "message_times": [
-      1766407379.257346
+      1766407379.257346,
+      1766407420.724811
     ],
     "spam_count": 0,
     "warnings_given": 0,
