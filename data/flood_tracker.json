@@ -1375,10 +1375,11 @@
     "is_premium": false
   },
   "8505235615": {
-    "last_message_time": 1766422669.504376,
+    "last_message_time": 1766422678.029217,
     "message_times": [
       1766422653.336731,
-      1766422669.504376
+      1766422669.504376,
+      1766422678.029217
     ],
     "spam_count": 0,
     "warnings_given": 0,
