@@ -863,9 +863,10 @@
     "is_premium": false
   },
   "6992095892": {
-    "last_message_time": 1766385674.153096,
+    "last_message_time": 1766385721.854855,
     "message_times": [
-      1766385674.153096
+      1766385674.153096,
+      1766385721.854855
     ],
     "spam_count": 0,
     "warnings_given": 0,
