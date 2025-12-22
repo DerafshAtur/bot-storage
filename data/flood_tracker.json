@@ -920,9 +920,10 @@
     "is_premium": false
   },
   "1176334153": {
-    "last_message_time": 1766398221.539161,
+    "last_message_time": 1766398292.736723,
     "message_times": [
-      1766398221.539161
+      1766398221.539161,
+      1766398292.736723
     ],
     "spam_count": 0,
     "warnings_given": 0,
