@@ -2042,9 +2042,10 @@
     "is_premium": false
   },
   "6154241825": {
-    "last_message_time": 1766502676.173087,
+    "last_message_time": 1766502680.296118,
     "message_times": [
-      1766502676.173087
+      1766502676.173087,
+      1766502680.296118
     ],
     "spam_count": 0,
     "warnings_given": 0,
