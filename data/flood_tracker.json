@@ -1018,10 +1018,9 @@
     "is_premium": false
   },
   "8332907291": {
-    "last_message_time": 1766511382.076021,
+    "last_message_time": 1766512603.954148,
     "message_times": [
-      1766511355.121732,
-      1766511382.076021
+      1766512603.954148
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -2156,10 +2155,11 @@
     "is_premium": false
   },
   "6641223855": {
-    "last_message_time": 1766512555.189385,
+    "last_message_time": 1766512577.532247,
     "message_times": [
       1766512489.181096,
-      1766512555.189385
+      1766512555.189385,
+      1766512577.532247
     ],
     "spam_count": 0,
     "warnings_given": 0,
