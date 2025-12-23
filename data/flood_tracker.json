@@ -1162,10 +1162,9 @@
     "is_premium": false
   },
   "6418476044": {
-    "last_message_time": 1766495086.531798,
+    "last_message_time": 1766513096.934731,
     "message_times": [
-      1766495086.530291,
-      1766495086.531798
+      1766513096.934731
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -2122,9 +2121,9 @@
     "is_premium": false
   },
   "8331321472": {
-    "last_message_time": 1766512794.633257,
+    "last_message_time": 1766512935.409642,
     "message_times": [
-      1766512794.633257
+      1766512935.409642
     ],
     "spam_count": 2,
     "warnings_given": 0,
