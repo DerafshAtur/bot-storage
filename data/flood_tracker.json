@@ -2141,10 +2141,11 @@
     "is_premium": false
   },
   "6641223855": {
-    "last_message_time": 1766511752.390796,
+    "last_message_time": 1766511770.667319,
     "message_times": [
       1766511719.78482,
-      1766511752.390796
+      1766511752.390796,
+      1766511770.667319
     ],
     "spam_count": 0,
     "warnings_given": 0,
