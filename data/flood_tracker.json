@@ -2003,10 +2003,11 @@
     "is_premium": false
   },
   "106777178": {
-    "last_message_time": 1766511004.237036,
+    "last_message_time": 1766511025.257782,
     "message_times": [
       1766510997.129095,
-      1766511004.237036
+      1766511004.237036,
+      1766511025.257782
     ],
     "spam_count": 0,
     "warnings_given": 0,
