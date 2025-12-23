@@ -5,6 +5,8 @@
   "ios": [
     "https://t.me/proxy?server=tg01.bixvpn-free.com&port=2288&secret=ddb05d30c154ea032654041d5832906857"
   ],
-  "desktop": [],
-  "last_updated": "2025-12-23T16:28:45.962839"
+  "desktop": [
+    "tg://proxy?server=tg01.bixvpn-free.com&port=2288&secret=ddb05d30c154ea032654041d5832906857"
+  ],
+  "last_updated": "2025-12-23T16:29:18.633268"
 }
