@@ -2092,9 +2092,10 @@
     "is_premium": false
   },
   "8362307670": {
-    "last_message_time": 1766508980.56467,
+    "last_message_time": 1766509021.243938,
     "message_times": [
-      1766508980.56467
+      1766508980.56467,
+      1766509021.243938
     ],
     "spam_count": 0,
     "warnings_given": 0,
