@@ -1019,9 +1019,10 @@
     "is_premium": false
   },
   "8332907291": {
-    "last_message_time": 1766500804.001727,
+    "last_message_time": 1766500837.019471,
     "message_times": [
-      1766500804.001727
+      1766500804.001727,
+      1766500837.019471
     ],
     "spam_count": 0,
     "warnings_given": 0,
