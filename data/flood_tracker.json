@@ -1989,10 +1989,9 @@
     "is_premium": false
   },
   "6199449440": {
-    "last_message_time": 1766495519.785106,
+    "last_message_time": 1766495723.332492,
     "message_times": [
-      1766495504.570349,
-      1766495519.785106
+      1766495723.332492
     ],
     "spam_count": 0,
     "warnings_given": 0,
