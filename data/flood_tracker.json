@@ -1815,19 +1815,22 @@
   },
   "5574618203": {
     "last_message_time": 1766448801.209782,
-    "message_times": [
-      1766448689.502208,
-      1766448707.016669,
-      1766448743.053854,
-      1766448758.362898,
-      1766448800.349427,
-      1766448801.209782,
-      1766448802.069923
-    ],
-    "spam_count": 1,
-    "warnings_given": 1,
-    "blocked_until": 0,
+    "message_times": [],
+    "spam_count": 2,
+    "warnings_given": 0,
+    "blocked_until": 1766449402.807934,
     "total_warnings": 1,
+    "is_premium": false
+  },
+  "503392432": {
+    "last_message_time": 1766448854.696277,
+    "message_times": [
+      1766448854.696277
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
     "is_premium": false
   }
 }
