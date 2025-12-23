@@ -73,12 +73,9 @@
     "is_premium": false
   },
   "6001769473": {
-    "last_message_time": 1766448131.573567,
+    "last_message_time": 1766495078.561931,
     "message_times": [
-      1766448034.566092,
-      1766448082.592751,
-      1766448104.742466,
-      1766448131.573567
+      1766495078.561931
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -1752,15 +1749,16 @@
     "is_premium": false
   },
   "8472123345": {
-    "last_message_time": 1766446075.61662,
+    "last_message_time": 1766495077.175355,
     "message_times": [
-      1766446036.384879,
-      1766446075.61662
+      1766495077.174111,
+      1766495077.175355,
+      1766495077.606447
     ],
-    "spam_count": 0,
-    "warnings_given": 0,
+    "spam_count": 1,
+    "warnings_given": 1,
     "blocked_until": 0,
-    "total_warnings": 0,
+    "total_warnings": 1,
     "is_premium": false
   },
   "5439641019": {
@@ -1945,6 +1943,17 @@
     "last_message_time": 1766495076.151389,
     "message_times": [
       1766495076.151389
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "7991647967": {
+    "last_message_time": 1766495078.576554,
+    "message_times": [
+      1766495078.576554
     ],
     "spam_count": 0,
     "warnings_given": 0,
