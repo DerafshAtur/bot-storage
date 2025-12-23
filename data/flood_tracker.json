@@ -2176,10 +2176,9 @@
     "is_premium": false
   },
   "7342882313": {
-    "last_message_time": 1766517898.11869,
+    "last_message_time": 1766518078.511981,
     "message_times": [
-      1766517780.334836,
-      1766517898.11869
+      1766518078.511981
     ],
     "spam_count": 0,
     "warnings_given": 0,
