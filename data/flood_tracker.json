@@ -1823,9 +1823,10 @@
     "is_premium": false
   },
   "503392432": {
-    "last_message_time": 1766448854.696277,
+    "last_message_time": 1766448869.052439,
     "message_times": [
-      1766448854.696277
+      1766448854.696277,
+      1766448869.052439
     ],
     "spam_count": 0,
     "warnings_given": 0,
