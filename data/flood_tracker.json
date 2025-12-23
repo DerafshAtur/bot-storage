@@ -1834,10 +1834,11 @@
     "is_premium": false
   },
   "5290236187": {
-    "last_message_time": 1766449118.620682,
+    "last_message_time": 1766449126.418508,
     "message_times": [
       1766449015.363005,
-      1766449118.620682
+      1766449118.620682,
+      1766449126.418508
     ],
     "spam_count": 0,
     "warnings_given": 0,
