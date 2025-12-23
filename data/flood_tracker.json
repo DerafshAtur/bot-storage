@@ -2121,10 +2121,11 @@
     "is_premium": false
   },
   "8331321472": {
-    "last_message_time": 1766513440.665274,
+    "last_message_time": 1766513485.064266,
     "message_times": [
       1766513390.040301,
-      1766513440.665274
+      1766513440.665274,
+      1766513485.064266
     ],
     "spam_count": 2,
     "warnings_given": 0,
