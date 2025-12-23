@@ -1,1 +1,8 @@
-{"android": [], "ios": [], "desktop": [], "last_updated": null}
+{
+  "android": [
+    "tg://proxy?server=45.14.245.128&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29t"
+  ],
+  "ios": [],
+  "desktop": [],
+  "last_updated": "2025-12-23T16:26:32.364990"
+}
