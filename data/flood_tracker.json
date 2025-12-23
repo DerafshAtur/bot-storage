@@ -2080,9 +2080,10 @@
     "is_premium": false
   },
   "6342612060": {
-    "last_message_time": 1766508796.802416,
+    "last_message_time": 1766508839.263959,
     "message_times": [
-      1766508796.802416
+      1766508796.802416,
+      1766508839.263959
     ],
     "spam_count": 0,
     "warnings_given": 0,
