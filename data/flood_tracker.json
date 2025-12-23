@@ -1858,9 +1858,10 @@
     "is_premium": false
   },
   "7602208111": {
-    "last_message_time": 1766502504.086826,
+    "last_message_time": 1766502599.219305,
     "message_times": [
-      1766502504.086826
+      1766502504.086826,
+      1766502599.219305
     ],
     "spam_count": 0,
     "warnings_given": 0,
