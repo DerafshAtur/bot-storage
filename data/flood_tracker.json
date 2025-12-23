@@ -2113,14 +2113,10 @@
   },
   "8331321472": {
     "last_message_time": 1766510452.166174,
-    "message_times": [
-      1766510452.165849,
-      1766510452.166174,
-      1766510452.179534
-    ],
-    "spam_count": 1,
-    "warnings_given": 1,
-    "blocked_until": 0,
+    "message_times": [],
+    "spam_count": 2,
+    "warnings_given": 0,
+    "blocked_until": 1766511052.387032,
     "total_warnings": 1,
     "is_premium": false
   }
