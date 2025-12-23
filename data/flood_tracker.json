@@ -1966,9 +1966,10 @@
     "is_premium": false
   },
   "5931423406": {
-    "last_message_time": 1766495127.439768,
+    "last_message_time": 1766495170.344786,
     "message_times": [
-      1766495127.439768
+      1766495127.439768,
+      1766495170.344786
     ],
     "spam_count": 0,
     "warnings_given": 0,
