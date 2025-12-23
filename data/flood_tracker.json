@@ -1534,11 +1534,9 @@
     "is_premium": false
   },
   "6201477870": {
-    "last_message_time": 1766431394.009997,
+    "last_message_time": 1766508429.084503,
     "message_times": [
-      1766431301.055987,
-      1766431343.281923,
-      1766431394.009997
+      1766508429.084503
     ],
     "spam_count": 0,
     "warnings_given": 0,
