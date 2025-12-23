@@ -136,10 +136,9 @@
     "is_premium": false
   },
   "7768282050": {
-    "last_message_time": 1766495094.206042,
+    "last_message_time": 1766518883.820152,
     "message_times": [
-      1766495094.204684,
-      1766495094.206042
+      1766518883.820152
     ],
     "spam_count": 0,
     "warnings_given": 0,
