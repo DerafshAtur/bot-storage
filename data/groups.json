@@ -6,8 +6,8 @@
     "chat_type": "supergroup",
     "discovered_via": "active_scan",
     "active": true,
-    "last_message": "2025-12-23T16:59:27.072808",
-    "message_count": 2897
+    "last_message": "2025-12-23T17:20:52.188785",
+    "message_count": 2913
   },
   "-1002177293171": {
     "title": "DLGAMES GP \ud83d\udda4\u2764",
@@ -16,8 +16,8 @@
     "chat_type": "supergroup",
     "discovered_via": "active_scan",
     "active": true,
-    "last_message": "2025-12-23T16:58:12.471947",
-    "message_count": 18425
+    "last_message": "2025-12-23T17:20:52.386481",
+    "message_count": 18650
   },
   "-1002431601784": {
     "title": "\u0628\u0627\u0646\u06a9",
@@ -26,8 +26,8 @@
     "chat_type": "supergroup",
     "discovered_via": "active_scan",
     "active": true,
-    "last_message": "2025-12-23T16:11:51.926076",
-    "message_count": 360,
+    "last_message": "2025-12-23T17:20:52.180013",
+    "message_count": 366,
     "last_checked": "2025-12-21T17:15:10.095777"
   }
 }
