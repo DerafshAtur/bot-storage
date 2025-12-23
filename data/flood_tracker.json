@@ -1977,9 +1977,10 @@
     "is_premium": false
   },
   "6439840831": {
-    "last_message_time": 1766495140.227985,
+    "last_message_time": 1766495158.039613,
     "message_times": [
-      1766495140.227985
+      1766495140.227985,
+      1766495158.039613
     ],
     "spam_count": 0,
     "warnings_given": 0,
