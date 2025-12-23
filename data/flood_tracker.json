@@ -1812,5 +1812,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "5574618203": {
+    "last_message_time": 1766448655.527001,
+    "message_times": [
+      1766448655.527001
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
