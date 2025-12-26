@@ -958,5 +958,310 @@
     "original_chat_id": 6001769473,
     "success_count": 61,
     "fail_count": 22
+  },
+  "c5c4d457": {
+    "sent_message_ids": [
+      {
+        "chat_id": 7690166784,
+        "message_id": 6647,
+        "type": "user"
+      },
+      {
+        "chat_id": 7342882313,
+        "message_id": 6648,
+        "type": "user"
+      },
+      {
+        "chat_id": 6418476044,
+        "message_id": 6649,
+        "type": "user"
+      },
+      {
+        "chat_id": 7991442462,
+        "message_id": 6650,
+        "type": "user"
+      },
+      {
+        "chat_id": 8362307670,
+        "message_id": 6651,
+        "type": "user"
+      },
+      {
+        "chat_id": 106777178,
+        "message_id": 6652,
+        "type": "user"
+      },
+      {
+        "chat_id": 6342612060,
+        "message_id": 6653,
+        "type": "user"
+      },
+      {
+        "chat_id": 2058703964,
+        "message_id": 6654,
+        "type": "user"
+      },
+      {
+        "chat_id": 7642690695,
+        "message_id": 6655,
+        "type": "user"
+      },
+      {
+        "chat_id": 5280524948,
+        "message_id": 6656,
+        "type": "user"
+      },
+      {
+        "chat_id": 5047244443,
+        "message_id": 6657,
+        "type": "user"
+      },
+      {
+        "chat_id": 116137633,
+        "message_id": 6658,
+        "type": "user"
+      },
+      {
+        "chat_id": 5931423406,
+        "message_id": 6659,
+        "type": "user"
+      },
+      {
+        "chat_id": 6641223855,
+        "message_id": 6660,
+        "type": "user"
+      },
+      {
+        "chat_id": 503392432,
+        "message_id": 6661,
+        "type": "user"
+      },
+      {
+        "chat_id": 6836635827,
+        "message_id": 6662,
+        "type": "user"
+      },
+      {
+        "chat_id": 7587014839,
+        "message_id": 6663,
+        "type": "user"
+      },
+      {
+        "chat_id": 5547619001,
+        "message_id": 6664,
+        "type": "user"
+      },
+      {
+        "chat_id": 7271316673,
+        "message_id": 6665,
+        "type": "user"
+      },
+      {
+        "chat_id": 6479025869,
+        "message_id": 6666,
+        "type": "user"
+      },
+      {
+        "chat_id": 7577908952,
+        "message_id": 6667,
+        "type": "user"
+      },
+      {
+        "chat_id": 6621621467,
+        "message_id": 6668,
+        "type": "user"
+      },
+      {
+        "chat_id": 7997861092,
+        "message_id": 6669,
+        "type": "user"
+      },
+      {
+        "chat_id": 6201477870,
+        "message_id": 6670,
+        "type": "user"
+      },
+      {
+        "chat_id": 6605327635,
+        "message_id": 6671,
+        "type": "user"
+      },
+      {
+        "chat_id": 8332907291,
+        "message_id": 6672,
+        "type": "user"
+      },
+      {
+        "chat_id": 5290236187,
+        "message_id": 6673,
+        "type": "user"
+      },
+      {
+        "chat_id": 1768377637,
+        "message_id": 6674,
+        "type": "user"
+      },
+      {
+        "chat_id": 8351251772,
+        "message_id": 6675,
+        "type": "user"
+      },
+      {
+        "chat_id": 8020397887,
+        "message_id": 6676,
+        "type": "user"
+      },
+      {
+        "chat_id": 6830157637,
+        "message_id": 6677,
+        "type": "user"
+      },
+      {
+        "chat_id": 1316095307,
+        "message_id": 6678,
+        "type": "user"
+      },
+      {
+        "chat_id": 2070260557,
+        "message_id": 6679,
+        "type": "user"
+      },
+      {
+        "chat_id": 7000565072,
+        "message_id": 6680,
+        "type": "user"
+      },
+      {
+        "chat_id": 7329179474,
+        "message_id": 6681,
+        "type": "user"
+      },
+      {
+        "chat_id": 6495775058,
+        "message_id": 6682,
+        "type": "user"
+      },
+      {
+        "chat_id": 6199449440,
+        "message_id": 6683,
+        "type": "user"
+      },
+      {
+        "chat_id": 6216040804,
+        "message_id": 6684,
+        "type": "user"
+      },
+      {
+        "chat_id": 7602208111,
+        "message_id": 6685,
+        "type": "user"
+      },
+      {
+        "chat_id": 6573505392,
+        "message_id": 6686,
+        "type": "user"
+      },
+      {
+        "chat_id": 7268301685,
+        "message_id": 6687,
+        "type": "user"
+      },
+      {
+        "chat_id": 7076797820,
+        "message_id": 6688,
+        "type": "user"
+      },
+      {
+        "chat_id": 8213088648,
+        "message_id": 6689,
+        "type": "user"
+      },
+      {
+        "chat_id": 6524585367,
+        "message_id": 6690,
+        "type": "user"
+      },
+      {
+        "chat_id": 7307091366,
+        "message_id": 6691,
+        "type": "user"
+      },
+      {
+        "chat_id": 1372670888,
+        "message_id": 6692,
+        "type": "user"
+      },
+      {
+        "chat_id": 8499008939,
+        "message_id": 6693,
+        "type": "user"
+      },
+      {
+        "chat_id": 7935681966,
+        "message_id": 6694,
+        "type": "user"
+      },
+      {
+        "chat_id": 5439641019,
+        "message_id": 6695,
+        "type": "user"
+      },
+      {
+        "chat_id": 7971211710,
+        "message_id": 6696,
+        "type": "user"
+      },
+      {
+        "chat_id": 7827806656,
+        "message_id": 6697,
+        "type": "user"
+      },
+      {
+        "chat_id": 6587150787,
+        "message_id": 6698,
+        "type": "user"
+      },
+      {
+        "chat_id": 8472123345,
+        "message_id": 6699,
+        "type": "user"
+      },
+      {
+        "chat_id": 7130725339,
+        "message_id": 6700,
+        "type": "user"
+      },
+      {
+        "chat_id": 6546418659,
+        "message_id": 6701,
+        "type": "user"
+      },
+      {
+        "chat_id": 6650319860,
+        "message_id": 6702,
+        "type": "user"
+      },
+      {
+        "chat_id": -1002610002026,
+        "message_id": 67569,
+        "type": "group"
+      },
+      {
+        "chat_id": -1002177293171,
+        "message_id": 3142371,
+        "type": "group"
+      },
+      {
+        "chat_id": -1002431601784,
+        "message_id": 78056,
+        "type": "group"
+      }
+    ],
+    "target_type": "all",
+    "timestamp": "2025-12-26T01:10:59.461528",
+    "original_message_id": 6643,
+    "original_chat_id": 6001769473,
+    "success_count": 59,
+    "fail_count": 24
   }
 }
