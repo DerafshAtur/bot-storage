@@ -2329,5 +2329,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "7107883131": {
+    "last_message_time": 1766918507.972077,
+    "message_times": [
+      1766918507.972077
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
