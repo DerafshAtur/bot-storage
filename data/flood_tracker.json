@@ -2617,10 +2617,11 @@
     "is_premium": false
   },
   "8509057591": {
-    "last_message_time": 1766958372.623187,
+    "last_message_time": 1766958396.704622,
     "message_times": [
       1766958345.722877,
-      1766958372.623187
+      1766958372.623187,
+      1766958396.704622
     ],
     "spam_count": 0,
     "warnings_given": 0,
