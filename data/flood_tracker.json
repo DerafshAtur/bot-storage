@@ -2273,9 +2273,10 @@
     "is_premium": false
   },
   "8563222388": {
-    "last_message_time": 1766914533.018516,
+    "last_message_time": 1766914571.092395,
     "message_times": [
-      1766914533.018516
+      1766914533.018516,
+      1766914571.092395
     ],
     "spam_count": 0,
     "warnings_given": 0,
