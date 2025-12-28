@@ -2312,9 +2312,11 @@
     "is_premium": false
   },
   "8429285836": {
-    "last_message_time": 1766917388.611957,
+    "last_message_time": 1766917434.855164,
     "message_times": [
-      1766917388.611957
+      1766917388.611957,
+      1766917422.217505,
+      1766917434.855164
     ],
     "spam_count": 0,
     "warnings_given": 0,
