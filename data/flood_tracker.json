@@ -2438,5 +2438,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "5993754441": {
+    "last_message_time": 1766934700.092822,
+    "message_times": [
+      1766934700.092822
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
