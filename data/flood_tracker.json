@@ -2651,9 +2651,10 @@
     "is_premium": false
   },
   "1469449734": {
-    "last_message_time": 1766960058.561769,
+    "last_message_time": 1766960077.475463,
     "message_times": [
-      1766960058.561769
+      1766960058.561769,
+      1766960077.475463
     ],
     "spam_count": 0,
     "warnings_given": 0,
