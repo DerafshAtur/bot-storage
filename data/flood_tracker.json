@@ -2502,9 +2502,10 @@
     "is_premium": false
   },
   "6820270458": {
-    "last_message_time": 1766939615.545199,
+    "last_message_time": 1766939641.33174,
     "message_times": [
-      1766939615.545199
+      1766939615.545199,
+      1766939641.33174
     ],
     "spam_count": 0,
     "warnings_given": 0,
