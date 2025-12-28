@@ -2452,10 +2452,11 @@
     "is_premium": false
   },
   "6810744046": {
-    "last_message_time": 1766936057.707958,
+    "last_message_time": 1766936089.899605,
     "message_times": [
       1766936051.348654,
-      1766936057.707958
+      1766936057.707958,
+      1766936089.899605
     ],
     "spam_count": 0,
     "warnings_given": 0,
