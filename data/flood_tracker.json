@@ -2289,10 +2289,11 @@
     "is_premium": false
   },
   "8057113250": {
-    "last_message_time": 1766915425.886175,
+    "last_message_time": 1766915449.409398,
     "message_times": [
       1766915371.068643,
-      1766915425.886175
+      1766915425.886175,
+      1766915449.409398
     ],
     "spam_count": 0,
     "warnings_given": 0,
