@@ -2407,5 +2407,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "7462858140": {
+    "last_message_time": 1766925606.742881,
+    "message_times": [
+      1766925606.742881
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
