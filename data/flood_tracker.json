@@ -2450,5 +2450,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "6810744046": {
+    "last_message_time": 1766936051.348654,
+    "message_times": [
+      1766936051.348654
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
