@@ -2548,10 +2548,11 @@
     "is_premium": false
   },
   "6572524756": {
-    "last_message_time": 1766944944.643303,
+    "last_message_time": 1766944951.771558,
     "message_times": [
       1766944921.708379,
-      1766944944.643303
+      1766944944.643303,
+      1766944951.771558
     ],
     "spam_count": 0,
     "warnings_given": 0,
