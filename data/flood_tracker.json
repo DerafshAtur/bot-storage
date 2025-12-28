@@ -2310,5 +2310,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "8429285836": {
+    "last_message_time": 1766917388.611957,
+    "message_times": [
+      1766917388.611957
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
