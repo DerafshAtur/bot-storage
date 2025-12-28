@@ -662,10 +662,9 @@
     "is_premium": false
   },
   "6479025869": {
-    "last_message_time": 1766495273.723973,
+    "last_message_time": 1766920493.738707,
     "message_times": [
-      1766495228.209962,
-      1766495273.723973
+      1766920493.738707
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -2335,6 +2334,15 @@
     "warnings_given": 0,
     "blocked_until": 0,
     "total_warnings": 0,
+    "is_premium": false
+  },
+  "7627487704": {
+    "last_message_time": 1766920467.434959,
+    "message_times": [],
+    "spam_count": 2,
+    "warnings_given": 0,
+    "blocked_until": 1766921067.445032,
+    "total_warnings": 1,
     "is_premium": false
   }
 }
