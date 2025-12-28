@@ -146,8 +146,8 @@
   "2f13a0ff": {
     "player1": 2022360747,
     "player1_name": "PutinSaidDonaldTrumpIsGenius",
-    "player2": null,
-    "player2_name": null,
+    "player2": 7346648236,
+    "player2_name": "FJ_210",
     "current_player": 2022360747,
     "current_player_name": "PutinSaidDonaldTrumpIsGenius",
     "board": [
@@ -161,7 +161,7 @@
       " ",
       " "
     ],
-    "status": "waiting",
+    "status": "active",
     "chat_id": -1002177293171,
     "message_id": 3152267,
     "created_at": "2025-12-28T10:19:36.210141",
