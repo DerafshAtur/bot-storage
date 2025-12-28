@@ -2384,10 +2384,11 @@
     "is_premium": false
   },
   "7992378061": {
-    "last_message_time": 1766923441.064283,
+    "last_message_time": 1766923447.706667,
     "message_times": [
       1766923390.182416,
-      1766923441.064283
+      1766923441.064283,
+      1766923447.706667
     ],
     "spam_count": 0,
     "warnings_given": 0,
