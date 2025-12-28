@@ -2242,15 +2242,17 @@
     "is_premium": false
   },
   "7707115417": {
-    "last_message_time": 1766909879.113068,
+    "last_message_time": 1766909879.224177,
     "message_times": [
       1766909862.81291,
-      1766909879.113068
+      1766909879.113068,
+      1766909879.224177,
+      1766909880.982706
     ],
-    "spam_count": 0,
-    "warnings_given": 0,
+    "spam_count": 1,
+    "warnings_given": 1,
     "blocked_until": 0,
-    "total_warnings": 0,
+    "total_warnings": 1,
     "is_premium": false
   }
 }
