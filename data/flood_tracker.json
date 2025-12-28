@@ -2361,9 +2361,10 @@
     "is_premium": false
   },
   "7942783508": {
-    "last_message_time": 1766920675.833011,
+    "last_message_time": 1766920711.817877,
     "message_times": [
-      1766920675.833011
+      1766920675.833011,
+      1766920711.817877
     ],
     "spam_count": 0,
     "warnings_given": 0,
