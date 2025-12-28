@@ -2347,10 +2347,11 @@
     "is_premium": false
   },
   "7021276860": {
-    "last_message_time": 1766922870.198029,
+    "last_message_time": 1766922880.449695,
     "message_times": [
       1766922832.735466,
-      1766922870.198029
+      1766922870.198029,
+      1766922880.449695
     ],
     "spam_count": 0,
     "warnings_given": 0,
