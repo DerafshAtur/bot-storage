@@ -2396,5 +2396,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "7465857994": {
+    "last_message_time": 1766923997.195121,
+    "message_times": [
+      1766923997.195121
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
