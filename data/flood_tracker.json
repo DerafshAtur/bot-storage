@@ -3002,10 +3002,11 @@
     "is_premium": false
   },
   "232656006": {
-    "last_message_time": 1767027061.592757,
+    "last_message_time": 1767027102.327141,
     "message_times": [
       1767026986.639527,
-      1767027061.592757
+      1767027061.592757,
+      1767027102.327141
     ],
     "spam_count": 0,
     "warnings_given": 0,
