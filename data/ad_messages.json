@@ -1263,5 +1263,30 @@
     "original_chat_id": 6001769473,
     "success_count": 59,
     "fail_count": 24
+  },
+  "7b77521d": {
+    "sent_message_ids": [
+      {
+        "chat_id": -1002610002026,
+        "message_id": 68176,
+        "type": "group"
+      },
+      {
+        "chat_id": -1002177293171,
+        "message_id": 3161541,
+        "type": "group"
+      },
+      {
+        "chat_id": -1002431601784,
+        "message_id": 78890,
+        "type": "group"
+      }
+    ],
+    "target_type": "groups",
+    "timestamp": "2025-12-29T14:47:43.099932",
+    "original_message_id": 7835,
+    "original_chat_id": 6001769473,
+    "success_count": 3,
+    "fail_count": 0
   }
 }
