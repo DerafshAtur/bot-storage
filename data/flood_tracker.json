@@ -2923,9 +2923,10 @@
     "is_premium": false
   },
   "8553453690": {
-    "last_message_time": 1767020685.887709,
+    "last_message_time": 1767020749.98714,
     "message_times": [
-      1767020685.887709
+      1767020685.887709,
+      1767020749.98714
     ],
     "spam_count": 0,
     "warnings_given": 0,
