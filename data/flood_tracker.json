@@ -2938,10 +2938,11 @@
     "is_premium": false
   },
   "8412283580": {
-    "last_message_time": 1767021105.845928,
+    "last_message_time": 1767021114.363592,
     "message_times": [
       1767021069.604024,
-      1767021105.845928
+      1767021105.845928,
+      1767021114.363592
     ],
     "spam_count": 0,
     "warnings_given": 0,
