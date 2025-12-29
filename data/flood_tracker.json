@@ -3231,10 +3231,11 @@
     "is_premium": false
   },
   "8209093461": {
-    "last_message_time": 1767037283.946295,
+    "last_message_time": 1767037289.275177,
     "message_times": [
       1767037244.976917,
-      1767037283.946295
+      1767037283.946295,
+      1767037289.275177
     ],
     "spam_count": 0,
     "warnings_given": 0,
