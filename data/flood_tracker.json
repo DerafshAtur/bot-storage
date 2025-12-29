@@ -3014,9 +3014,10 @@
     "is_premium": false
   },
   "372515141": {
-    "last_message_time": 1767027868.806229,
+    "last_message_time": 1767027887.771771,
     "message_times": [
-      1767027868.806229
+      1767027868.806229,
+      1767027887.771771
     ],
     "spam_count": 0,
     "warnings_given": 0,
