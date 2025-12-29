@@ -2879,9 +2879,10 @@
     "is_premium": false
   },
   "7399402036": {
-    "last_message_time": 1767012958.753221,
+    "last_message_time": 1767012970.914666,
     "message_times": [
-      1767012958.753221
+      1767012958.753221,
+      1767012970.914666
     ],
     "spam_count": 0,
     "warnings_given": 0,
