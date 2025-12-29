@@ -2526,10 +2526,9 @@
     "is_premium": false
   },
   "6812898246": {
-    "last_message_time": 1766944097.073528,
+    "last_message_time": 1767008545.151158,
     "message_times": [
-      1766944011.171885,
-      1766944097.073528
+      1767008545.151158
     ],
     "spam_count": 0,
     "warnings_given": 0,
