@@ -2963,9 +2963,10 @@
     "is_premium": false
   },
   "8275486597": {
-    "last_message_time": 1767023452.070977,
+    "last_message_time": 1767023494.779354,
     "message_times": [
-      1767023452.070977
+      1767023452.070977,
+      1767023494.779354
     ],
     "spam_count": 0,
     "warnings_given": 0,
