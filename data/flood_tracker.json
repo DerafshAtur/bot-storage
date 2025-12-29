@@ -3138,9 +3138,10 @@
     "is_premium": false
   },
   "5874164380": {
-    "last_message_time": 1767032878.394075,
+    "last_message_time": 1767032977.581356,
     "message_times": [
-      1767032878.394075
+      1767032878.394075,
+      1767032977.581356
     ],
     "spam_count": 0,
     "warnings_given": 0,
