@@ -2899,11 +2899,9 @@
     "is_premium": false
   },
   "8374402200": {
-    "last_message_time": 1767020263.284265,
+    "last_message_time": 1767020577.633642,
     "message_times": [
-      1767020176.715216,
-      1767020232.297575,
-      1767020263.284265
+      1767020577.633642
     ],
     "spam_count": 0,
     "warnings_given": 0,
