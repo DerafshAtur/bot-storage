@@ -2850,10 +2850,11 @@
     "is_premium": false
   },
   "6509384392": {
-    "last_message_time": 1767011131.463823,
+    "last_message_time": 1767011137.492601,
     "message_times": [
       1767011116.710358,
-      1767011131.463823
+      1767011131.463823,
+      1767011137.492601
     ],
     "spam_count": 0,
     "warnings_given": 0,
