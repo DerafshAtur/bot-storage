@@ -3048,10 +3048,11 @@
     "is_premium": false
   },
   "6395999918": {
-    "last_message_time": 1767030014.9857,
+    "last_message_time": 1767030042.354216,
     "message_times": [
       1767029999.074601,
-      1767030014.9857
+      1767030014.9857,
+      1767030042.354216
     ],
     "spam_count": 0,
     "warnings_given": 0,
