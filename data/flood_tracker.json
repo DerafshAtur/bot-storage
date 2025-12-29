@@ -2952,11 +2952,9 @@
     "is_premium": false
   },
   "7667431282": {
-    "last_message_time": 1767021720.017404,
+    "last_message_time": 1767021879.019073,
     "message_times": [
-      1767021604.280295,
-      1767021681.748987,
-      1767021720.017404
+      1767021879.019073
     ],
     "spam_count": 0,
     "warnings_given": 0,
