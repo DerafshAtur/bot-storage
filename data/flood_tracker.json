@@ -2774,9 +2774,10 @@
     "is_premium": false
   },
   "7723560812": {
-    "last_message_time": 1766999530.041838,
+    "last_message_time": 1766999565.422013,
     "message_times": [
-      1766999530.041838
+      1766999530.041838,
+      1766999565.422013
     ],
     "spam_count": 0,
     "warnings_given": 0,
