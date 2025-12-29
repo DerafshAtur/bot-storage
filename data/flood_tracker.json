@@ -2712,9 +2712,10 @@
     "is_premium": false
   },
   "1877446293": {
-    "last_message_time": 1766987603.47765,
+    "last_message_time": 1766987610.897263,
     "message_times": [
-      1766987603.47765
+      1766987603.47765,
+      1766987610.897263
     ],
     "spam_count": 0,
     "warnings_given": 0,
