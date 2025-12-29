@@ -2923,12 +2923,24 @@
     "is_premium": false
   },
   "8553453690": {
-    "last_message_time": 1767020826.67681,
+    "last_message_time": 1767020869.865314,
     "message_times": [
       1767020749.98714,
       1767020793.225608,
       1767020821.471861,
-      1767020826.67681
+      1767020826.67681,
+      1767020869.865314
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "8412283580": {
+    "last_message_time": 1767021069.604024,
+    "message_times": [
+      1767021069.604024
     ],
     "spam_count": 0,
     "warnings_given": 0,
