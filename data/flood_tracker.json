@@ -3086,10 +3086,11 @@
     "is_premium": false
   },
   "6708473509": {
-    "last_message_time": 1767031636.147818,
+    "last_message_time": 1767031653.55137,
     "message_times": [
       1767031613.151573,
-      1767031636.147818
+      1767031636.147818,
+      1767031653.55137
     ],
     "spam_count": 0,
     "warnings_given": 0,
