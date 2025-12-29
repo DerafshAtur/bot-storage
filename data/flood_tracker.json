@@ -2832,10 +2832,11 @@
     "is_premium": false
   },
   "8210638455": {
-    "last_message_time": 1767010911.139542,
+    "last_message_time": 1767010967.913685,
     "message_times": [
       1767010861.962732,
-      1767010911.139542
+      1767010911.139542,
+      1767010967.913685
     ],
     "spam_count": 0,
     "warnings_given": 0,
