@@ -2689,9 +2689,10 @@
     "is_premium": false
   },
   "8371370709": {
-    "last_message_time": 1766981577.511986,
+    "last_message_time": 1766981616.921686,
     "message_times": [
-      1766981577.511986
+      1766981577.511986,
+      1766981616.921686
     ],
     "spam_count": 0,
     "warnings_given": 0,
