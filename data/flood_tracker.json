@@ -3059,5 +3059,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "7925032027": {
+    "last_message_time": 1767030557.953516,
+    "message_times": [
+      1767030557.953516
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
