@@ -3232,17 +3232,16 @@
     "is_premium": false
   },
   "8209093461": {
-    "last_message_time": 1767037522.010526,
+    "last_message_time": 1767082420.692529,
     "message_times": [
-      1767037492.893232,
-      1767037501.266248,
-      1767037516.447504,
-      1767037522.010526
+      1767082420.687007,
+      1767082420.692529,
+      1767082421.686074
     ],
-    "spam_count": 0,
-    "warnings_given": 0,
+    "spam_count": 1,
+    "warnings_given": 1,
     "blocked_until": 0,
-    "total_warnings": 0,
+    "total_warnings": 1,
     "is_premium": false
   },
   "7473630940": {
