@@ -3410,9 +3410,10 @@
     "is_premium": false
   },
   "6104693321": {
-    "last_message_time": 1767119993.466789,
+    "last_message_time": 1767120017.41379,
     "message_times": [
-      1767119993.466789
+      1767119993.466789,
+      1767120017.41379
     ],
     "spam_count": 0,
     "warnings_given": 0,
