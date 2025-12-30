@@ -3373,9 +3373,10 @@
     "is_premium": false
   },
   "7378745111": {
-    "last_message_time": 1767119345.279564,
+    "last_message_time": 1767119412.993192,
     "message_times": [
-      1767119345.279564
+      1767119345.279564,
+      1767119412.993192
     ],
     "spam_count": 0,
     "warnings_given": 0,
