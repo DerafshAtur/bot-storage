@@ -2904,10 +2904,9 @@
     "is_premium": false
   },
   "8374402200": {
-    "last_message_time": 1767020602.714167,
+    "last_message_time": 1767082428.355168,
     "message_times": [
-      1767020577.633642,
-      1767020602.714167
+      1767082428.355168
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -3071,17 +3070,12 @@
     "is_premium": false
   },
   "7887248919": {
-    "last_message_time": 1767031343.773374,
-    "message_times": [
-      1767031251.335558,
-      1767031296.837323,
-      1767031328.537685,
-      1767031343.773374
-    ],
-    "spam_count": 0,
+    "last_message_time": 1767082428.36934,
+    "message_times": [],
+    "spam_count": 2,
     "warnings_given": 0,
-    "blocked_until": 0,
-    "total_warnings": 0,
+    "blocked_until": 1767083028.399564,
+    "total_warnings": 1,
     "is_premium": false
   },
   "6708473509": {
@@ -3279,6 +3273,53 @@
     "last_message_time": 1767082426.264873,
     "message_times": [
       1767082426.264873
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "6447740815": {
+    "last_message_time": 1767082427.370698,
+    "message_times": [
+      1767082427.370121,
+      1767082427.370698
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "7335772581": {
+    "last_message_time": 1767082428.471985,
+    "message_times": [
+      1767082428.394874,
+      1767082428.471985
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "6544377383": {
+    "last_message_time": 1767082428.47141,
+    "message_times": [
+      1767082428.469407,
+      1767082428.47141
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "5703292344": {
+    "last_message_time": 1767082428.470263,
+    "message_times": [
+      1767082428.470263
     ],
     "spam_count": 0,
     "warnings_given": 0,
