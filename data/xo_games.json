@@ -1,28 +1,4 @@
 {
-  "0ce77756": {
-    "player1": 6509384392,
-    "player1_name": "m_gholami8888",
-    "player2": null,
-    "player2_name": null,
-    "current_player": 6509384392,
-    "current_player_name": "m_gholami8888",
-    "board": [
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " "
-    ],
-    "status": "waiting",
-    "chat_id": 6509384392,
-    "message_id": 7756,
-    "created_at": "2025-12-29T12:26:09.921798",
-    "last_move": null
-  },
   "a7b3d6e7": {
     "player1": 7667431282,
     "player1_name": "Qazizada_s_003",
