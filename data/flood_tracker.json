@@ -2275,14 +2275,10 @@
     "is_premium": false
   },
   "8563222388": {
-    "last_message_time": 1766914668.102406,
+    "last_message_time": 1767131122.962322,
     "message_times": [
-      1766914571.092395,
-      1766914607.944156,
-      1766914614.272971,
-      1766914646.879855,
-      1766914663.560227,
-      1766914668.102406
+      1767131122.952631,
+      1767131122.962322
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -3148,17 +3144,16 @@
     "is_premium": false
   },
   "7687619677": {
-    "last_message_time": 1767033959.268293,
+    "last_message_time": 1767131122.969983,
     "message_times": [
-      1767033842.399985,
-      1767033867.411964,
-      1767033922.69587,
-      1767033959.268293
+      1767131122.451885,
+      1767131122.969983,
+      1767131123.305239
     ],
-    "spam_count": 0,
-    "warnings_given": 0,
+    "spam_count": 1,
+    "warnings_given": 1,
     "blocked_until": 0,
-    "total_warnings": 0,
+    "total_warnings": 1,
     "is_premium": false
   },
   "7325760574": {
@@ -3413,6 +3408,18 @@
       1767120017.41379,
       1767120036.259672,
       1767120101.250614
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "5476215241": {
+    "last_message_time": 1767131123.34883,
+    "message_times": [
+      1767131123.243516,
+      1767131123.34883
     ],
     "spam_count": 0,
     "warnings_given": 0,
