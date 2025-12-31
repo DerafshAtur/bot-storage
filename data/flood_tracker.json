@@ -3693,10 +3693,9 @@
     "is_premium": false
   },
   "6597746458": {
-    "last_message_time": 1767190242.960108,
+    "last_message_time": 1767198533.756375,
     "message_times": [
-      1767190180.675714,
-      1767190242.960108
+      1767198533.756375
     ],
     "spam_count": 0,
     "warnings_given": 0,
