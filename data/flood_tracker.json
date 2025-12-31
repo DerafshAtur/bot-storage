@@ -3717,9 +3717,10 @@
     "is_premium": false
   },
   "7147555967": {
-    "last_message_time": 1767196232.404922,
+    "last_message_time": 1767196288.853072,
     "message_times": [
-      1767196232.404922
+      1767196232.404922,
+      1767196288.853072
     ],
     "spam_count": 0,
     "warnings_given": 0,
