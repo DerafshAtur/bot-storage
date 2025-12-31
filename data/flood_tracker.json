@@ -3570,9 +3570,10 @@
     "is_premium": false
   },
   "7672704569": {
-    "last_message_time": 1767163548.855951,
+    "last_message_time": 1767163611.325261,
     "message_times": [
-      1767163548.855951
+      1767163548.855951,
+      1767163611.325261
     ],
     "spam_count": 0,
     "warnings_given": 0,
