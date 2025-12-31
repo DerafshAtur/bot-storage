@@ -3518,5 +3518,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "8537891353": {
+    "last_message_time": 1767159209.489419,
+    "message_times": [
+      1767159209.489419
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
