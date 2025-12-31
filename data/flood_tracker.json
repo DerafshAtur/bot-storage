@@ -3832,9 +3832,10 @@
     "is_premium": false
   },
   "5847373478": {
-    "last_message_time": 1767215020.723589,
+    "last_message_time": 1767215074.908278,
     "message_times": [
-      1767215020.723589
+      1767215020.723589,
+      1767215074.908278
     ],
     "spam_count": 0,
     "warnings_given": 0,
