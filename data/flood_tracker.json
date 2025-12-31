@@ -2380,10 +2380,9 @@
     "is_premium": false
   },
   "7992378061": {
-    "last_message_time": 1767213837.499263,
+    "last_message_time": 1767214272.605523,
     "message_times": [
-      1767213742.692711,
-      1767213837.499263
+      1767214272.605523
     ],
     "spam_count": 0,
     "warnings_given": 0,
