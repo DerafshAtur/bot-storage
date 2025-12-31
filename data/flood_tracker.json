@@ -3544,5 +3544,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "6802905549": {
+    "last_message_time": 1767160052.340982,
+    "message_times": [
+      1767160052.340982
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
