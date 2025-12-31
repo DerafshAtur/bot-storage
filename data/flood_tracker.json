@@ -3632,9 +3632,10 @@
     "is_premium": false
   },
   "5983339156": {
-    "last_message_time": 1767179653.457308,
+    "last_message_time": 1767179674.089869,
     "message_times": [
-      1767179653.457308
+      1767179653.457308,
+      1767179674.089869
     ],
     "spam_count": 0,
     "warnings_given": 0,
