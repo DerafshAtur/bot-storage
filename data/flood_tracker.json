@@ -3506,9 +3506,10 @@
     "is_premium": false
   },
   "8305743506": {
-    "last_message_time": 1767158877.63178,
+    "last_message_time": 1767158891.927858,
     "message_times": [
-      1767158877.63178
+      1767158877.63178,
+      1767158891.927858
     ],
     "spam_count": 0,
     "warnings_given": 0,
