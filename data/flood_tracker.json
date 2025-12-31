@@ -3654,9 +3654,10 @@
     "is_premium": false
   },
   "8212345106": {
-    "last_message_time": 1767181330.570925,
+    "last_message_time": 1767181345.48765,
     "message_times": [
-      1767181330.570925
+      1767181330.570925,
+      1767181345.48765
     ],
     "spam_count": 0,
     "warnings_given": 0,
