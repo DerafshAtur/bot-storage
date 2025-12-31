@@ -3619,10 +3619,11 @@
     "is_premium": false
   },
   "5887760495": {
-    "last_message_time": 1767179316.917481,
+    "last_message_time": 1767179330.228293,
     "message_times": [
       1767179290.016068,
-      1767179316.917481
+      1767179316.917481,
+      1767179330.228293
     ],
     "spam_count": 0,
     "warnings_given": 0,
