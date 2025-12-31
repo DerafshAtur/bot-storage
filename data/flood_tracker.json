@@ -3588,9 +3588,10 @@
     "is_premium": false
   },
   "6960320072": {
-    "last_message_time": 1767175542.419868,
+    "last_message_time": 1767175604.253254,
     "message_times": [
-      1767175542.419868
+      1767175542.419868,
+      1767175604.253254
     ],
     "spam_count": 0,
     "warnings_given": 0,
