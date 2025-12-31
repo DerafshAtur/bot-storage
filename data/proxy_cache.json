@@ -4,10 +4,11 @@
     "tg://proxy?server=87.248.149.136&port=443&secret=dd79e344818749bd7ac519130220c25d09"
   ],
   "ios": [
-    "https://t.me/proxy?server=tg01.bixvpn-free.com&port=2288&secret=ddb05d30c154ea032654041d5832906857"
+    "https://t.me/proxy?server=tg01.bixvpn-free.com&port=2288&secret=ddb05d30c154ea032654041d5832906857",
+    "https://t.me/proxy?server=87.248.149.136&port=443&secret=dd79e344818749bd7ac519130220c25d09"
   ],
   "desktop": [
     "tg://proxy?server=tg01.bixvpn-free.com&port=2288&secret=ddb05d30c154ea032654041d5832906857"
   ],
-  "last_updated": "2025-12-31T17:36:16.341001"
+  "last_updated": "2025-12-31T17:36:56.684669"
 }
