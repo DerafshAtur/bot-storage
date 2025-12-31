@@ -3114,9 +3114,10 @@
     "is_premium": false
   },
   "5898018828": {
-    "last_message_time": 1767171031.023494,
+    "last_message_time": 1767171059.358016,
     "message_times": [
-      1767171031.023494
+      1767171031.023494,
+      1767171059.358016
     ],
     "spam_count": 0,
     "warnings_given": 0,
