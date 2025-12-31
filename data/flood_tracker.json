@@ -3116,10 +3116,11 @@
     "is_premium": false
   },
   "5898018828": {
-    "last_message_time": 1767171059.358016,
+    "last_message_time": 1767171110.609455,
     "message_times": [
       1767171031.023494,
-      1767171059.358016
+      1767171059.358016,
+      1767171110.609455
     ],
     "spam_count": 0,
     "warnings_given": 0,
