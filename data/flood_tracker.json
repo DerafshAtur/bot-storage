@@ -1074,10 +1074,11 @@
     "is_premium": false
   },
   "6979122561": {
-    "last_message_time": 1767171084.035814,
+    "last_message_time": 1767171104.631286,
     "message_times": [
       1767171052.699852,
-      1767171084.035814
+      1767171084.035814,
+      1767171104.631286
     ],
     "spam_count": 0,
     "warnings_given": 0,
