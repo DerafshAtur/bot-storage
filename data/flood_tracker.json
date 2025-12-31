@@ -3680,9 +3680,10 @@
     "is_premium": false
   },
   "8506407320": {
-    "last_message_time": 1767188012.964532,
+    "last_message_time": 1767188056.307141,
     "message_times": [
-      1767188012.964532
+      1767188012.964532,
+      1767188056.307141
     ],
     "spam_count": 0,
     "warnings_given": 0,
