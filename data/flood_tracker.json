@@ -3392,9 +3392,10 @@
     "is_premium": false
   },
   "8534760643": {
-    "last_message_time": 1767162928.523667,
+    "last_message_time": 1767162965.085095,
     "message_times": [
-      1767162928.523667
+      1767162928.523667,
+      1767162965.085095
     ],
     "spam_count": 0,
     "warnings_given": 0,
