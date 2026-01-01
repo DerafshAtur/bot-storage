@@ -4280,9 +4280,10 @@
     "is_premium": false
   },
   "607262495": {
-    "last_message_time": 1767281572.303708,
+    "last_message_time": 1767281640.402563,
     "message_times": [
-      1767281572.303708
+      1767281572.303708,
+      1767281640.402563
     ],
     "spam_count": 0,
     "warnings_given": 0,
