@@ -4246,9 +4246,10 @@
     "is_premium": false
   },
   "5452011215": {
-    "last_message_time": 1767281804.117706,
+    "last_message_time": 1767281823.276807,
     "message_times": [
-      1767281804.117706
+      1767281804.117706,
+      1767281823.276807
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -4268,9 +4269,10 @@
     "is_premium": false
   },
   "6036750885": {
-    "last_message_time": 1767281776.075768,
+    "last_message_time": 1767281804.823257,
     "message_times": [
-      1767281776.075768
+      1767281776.075768,
+      1767281804.823257
     ],
     "spam_count": 0,
     "warnings_given": 0,
