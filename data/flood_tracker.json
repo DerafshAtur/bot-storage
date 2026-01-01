@@ -4272,10 +4272,9 @@
     "is_premium": false
   },
   "6036750885": {
-    "last_message_time": 1767281804.823257,
+    "last_message_time": 1767299755.659468,
     "message_times": [
-      1767281776.075768,
-      1767281804.823257
+      1767299755.659468
     ],
     "spam_count": 0,
     "warnings_given": 0,
