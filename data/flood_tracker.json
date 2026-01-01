@@ -3190,10 +3190,9 @@
     "is_premium": false
   },
   "8024974927": {
-    "last_message_time": 1767196342.197185,
+    "last_message_time": 1767259237.436041,
     "message_times": [
-      1767196294.085123,
-      1767196342.197185
+      1767259237.436041
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -4009,10 +4008,11 @@
     "is_premium": false
   },
   "6089002371": {
-    "last_message_time": 1767259203.081706,
+    "last_message_time": 1767259241.752004,
     "message_times": [
       1767259156.96295,
-      1767259203.081706
+      1767259203.081706,
+      1767259241.752004
     ],
     "spam_count": 0,
     "warnings_given": 0,
