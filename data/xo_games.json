@@ -550,5 +550,29 @@
     "message_id": 4622,
     "created_at": "2026-01-01T15:36:16.573401",
     "last_move": null
+  },
+  "e0da34ee": {
+    "player1": 5452011215,
+    "player1_name": "Matin_eli",
+    "player2": null,
+    "player2_name": null,
+    "current_player": 5452011215,
+    "current_player_name": "Matin_eli",
+    "board": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "status": "waiting",
+    "chat_id": -1002448717658,
+    "message_id": 4625,
+    "created_at": "2026-01-01T15:36:44.615868",
+    "last_move": null
   }
 }
