@@ -3922,10 +3922,9 @@
     "is_premium": false
   },
   "2068693094": {
-    "last_message_time": 1767251877.986171,
+    "last_message_time": 1767252104.911615,
     "message_times": [
-      1767251843.86126,
-      1767251877.986171
+      1767252104.911615
     ],
     "spam_count": 0,
     "warnings_given": 0,
