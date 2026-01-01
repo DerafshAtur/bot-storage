@@ -3097,10 +3097,9 @@
     "is_premium": false
   },
   "8526302464": {
-    "last_message_time": 1767032230.7496,
+    "last_message_time": 1767288593.369283,
     "message_times": [
-      1767032168.520815,
-      1767032230.7496
+      1767288593.369283
     ],
     "spam_count": 0,
     "warnings_given": 0,
