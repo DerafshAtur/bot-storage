@@ -4108,5 +4108,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "5578461925": {
+    "last_message_time": 1767270781.304894,
+    "message_times": [
+      1767270781.304894
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
