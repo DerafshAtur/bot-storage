@@ -70,5 +70,29 @@
     "message_id": 9483,
     "created_at": "2025-12-31T21:53:41.579951",
     "last_move": null
+  },
+  "337d9a5d": {
+    "player1": 6139419355,
+    "player1_name": "Curym",
+    "player2": null,
+    "player2_name": null,
+    "current_player": 6139419355,
+    "current_player_name": "Curym",
+    "board": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "status": "waiting",
+    "chat_id": -1003403824024,
+    "message_id": 21,
+    "created_at": "2026-01-01T09:18:37.887052",
+    "last_move": null
   }
 }
