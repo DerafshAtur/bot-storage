@@ -4051,9 +4051,10 @@
     "is_premium": false
   },
   "981318486": {
-    "last_message_time": 1767263528.600497,
+    "last_message_time": 1767263541.020045,
     "message_times": [
-      1767263528.600497
+      1767263528.600497,
+      1767263541.020045
     ],
     "spam_count": 0,
     "warnings_given": 0,
