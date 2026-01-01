@@ -460,10 +460,10 @@
     "player1_name": "QueenAsl",
     "player2": 6036750885,
     "player2_name": "\ud835\udcb6\ud835\udcc2\ud835\udcbe\ud835\udcc7",
-    "current_player": 6036750885,
-    "current_player_name": "\ud835\udcb6\ud835\udcc2\ud835\udcbe\ud835\udcc7",
+    "current_player": 607262495,
+    "current_player_name": "QueenAsl",
     "board": [
-      " ",
+      "\u2b55\ufe0f",
       "\u274c",
       "\u274c",
       " ",
@@ -477,6 +477,6 @@
     "chat_id": -1002448717658,
     "message_id": 4597,
     "created_at": "2026-01-01T15:32:52.726979",
-    "last_move": "2026-01-01T15:33:04.705945"
+    "last_move": "2026-01-01T15:33:07.659419"
   }
 }
