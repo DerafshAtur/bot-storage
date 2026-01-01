@@ -4246,10 +4246,11 @@
     "is_premium": false
   },
   "5452011215": {
-    "last_message_time": 1767280593.305313,
+    "last_message_time": 1767280599.727712,
     "message_times": [
       1767280517.674128,
-      1767280593.305313
+      1767280593.305313,
+      1767280599.727712
     ],
     "spam_count": 0,
     "warnings_given": 0,
