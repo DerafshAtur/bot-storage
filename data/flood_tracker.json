@@ -4153,10 +4153,11 @@
     "is_premium": false
   },
   "8434936798": {
-    "last_message_time": 1767277120.785399,
+    "last_message_time": 1767277148.770798,
     "message_times": [
       1767277089.240526,
-      1767277120.785399
+      1767277120.785399,
+      1767277148.770798
     ],
     "spam_count": 0,
     "warnings_given": 0,
