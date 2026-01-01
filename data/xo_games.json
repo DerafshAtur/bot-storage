@@ -238,5 +238,29 @@
     "message_id": 35935,
     "created_at": "2026-01-01T10:25:23.318384",
     "last_move": null
+  },
+  "83a8b292": {
+    "player1": 6538849314,
+    "player1_name": "..",
+    "player2": null,
+    "player2_name": null,
+    "current_player": 6538849314,
+    "current_player_name": "..",
+    "board": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "status": "waiting",
+    "chat_id": 6538849314,
+    "message_id": 9788,
+    "created_at": "2026-01-01T12:59:13.692588",
+    "last_move": null
   }
 }
