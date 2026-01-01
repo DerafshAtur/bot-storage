@@ -300,15 +300,15 @@
       "\u2b55\ufe0f",
       "\u274c",
       "\u274c",
-      " ",
+      "\u274c",
       "\u2b55\ufe0f",
       "\u2b55\ufe0f",
       "\u274c"
     ],
-    "status": "active",
+    "status": "finished",
     "chat_id": -1003602426529,
     "message_id": 1055,
     "created_at": "2026-01-01T15:01:57.969400",
-    "last_move": "2026-01-01T15:02:29.804612"
+    "last_move": "2026-01-01T15:02:32.324103"
   }
 }
