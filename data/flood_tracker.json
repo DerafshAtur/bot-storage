@@ -3909,9 +3909,10 @@
     "is_premium": false
   },
   "5580019468": {
-    "last_message_time": 1767246913.390255,
+    "last_message_time": 1767246941.172214,
     "message_times": [
-      1767246913.390255
+      1767246913.390255,
+      1767246941.172214
     ],
     "spam_count": 0,
     "warnings_given": 0,
