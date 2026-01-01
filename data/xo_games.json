@@ -124,8 +124,8 @@
     "player1_name": "Leondrio",
     "player2": 8114849099,
     "player2_name": "ax",
-    "current_player": 8406381226,
-    "current_player_name": "Leondrio",
+    "current_player": 8114849099,
+    "current_player_name": "ax",
     "board": [
       " ",
       "\u2b55\ufe0f",
@@ -134,14 +134,14 @@
       "\u2b55\ufe0f",
       "\u2b55\ufe0f",
       " ",
-      " ",
+      "\u274c",
       "\u274c"
     ],
     "status": "active",
     "chat_id": -1002803134121,
     "message_id": 30377,
     "created_at": "2026-01-01T10:00:17.313546",
-    "last_move": "2026-01-01T10:01:08.525894"
+    "last_move": "2026-01-01T10:01:11.344789"
   },
   "c9068529": {
     "player1": 8406381226,
