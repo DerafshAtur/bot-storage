@@ -4306,9 +4306,10 @@
     "is_premium": false
   },
   "2140918697": {
-    "last_message_time": 1767288969.134733,
+    "last_message_time": 1767288980.999684,
     "message_times": [
-      1767288969.134733
+      1767288969.134733,
+      1767288980.999684
     ],
     "spam_count": 0,
     "warnings_given": 0,
