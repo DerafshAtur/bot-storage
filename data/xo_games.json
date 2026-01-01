@@ -1,28 +1,4 @@
 {
-  "60082dc5": {
-    "player1": 6281423699,
-    "player1_name": "Abbas_78j",
-    "player2": null,
-    "player2_name": null,
-    "current_player": 6281423699,
-    "current_player_name": "Abbas_78j",
-    "board": [
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " "
-    ],
-    "status": "waiting",
-    "chat_id": 6281423699,
-    "message_id": 9270,
-    "created_at": "2025-12-31T20:20:21.207241",
-    "last_move": null
-  },
   "d05d6cad": {
     "player1": 8204500333,
     "player1_name": "Danial",
@@ -598,5 +574,29 @@
     "message_id": 4626,
     "created_at": "2026-01-01T15:36:45.231437",
     "last_move": "2026-01-01T15:37:16.743046"
+  },
+  "53ec7c4a": {
+    "player1": 7036265343,
+    "player1_name": "Ostad_Aryan98",
+    "player2": null,
+    "player2_name": null,
+    "current_player": 7036265343,
+    "current_player_name": "Ostad_Aryan98",
+    "board": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "status": "waiting",
+    "chat_id": 7036265343,
+    "message_id": 9906,
+    "created_at": "2026-01-01T17:15:38.475834",
+    "last_move": null
   }
 }
