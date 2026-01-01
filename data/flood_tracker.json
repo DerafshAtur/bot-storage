@@ -4367,10 +4367,11 @@
     "is_premium": false
   },
   "8348918303": {
-    "last_message_time": 1767300329.090529,
+    "last_message_time": 1767300350.068132,
     "message_times": [
       1767300251.405351,
-      1767300329.090529
+      1767300329.090529,
+      1767300350.068132
     ],
     "spam_count": 0,
     "warnings_given": 0,
