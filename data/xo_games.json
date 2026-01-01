@@ -238,5 +238,29 @@
     "message_id": 35934,
     "created_at": "2026-01-01T10:25:18.039109",
     "last_move": null
+  },
+  "6f9f6ba7": {
+    "player1": 5988742686,
+    "player1_name": "MEROc_ir",
+    "player2": null,
+    "player2_name": null,
+    "current_player": 5988742686,
+    "current_player_name": "MEROc_ir",
+    "board": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "status": "waiting",
+    "chat_id": -1003168769977,
+    "message_id": 35935,
+    "created_at": "2026-01-01T10:25:23.318384",
+    "last_move": null
   }
 }
