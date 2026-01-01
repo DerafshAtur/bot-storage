@@ -3960,9 +3960,10 @@
     "is_premium": false
   },
   "6139419355": {
-    "last_message_time": 1767258627.633434,
+    "last_message_time": 1767258657.963649,
     "message_times": [
-      1767258627.633434
+      1767258627.633434,
+      1767258657.963649
     ],
     "spam_count": 0,
     "warnings_given": 0,
