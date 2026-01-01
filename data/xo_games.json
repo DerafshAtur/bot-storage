@@ -268,14 +268,14 @@
     "player1_name": "\ud835\udd6f\ud835\udd86\ud835\udd97\ud835\udd90 \ud835\udd6c\ud835\udd93\ud835\udd8c\ud835\udd8a\ud835\udd91",
     "player2": 6983671447,
     "player2_name": "WhoDoesntHaveAnyone",
-    "current_player": 6983671447,
-    "current_player_name": "WhoDoesntHaveAnyone",
+    "current_player": 8133075605,
+    "current_player_name": "\ud835\udd6f\ud835\udd86\ud835\udd97\ud835\udd90 \ud835\udd6c\ud835\udd93\ud835\udd8c\ud835\udd8a\ud835\udd91",
     "board": [
       " ",
       " ",
       " ",
       "\u274c",
-      " ",
+      "\u2b55\ufe0f",
       " ",
       " ",
       " ",
@@ -285,6 +285,6 @@
     "chat_id": -1003602426529,
     "message_id": 1049,
     "created_at": "2026-01-01T15:00:49.700364",
-    "last_move": "2026-01-01T15:01:24.192743"
+    "last_move": "2026-01-01T15:01:26.712777"
   }
 }
