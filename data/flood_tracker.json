@@ -4167,9 +4167,10 @@
     "is_premium": false
   },
   "6345370564": {
-    "last_message_time": 1767277554.147986,
+    "last_message_time": 1767277561.581204,
     "message_times": [
-      1767277554.147986
+      1767277554.147986,
+      1767277561.581204
     ],
     "spam_count": 0,
     "warnings_given": 0,
