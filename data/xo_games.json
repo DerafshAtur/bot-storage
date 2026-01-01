@@ -94,5 +94,29 @@
     "message_id": 21,
     "created_at": "2026-01-01T09:18:37.887052",
     "last_move": null
+  },
+  "aa073483": {
+    "player1": 6089002371,
+    "player1_name": ".",
+    "player2": null,
+    "player2_name": null,
+    "current_player": 6089002371,
+    "current_player_name": ".",
+    "board": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "status": "waiting",
+    "chat_id": 6089002371,
+    "message_id": 9653,
+    "created_at": "2026-01-01T09:22:25.982276",
+    "last_move": null
   }
 }
