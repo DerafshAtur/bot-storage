@@ -3331,10 +3331,9 @@
     "is_premium": false
   },
   "467861911": {
-    "last_message_time": 1767212980.076278,
+    "last_message_time": 1767266988.347861,
     "message_times": [
-      1767212979.993259,
-      1767212980.076278
+      1767266988.347861
     ],
     "spam_count": 0,
     "warnings_given": 0,
