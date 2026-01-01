@@ -4333,9 +4333,10 @@
     "is_premium": false
   },
   "6474497227": {
-    "last_message_time": 1767289880.084524,
+    "last_message_time": 1767289907.527597,
     "message_times": [
-      1767289880.084524
+      1767289880.084524,
+      1767289907.527597
     ],
     "spam_count": 0,
     "warnings_given": 0,
