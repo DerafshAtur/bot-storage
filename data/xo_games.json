@@ -506,8 +506,8 @@
   "f53fe87d": {
     "player1": 607262495,
     "player1_name": "QueenAsl",
-    "player2": null,
-    "player2_name": null,
+    "player2": 5452011215,
+    "player2_name": "Matin_eli",
     "current_player": 607262495,
     "current_player_name": "QueenAsl",
     "board": [
@@ -521,7 +521,7 @@
       " ",
       " "
     ],
-    "status": "waiting",
+    "status": "active",
     "chat_id": -1002448717658,
     "message_id": 4615,
     "created_at": "2026-01-01T15:35:25.722168",
