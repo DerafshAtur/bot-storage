@@ -151,7 +151,7 @@
     "current_player": 8406381226,
     "current_player_name": "Leondrio",
     "board": [
-      " ",
+      "\u274c",
       "\u2b55\ufe0f",
       "\u274c",
       "\u274c",
@@ -161,10 +161,10 @@
       "\u274c",
       "\u2b55\ufe0f"
     ],
-    "status": "active",
+    "status": "finished",
     "chat_id": -1002803134121,
     "message_id": 30383,
     "created_at": "2026-01-01T10:01:06.096899",
-    "last_move": "2026-01-01T10:02:45.715290"
+    "last_move": "2026-01-01T10:02:48.306011"
   }
 }
