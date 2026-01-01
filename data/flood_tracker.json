@@ -4179,10 +4179,11 @@
     "is_premium": false
   },
   "7445340203": {
-    "last_message_time": 1767278105.632085,
+    "last_message_time": 1767278135.687718,
     "message_times": [
       1767278029.743533,
-      1767278105.632085
+      1767278105.632085,
+      1767278135.687718
     ],
     "spam_count": 0,
     "warnings_given": 0,
