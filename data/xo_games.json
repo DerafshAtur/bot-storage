@@ -458,8 +458,8 @@
   "65d3a185": {
     "player1": 607262495,
     "player1_name": "QueenAsl",
-    "player2": null,
-    "player2_name": null,
+    "player2": 6036750885,
+    "player2_name": "\ud835\udcb6\ud835\udcc2\ud835\udcbe\ud835\udcc7",
     "current_player": 607262495,
     "current_player_name": "QueenAsl",
     "board": [
@@ -473,7 +473,7 @@
       " ",
       " "
     ],
-    "status": "waiting",
+    "status": "active",
     "chat_id": -1002448717658,
     "message_id": 4597,
     "created_at": "2026-01-01T15:32:52.726979",
