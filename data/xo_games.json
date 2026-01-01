@@ -148,12 +148,12 @@
     "player1_name": "Leondrio",
     "player2": 8114849099,
     "player2_name": "ax",
-    "current_player": 8406381226,
-    "current_player_name": "Leondrio",
+    "current_player": 8114849099,
+    "current_player_name": "ax",
     "board": [
       " ",
       " ",
-      " ",
+      "\u274c",
       " ",
       "\u274c",
       " ",
@@ -165,6 +165,6 @@
     "chat_id": -1002803134121,
     "message_id": 30383,
     "created_at": "2026-01-01T10:01:06.096899",
-    "last_move": "2026-01-01T10:01:59.223490"
+    "last_move": "2026-01-01T10:02:12.911816"
   }
 }
