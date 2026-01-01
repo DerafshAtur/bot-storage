@@ -430,5 +430,29 @@
     "message_id": 9892,
     "created_at": "2026-01-01T15:16:33.719171",
     "last_move": null
+  },
+  "fb19b21b": {
+    "player1": 5452011215,
+    "player1_name": "Matin_eli",
+    "player2": null,
+    "player2_name": null,
+    "current_player": 5452011215,
+    "current_player_name": "Matin_eli",
+    "board": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "status": "waiting",
+    "chat_id": 5452011215,
+    "message_id": 9893,
+    "created_at": "2026-01-01T15:16:40.191491",
+    "last_move": null
   }
 }
