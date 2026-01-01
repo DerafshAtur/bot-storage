@@ -526,5 +526,29 @@
     "message_id": 4615,
     "created_at": "2026-01-01T15:35:25.722168",
     "last_move": null
+  },
+  "d74efe55": {
+    "player1": 6036750885,
+    "player1_name": "\ud835\udcb6\ud835\udcc2\ud835\udcbe\ud835\udcc7",
+    "player2": null,
+    "player2_name": null,
+    "current_player": 6036750885,
+    "current_player_name": "\ud835\udcb6\ud835\udcc2\ud835\udcbe\ud835\udcc7",
+    "board": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "status": "waiting",
+    "chat_id": -1002448717658,
+    "message_id": 4622,
+    "created_at": "2026-01-01T15:36:16.573401",
+    "last_move": null
   }
 }
