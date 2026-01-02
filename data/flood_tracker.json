@@ -3751,10 +3751,9 @@
     "is_premium": false
   },
   "6162424246": {
-    "last_message_time": 1767202524.016201,
+    "last_message_time": 1767347681.785063,
     "message_times": [
-      1767202495.956001,
-      1767202524.016201
+      1767347681.785063
     ],
     "spam_count": 0,
     "warnings_given": 0,
