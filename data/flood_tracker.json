@@ -4627,11 +4627,9 @@
     "is_premium": false
   },
   "7134294974": {
-    "last_message_time": 1767375117.732602,
+    "last_message_time": 1767385847.195167,
     "message_times": [
-      1767375026.928556,
-      1767375083.817842,
-      1767375117.732602
+      1767385847.195167
     ],
     "spam_count": 0,
     "warnings_given": 0,
