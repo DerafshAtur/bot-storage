@@ -4488,9 +4488,10 @@
     "is_premium": false
   },
   "6469838293": {
-    "last_message_time": 1767348531.916369,
+    "last_message_time": 1767348563.640613,
     "message_times": [
-      1767348531.916369
+      1767348531.916369,
+      1767348563.640613
     ],
     "spam_count": 0,
     "warnings_given": 0,
