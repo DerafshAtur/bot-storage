@@ -4654,9 +4654,10 @@
     "is_premium": false
   },
   "7446936229": {
-    "last_message_time": 1767378512.135666,
+    "last_message_time": 1767378576.114366,
     "message_times": [
-      1767378512.135666
+      1767378512.135666,
+      1767378576.114366
     ],
     "spam_count": 0,
     "warnings_given": 0,
