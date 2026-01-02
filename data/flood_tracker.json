@@ -4427,9 +4427,10 @@
     "is_premium": false
   },
   "6540645464": {
-    "last_message_time": 1767327272.79676,
+    "last_message_time": 1767327300.079816,
     "message_times": [
-      1767327272.79676
+      1767327272.79676,
+      1767327300.079816
     ],
     "spam_count": 0,
     "warnings_given": 0,
