@@ -4794,10 +4794,11 @@
     "is_premium": false
   },
   "6871520604": {
-    "last_message_time": 1767385646.239967,
+    "last_message_time": 1767385678.810115,
     "message_times": [
       1767385596.206165,
-      1767385646.239967
+      1767385646.239967,
+      1767385678.810115
     ],
     "spam_count": 0,
     "warnings_given": 0,
