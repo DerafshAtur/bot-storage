@@ -4042,10 +4042,9 @@
     "is_premium": false
   },
   "5988742686": {
-    "last_message_time": 1767263301.165831,
+    "last_message_time": 1767364118.117224,
     "message_times": [
-      1767263203.493679,
-      1767263301.165831
+      1767364118.117224
     ],
     "spam_count": 0,
     "warnings_given": 0,
