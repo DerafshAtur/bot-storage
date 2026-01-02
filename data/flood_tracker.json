@@ -4565,10 +4565,9 @@
     "is_premium": false
   },
   "148567907": {
-    "last_message_time": 1767366171.943355,
+    "last_message_time": 1767366397.696006,
     "message_times": [
-      1767366102.914092,
-      1767366171.943355
+      1767366397.696006
     ],
     "spam_count": 0,
     "warnings_given": 0,
