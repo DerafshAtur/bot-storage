@@ -4391,9 +4391,10 @@
     "is_premium": false
   },
   "6020290292": {
-    "last_message_time": 1767312780.142988,
+    "last_message_time": 1767312790.688915,
     "message_times": [
-      1767312780.142988
+      1767312780.142988,
+      1767312790.688915
     ],
     "spam_count": 0,
     "warnings_given": 0,
