@@ -849,10 +849,9 @@
     "is_premium": false
   },
   "5442247416": {
-    "last_message_time": 1767365973.4616,
+    "last_message_time": 1767374056.651588,
     "message_times": [
-      1767365887.226745,
-      1767365973.4616
+      1767374056.651588
     ],
     "spam_count": 0,
     "warnings_given": 0,
