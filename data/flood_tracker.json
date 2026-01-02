@@ -4427,7 +4427,7 @@
     "is_premium": false
   },
   "6540645464": {
-    "last_message_time": 1767327467.129046,
+    "last_message_time": 1767327467.213883,
     "message_times": [
       1767327348.804774,
       1767327349.0192,
@@ -4437,12 +4437,14 @@
       1767327448.362167,
       1767327452.695105,
       1767327461.891765,
-      1767327467.129046
+      1767327467.129046,
+      1767327467.213883,
+      1767327467.888348
     ],
-    "spam_count": 0,
-    "warnings_given": 0,
+    "spam_count": 1,
+    "warnings_given": 1,
     "blocked_until": 0,
-    "total_warnings": 0,
+    "total_warnings": 1,
     "is_premium": false
   }
 }
