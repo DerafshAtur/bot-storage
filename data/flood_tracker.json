@@ -4576,9 +4576,10 @@
     "is_premium": false
   },
   "1504939101": {
-    "last_message_time": 1767366514.467104,
+    "last_message_time": 1767366521.650844,
     "message_times": [
-      1767366514.467104
+      1767366514.467104,
+      1767366521.650844
     ],
     "spam_count": 0,
     "warnings_given": 0,
