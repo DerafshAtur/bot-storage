@@ -4590,9 +4590,10 @@
     "is_premium": false
   },
   "7304969235": {
-    "last_message_time": 1767368277.413637,
+    "last_message_time": 1767368316.783481,
     "message_times": [
-      1767368277.413637
+      1767368277.413637,
+      1767368316.783481
     ],
     "spam_count": 0,
     "warnings_given": 0,
