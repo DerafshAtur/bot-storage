@@ -382,5 +382,29 @@
     "message_id": 9906,
     "created_at": "2026-01-01T17:15:38.475834",
     "last_move": null
+  },
+  "93aff972": {
+    "player1": 1487277697,
+    "player1_name": "ahd_ah",
+    "player2": null,
+    "player2_name": null,
+    "current_player": 1487277697,
+    "current_player_name": "ahd_ah",
+    "board": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "status": "waiting",
+    "chat_id": 1487277697,
+    "message_id": 10299,
+    "created_at": "2026-01-02T11:03:27.768366",
+    "last_move": null
   }
 }
