@@ -4624,9 +4624,10 @@
     "is_premium": false
   },
   "8581189697": {
-    "last_message_time": 1767372367.431302,
+    "last_message_time": 1767372368.929667,
     "message_times": [
-      1767372367.431302
+      1767372367.431302,
+      1767372368.929667
     ],
     "spam_count": 0,
     "warnings_given": 0,
