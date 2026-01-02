@@ -4703,10 +4703,11 @@
     "is_premium": false
   },
   "6225166464": {
-    "last_message_time": 1767382911.06465,
+    "last_message_time": 1767382923.713931,
     "message_times": [
       1767382876.616223,
-      1767382911.06465
+      1767382911.06465,
+      1767382923.713931
     ],
     "spam_count": 0,
     "warnings_given": 0,
