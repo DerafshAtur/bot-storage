@@ -4742,10 +4742,11 @@
     "is_premium": false
   },
   "7315925386": {
-    "last_message_time": 1767383405.011474,
+    "last_message_time": 1767383427.005983,
     "message_times": [
       1767383398.602512,
-      1767383405.011474
+      1767383405.011474,
+      1767383427.005983
     ],
     "spam_count": 0,
     "warnings_given": 0,
