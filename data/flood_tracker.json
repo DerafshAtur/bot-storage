@@ -4476,9 +4476,10 @@
     "is_premium": false
   },
   "6749022225": {
-    "last_message_time": 1767347912.616975,
+    "last_message_time": 1767347961.35554,
     "message_times": [
-      1767347912.616975
+      1767347912.616975,
+      1767347961.35554
     ],
     "spam_count": 0,
     "warnings_given": 0,
