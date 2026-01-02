@@ -4432,8 +4432,10 @@
     "is_premium": false
   },
   "6540645464": {
-    "last_message_time": 1767327477.519053,
-    "message_times": [],
+    "last_message_time": 1767362780.235371,
+    "message_times": [
+      1767362780.235371
+    ],
     "spam_count": 2,
     "warnings_given": 0,
     "blocked_until": 1767328078.319953,
