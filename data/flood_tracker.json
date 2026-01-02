@@ -4664,9 +4664,10 @@
     "is_premium": false
   },
   "7825406337": {
-    "last_message_time": 1767380583.199394,
+    "last_message_time": 1767380592.475818,
     "message_times": [
-      1767380583.199394
+      1767380583.199394,
+      1767380592.475818
     ],
     "spam_count": 0,
     "warnings_given": 0,
