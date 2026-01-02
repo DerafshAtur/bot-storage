@@ -4536,10 +4536,11 @@
     "is_premium": false
   },
   "1936614860": {
-    "last_message_time": 1767363147.011043,
+    "last_message_time": 1767363162.808017,
     "message_times": [
       1767363112.437822,
-      1767363147.011043
+      1767363147.011043,
+      1767363162.808017
     ],
     "spam_count": 0,
     "warnings_given": 0,
