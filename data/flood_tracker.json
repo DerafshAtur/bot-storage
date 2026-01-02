@@ -4769,9 +4769,10 @@
     "is_premium": false
   },
   "7297832854": {
-    "last_message_time": 1767384725.031562,
+    "last_message_time": 1767384765.222151,
     "message_times": [
-      1767384725.031562
+      1767384725.031562,
+      1767384765.222151
     ],
     "spam_count": 0,
     "warnings_given": 0,
