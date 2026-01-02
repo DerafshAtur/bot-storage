@@ -4447,9 +4447,10 @@
     "is_premium": false
   },
   "7402306496": {
-    "last_message_time": 1767338546.435396,
+    "last_message_time": 1767338571.102493,
     "message_times": [
-      1767338546.435396
+      1767338546.435396,
+      1767338571.102493
     ],
     "spam_count": 0,
     "warnings_given": 0,
