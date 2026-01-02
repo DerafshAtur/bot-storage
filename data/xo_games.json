@@ -1,28 +1,4 @@
 {
-  "53ec7c4a": {
-    "player1": 7036265343,
-    "player1_name": "Ostad_Aryan98",
-    "player2": null,
-    "player2_name": null,
-    "current_player": 7036265343,
-    "current_player_name": "Ostad_Aryan98",
-    "board": [
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " "
-    ],
-    "status": "waiting",
-    "chat_id": 7036265343,
-    "message_id": 9906,
-    "created_at": "2026-01-01T17:15:38.475834",
-    "last_move": null
-  },
   "93aff972": {
     "player1": 1487277697,
     "player1_name": "ahd_ah",
