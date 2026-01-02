@@ -4804,9 +4804,10 @@
     "is_premium": false
   },
   "8483416440": {
-    "last_message_time": 1767386336.32734,
+    "last_message_time": 1767386353.680516,
     "message_times": [
-      1767386336.32734
+      1767386336.32734,
+      1767386353.680516
     ],
     "spam_count": 0,
     "warnings_given": 0,
