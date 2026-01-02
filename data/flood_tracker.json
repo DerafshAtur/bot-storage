@@ -4815,5 +4815,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "8587440898": {
+    "last_message_time": 1767389014.162317,
+    "message_times": [
+      1767389014.162317
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
