@@ -4920,9 +4920,10 @@
     "is_premium": false
   },
   "129635544": {
-    "last_message_time": 1767430573.73646,
+    "last_message_time": 1767430646.725833,
     "message_times": [
-      1767430573.73646
+      1767430573.73646,
+      1767430646.725833
     ],
     "spam_count": 0,
     "warnings_given": 0,
