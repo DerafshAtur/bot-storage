@@ -1,28 +1,4 @@
 {
-  "93aff972": {
-    "player1": 1487277697,
-    "player1_name": "ahd_ah",
-    "player2": null,
-    "player2_name": null,
-    "current_player": 1487277697,
-    "current_player_name": "ahd_ah",
-    "board": [
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " "
-    ],
-    "status": "waiting",
-    "chat_id": 1487277697,
-    "message_id": 10299,
-    "created_at": "2026-01-02T11:03:27.768366",
-    "last_move": null
-  },
   "781c4223": {
     "player1": 7970490150,
     "player1_name": "Sydabolfazl",
