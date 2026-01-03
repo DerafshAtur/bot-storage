@@ -5284,9 +5284,10 @@
     "is_premium": false
   },
   "7378538695": {
-    "last_message_time": 1767473885.325106,
+    "last_message_time": 1767473891.722339,
     "message_times": [
-      1767473885.325106
+      1767473885.325106,
+      1767473891.722339
     ],
     "spam_count": 0,
     "warnings_given": 0,
