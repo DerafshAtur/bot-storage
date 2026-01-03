@@ -4880,5 +4880,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "1930746198": {
+    "last_message_time": 1767420247.710179,
+    "message_times": [
+      1767420247.710179
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
