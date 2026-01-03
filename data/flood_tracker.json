@@ -5163,10 +5163,11 @@
     "is_premium": false
   },
   "6572873394": {
-    "last_message_time": 1767464360.000085,
+    "last_message_time": 1767464387.792262,
     "message_times": [
       1767464301.690216,
-      1767464360.000085
+      1767464360.000085,
+      1767464387.792262
     ],
     "spam_count": 0,
     "warnings_given": 0,
