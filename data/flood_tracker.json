@@ -4895,10 +4895,11 @@
     "is_premium": false
   },
   "7548480802": {
-    "last_message_time": 1767426106.905537,
+    "last_message_time": 1767426168.424339,
     "message_times": [
       1767426056.906754,
-      1767426106.905537
+      1767426106.905537,
+      1767426168.424339
     ],
     "spam_count": 0,
     "warnings_given": 0,
