@@ -5128,14 +5128,12 @@
     "is_premium": false
   },
   "7926141315": {
-    "last_message_time": 1767459924.943564,
-    "message_times": [
-      1767459924.943564
-    ],
-    "spam_count": 0,
+    "last_message_time": 1767459925.030652,
+    "message_times": [],
+    "spam_count": 2,
     "warnings_given": 0,
-    "blocked_until": 0,
-    "total_warnings": 0,
+    "blocked_until": 1767460525.195618,
+    "total_warnings": 1,
     "is_premium": false
   }
 }
