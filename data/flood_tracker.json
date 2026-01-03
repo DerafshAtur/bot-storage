@@ -5026,10 +5026,9 @@
     "is_premium": false
   },
   "7948018334": {
-    "last_message_time": 1767444133.00016,
+    "last_message_time": 1767444343.928326,
     "message_times": [
-      1767444035.303974,
-      1767444133.00016
+      1767444343.928326
     ],
     "spam_count": 0,
     "warnings_given": 0,
