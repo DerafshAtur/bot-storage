@@ -5147,10 +5147,11 @@
     "is_premium": false
   },
   "7734702933": {
-    "last_message_time": 1767462257.232804,
+    "last_message_time": 1767462270.13761,
     "message_times": [
       1767462224.067188,
-      1767462257.232804
+      1767462257.232804,
+      1767462270.13761
     ],
     "spam_count": 0,
     "warnings_given": 0,
