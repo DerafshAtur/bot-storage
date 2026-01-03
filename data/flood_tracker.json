@@ -5272,10 +5272,11 @@
     "is_premium": false
   },
   "5304948265": {
-    "last_message_time": 1767473888.319648,
+    "last_message_time": 1767473916.403108,
     "message_times": [
       1767473855.141162,
-      1767473888.319648
+      1767473888.319648,
+      1767473916.403108
     ],
     "spam_count": 0,
     "warnings_given": 0,
