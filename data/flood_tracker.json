@@ -5391,10 +5391,11 @@
     "is_premium": false
   },
   "6976197995": {
-    "last_message_time": 1767481322.182529,
+    "last_message_time": 1767481370.636969,
     "message_times": [
       1767481260.190935,
-      1767481322.182529
+      1767481322.182529,
+      1767481370.636969
     ],
     "spam_count": 0,
     "warnings_given": 0,
