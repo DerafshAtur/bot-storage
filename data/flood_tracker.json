@@ -5037,10 +5037,9 @@
     "is_premium": false
   },
   "957146188": {
-    "last_message_time": 1767444859.179463,
+    "last_message_time": 1767445547.799384,
     "message_times": [
-      1767444745.744601,
-      1767444859.179463
+      1767445547.799384
     ],
     "spam_count": 0,
     "warnings_given": 0,
