@@ -4461,9 +4461,10 @@
     "is_premium": false
   },
   "6955189802": {
-    "last_message_time": 1767436174.56203,
+    "last_message_time": 1767436228.112155,
     "message_times": [
-      1767436174.56203
+      1767436174.56203,
+      1767436228.112155
     ],
     "spam_count": 0,
     "warnings_given": 0,
