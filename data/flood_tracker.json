@@ -5002,9 +5002,10 @@
     "is_premium": false
   },
   "6957016329": {
-    "last_message_time": 1767439420.717007,
+    "last_message_time": 1767439505.58141,
     "message_times": [
-      1767439420.717007
+      1767439420.717007,
+      1767439505.58141
     ],
     "spam_count": 0,
     "warnings_given": 0,
