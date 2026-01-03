@@ -5402,5 +5402,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "8088217938": {
+    "last_message_time": 1767484615.992972,
+    "message_times": [
+      1767484615.992972
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
