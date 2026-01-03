@@ -5187,9 +5187,10 @@
     "is_premium": false
   },
   "8451347112": {
-    "last_message_time": 1767464839.610206,
+    "last_message_time": 1767464894.463132,
     "message_times": [
-      1767464839.610206
+      1767464839.610206,
+      1767464894.463132
     ],
     "spam_count": 0,
     "warnings_given": 0,
