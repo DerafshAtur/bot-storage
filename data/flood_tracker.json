@@ -4846,11 +4846,9 @@
     "is_premium": false
   },
   "7434737411": {
-    "last_message_time": 1767402437.367345,
+    "last_message_time": 1767402596.34321,
     "message_times": [
-      1767402354.44102,
-      1767402376.928344,
-      1767402437.367345
+      1767402596.34321
     ],
     "spam_count": 0,
     "warnings_given": 0,
