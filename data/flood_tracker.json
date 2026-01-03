@@ -4868,9 +4868,10 @@
     "is_premium": false
   },
   "848756517": {
-    "last_message_time": 1767416657.331651,
+    "last_message_time": 1767416687.166133,
     "message_times": [
-      1767416657.331651
+      1767416657.331651,
+      1767416687.166133
     ],
     "spam_count": 0,
     "warnings_given": 0,
