@@ -5324,10 +5324,11 @@
     "is_premium": false
   },
   "1038070643": {
-    "last_message_time": 1767478034.55431,
+    "last_message_time": 1767478072.781796,
     "message_times": [
       1767477992.30614,
-      1767478034.55431
+      1767478034.55431,
+      1767478072.781796
     ],
     "spam_count": 0,
     "warnings_given": 0,
