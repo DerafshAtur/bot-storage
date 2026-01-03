@@ -4991,5 +4991,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "7970490150": {
+    "last_message_time": 1767438093.396221,
+    "message_times": [
+      1767438093.396221
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
