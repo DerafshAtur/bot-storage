@@ -5069,9 +5069,10 @@
     "is_premium": false
   },
   "8045211773": {
-    "last_message_time": 1767449426.13525,
+    "last_message_time": 1767449448.028286,
     "message_times": [
-      1767449426.13525
+      1767449426.13525,
+      1767449448.028286
     ],
     "spam_count": 0,
     "warnings_given": 0,
