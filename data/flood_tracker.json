@@ -3144,10 +3144,11 @@
     "is_premium": false
   },
   "7687619677": {
-    "last_message_time": 1767467882.323651,
+    "last_message_time": 1767467893.276418,
     "message_times": [
       1767467816.760574,
-      1767467882.323651
+      1767467882.323651,
+      1767467893.276418
     ],
     "spam_count": 1,
     "warnings_given": 0,
@@ -5214,6 +5215,17 @@
     "last_message_time": 1767467516.584512,
     "message_times": [
       1767467516.584512
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "7474194270": {
+    "last_message_time": 1767467882.598916,
+    "message_times": [
+      1767467882.598916
     ],
     "spam_count": 0,
     "warnings_given": 0,
