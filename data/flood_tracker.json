@@ -5311,10 +5311,11 @@
     "is_premium": false
   },
   "6871334176": {
-    "last_message_time": 1767476854.04542,
+    "last_message_time": 1767476871.700289,
     "message_times": [
       1767476845.518302,
-      1767476854.04542
+      1767476854.04542,
+      1767476871.700289
     ],
     "spam_count": 0,
     "warnings_given": 0,
