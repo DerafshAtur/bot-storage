@@ -5296,10 +5296,11 @@
     "is_premium": false
   },
   "8042139362": {
-    "last_message_time": 1767474160.380075,
+    "last_message_time": 1767474198.57571,
     "message_times": [
       1767474130.320267,
-      1767474160.380075
+      1767474160.380075,
+      1767474198.57571
     ],
     "spam_count": 0,
     "warnings_given": 0,
