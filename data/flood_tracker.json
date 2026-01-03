@@ -4815,9 +4815,10 @@
     "is_premium": false
   },
   "8587440898": {
-    "last_message_time": 1767480692.805531,
+    "last_message_time": 1767480722.349194,
     "message_times": [
-      1767480692.805531
+      1767480692.805531,
+      1767480722.349194
     ],
     "spam_count": 0,
     "warnings_given": 0,
