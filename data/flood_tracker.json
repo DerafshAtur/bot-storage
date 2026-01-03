@@ -4955,9 +4955,10 @@
     "is_premium": false
   },
   "6022753086": {
-    "last_message_time": 1767432446.57286,
+    "last_message_time": 1767432457.963122,
     "message_times": [
-      1767432446.57286
+      1767432446.57286,
+      1767432457.963122
     ],
     "spam_count": 0,
     "warnings_given": 0,
