@@ -4673,10 +4673,11 @@
     "is_premium": false
   },
   "6912116796": {
-    "last_message_time": 1767423367.445552,
+    "last_message_time": 1767423401.442472,
     "message_times": [
       1767423315.473393,
-      1767423367.445552
+      1767423367.445552,
+      1767423401.442472
     ],
     "spam_count": 0,
     "warnings_given": 0,
