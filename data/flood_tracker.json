@@ -5708,9 +5708,10 @@
     "is_premium": false
   },
   "8457466177": {
-    "last_message_time": 1767538882.735411,
+    "last_message_time": 1767538912.817251,
     "message_times": [
-      1767538882.735411
+      1767538882.735411,
+      1767538912.817251
     ],
     "spam_count": 0,
     "warnings_given": 0,
