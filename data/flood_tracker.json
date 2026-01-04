@@ -5962,9 +5962,10 @@
     "is_premium": false
   },
   "6041738347": {
-    "last_message_time": 1767554121.449045,
+    "last_message_time": 1767554160.511642,
     "message_times": [
-      1767554121.449045
+      1767554121.449045,
+      1767554160.511642
     ],
     "spam_count": 0,
     "warnings_given": 0,
