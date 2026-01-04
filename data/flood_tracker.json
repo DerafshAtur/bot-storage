@@ -5629,10 +5629,11 @@
     "is_premium": false
   },
   "8441097131": {
-    "last_message_time": 1767534127.299403,
+    "last_message_time": 1767534132.4068,
     "message_times": [
       1767534090.941357,
-      1767534127.299403
+      1767534127.299403,
+      1767534132.4068
     ],
     "spam_count": 0,
     "warnings_given": 0,
