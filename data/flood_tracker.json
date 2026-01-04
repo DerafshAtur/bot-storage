@@ -5695,10 +5695,11 @@
     "is_premium": false
   },
   "6806518861": {
-    "last_message_time": 1767538011.080186,
+    "last_message_time": 1767538041.371006,
     "message_times": [
       1767537948.931645,
-      1767538011.080186
+      1767538011.080186,
+      1767538041.371006
     ],
     "spam_count": 0,
     "warnings_given": 0,
