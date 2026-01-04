@@ -1,28 +1,4 @@
 {
-  "2bf05bd4": {
-    "player1": 93876792,
-    "player1_name": "A",
-    "player2": null,
-    "player2_name": null,
-    "current_player": 93876792,
-    "current_player_name": "A",
-    "board": [
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " "
-    ],
-    "status": "waiting",
-    "chat_id": 93876792,
-    "message_id": 11122,
-    "created_at": "2026-01-03T16:01:12.098958",
-    "last_move": null
-  },
   "367d2218": {
     "player1": 8451347112,
     "player1_name": "Amir",
