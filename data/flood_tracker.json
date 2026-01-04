@@ -6060,9 +6060,10 @@
     "is_premium": false
   },
   "8341115007": {
-    "last_message_time": 1767558275.54355,
+    "last_message_time": 1767558288.958588,
     "message_times": [
-      1767558275.54355
+      1767558275.54355,
+      1767558288.958588
     ],
     "spam_count": 0,
     "warnings_given": 0,
