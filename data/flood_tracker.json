@@ -6018,9 +6018,10 @@
     "is_premium": false
   },
   "5652834165": {
-    "last_message_time": 1767557261.040185,
+    "last_message_time": 1767557361.87134,
     "message_times": [
-      1767557261.040185
+      1767557261.040185,
+      1767557361.87134
     ],
     "spam_count": 0,
     "warnings_given": 0,
