@@ -5994,10 +5994,11 @@
     "is_premium": false
   },
   "7317133961": {
-    "last_message_time": 1767555611.298048,
+    "last_message_time": 1767555623.816746,
     "message_times": [
       1767555586.0393,
-      1767555611.298048
+      1767555611.298048,
+      1767555623.816746
     ],
     "spam_count": 0,
     "warnings_given": 0,
