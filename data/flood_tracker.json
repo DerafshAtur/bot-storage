@@ -5789,10 +5789,11 @@
     "is_premium": false
   },
   "8399093695": {
-    "last_message_time": 1767543925.819533,
+    "last_message_time": 1767543968.560134,
     "message_times": [
       1767543860.869111,
-      1767543925.819533
+      1767543925.819533,
+      1767543968.560134
     ],
     "spam_count": 0,
     "warnings_given": 0,
