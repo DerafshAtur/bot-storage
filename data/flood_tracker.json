@@ -5245,10 +5245,11 @@
     "is_premium": false
   },
   "8375936657": {
-    "last_message_time": 1767522089.212393,
+    "last_message_time": 1767522096.380214,
     "message_times": [
       1767522078.595436,
-      1767522089.212393
+      1767522089.212393,
+      1767522096.380214
     ],
     "spam_count": 0,
     "warnings_given": 0,
