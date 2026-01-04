@@ -6116,10 +6116,11 @@
     "is_premium": false
   },
   "7289039405": {
-    "last_message_time": 1767564900.084445,
+    "last_message_time": 1767564904.653891,
     "message_times": [
       1767564881.215318,
-      1767564900.084445
+      1767564900.084445,
+      1767564904.653891
     ],
     "spam_count": 0,
     "warnings_given": 0,
