@@ -5980,10 +5980,11 @@
     "is_premium": false
   },
   "6668430015": {
-    "last_message_time": 1767555038.496821,
+    "last_message_time": 1767555040.099674,
     "message_times": [
       1767555011.44875,
-      1767555038.496821
+      1767555038.496821,
+      1767555040.099674
     ],
     "spam_count": 0,
     "warnings_given": 0,
