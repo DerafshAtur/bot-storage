@@ -6082,9 +6082,10 @@
     "is_premium": false
   },
   "8142324229": {
-    "last_message_time": 1767561926.47853,
+    "last_message_time": 1767561956.00599,
     "message_times": [
-      1767561926.47853
+      1767561926.47853,
+      1767561956.00599
     ],
     "spam_count": 0,
     "warnings_given": 0,
