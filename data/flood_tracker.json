@@ -5415,9 +5415,10 @@
     "is_premium": false
   },
   "8572661894": {
-    "last_message_time": 1767485536.367425,
+    "last_message_time": 1767485649.633509,
     "message_times": [
-      1767485536.367425
+      1767485536.367425,
+      1767485649.633509
     ],
     "spam_count": 0,
     "warnings_given": 0,
