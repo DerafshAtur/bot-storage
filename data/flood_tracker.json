@@ -6030,9 +6030,10 @@
     "is_premium": false
   },
   "8321617891": {
-    "last_message_time": 1767557981.830963,
+    "last_message_time": 1767558022.238584,
     "message_times": [
-      1767557981.830963
+      1767557981.830963,
+      1767558022.238584
     ],
     "spam_count": 0,
     "warnings_given": 0,
