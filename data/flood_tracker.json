@@ -5271,12 +5271,13 @@
       1767522600.485346,
       1767522602.069836,
       1767522603.593575,
-      1767522604.648124
+      1767522604.648124,
+      1767522605.56407
     ],
-    "spam_count": 0,
-    "warnings_given": 0,
+    "spam_count": 1,
+    "warnings_given": 1,
     "blocked_until": 0,
-    "total_warnings": 0,
+    "total_warnings": 1,
     "is_premium": false
   },
   "8016185606": {
