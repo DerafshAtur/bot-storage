@@ -5609,10 +5609,11 @@
     "is_premium": false
   },
   "7548279940": {
-    "last_message_time": 1767533778.044592,
+    "last_message_time": 1767533792.167447,
     "message_times": [
       1767533751.518985,
-      1767533778.044592
+      1767533778.044592,
+      1767533792.167447
     ],
     "spam_count": 0,
     "warnings_given": 0,
