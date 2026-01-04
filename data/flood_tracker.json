@@ -5800,9 +5800,10 @@
     "is_premium": false
   },
   "7567780041": {
-    "last_message_time": 1767543891.494619,
+    "last_message_time": 1767543902.31897,
     "message_times": [
-      1767543891.494619
+      1767543891.494619,
+      1767543902.31897
     ],
     "spam_count": 0,
     "warnings_given": 0,
