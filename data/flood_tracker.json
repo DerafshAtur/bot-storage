@@ -5924,10 +5924,11 @@
     "is_premium": false
   },
   "536698416": {
-    "last_message_time": 1767553375.067302,
+    "last_message_time": 1767553441.223498,
     "message_times": [
       1767553325.035248,
-      1767553375.067302
+      1767553375.067302,
+      1767553441.223498
     ],
     "spam_count": 0,
     "warnings_given": 0,
