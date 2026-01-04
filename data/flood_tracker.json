@@ -3937,11 +3937,9 @@
     "is_premium": false
   },
   "6211982150": {
-    "last_message_time": 1767255775.506262,
+    "last_message_time": 1767546919.071161,
     "message_times": [
-      1767255673.083417,
-      1767255737.89503,
-      1767255775.506262
+      1767546919.071161
     ],
     "spam_count": 0,
     "warnings_given": 0,
