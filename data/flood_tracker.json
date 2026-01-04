@@ -5739,11 +5739,9 @@
     "is_premium": false
   },
   "7628967557": {
-    "last_message_time": 1767540782.285312,
+    "last_message_time": 1767541253.631563,
     "message_times": [
-      1767540706.163061,
-      1767540747.030765,
-      1767540782.285312
+      1767541253.631563
     ],
     "spam_count": 0,
     "warnings_given": 0,
