@@ -5950,10 +5950,11 @@
     "is_premium": false
   },
   "6801066762": {
-    "last_message_time": 1767554223.868287,
+    "last_message_time": 1767554236.260598,
     "message_times": [
       1767554157.279918,
-      1767554223.868287
+      1767554223.868287,
+      1767554236.260598
     ],
     "spam_count": 0,
     "warnings_given": 0,
