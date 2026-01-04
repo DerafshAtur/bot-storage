@@ -5654,9 +5654,10 @@
     "is_premium": false
   },
   "7894478153": {
-    "last_message_time": 1767536669.937333,
+    "last_message_time": 1767536688.192807,
     "message_times": [
-      1767536669.937333
+      1767536669.937333,
+      1767536688.192807
     ],
     "spam_count": 0,
     "warnings_given": 0,
