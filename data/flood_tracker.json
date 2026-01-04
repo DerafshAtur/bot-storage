@@ -5767,11 +5767,9 @@
     "is_premium": false
   },
   "6183443887": {
-    "last_message_time": 1767543318.788886,
+    "last_message_time": 1767547981.674473,
     "message_times": [
-      1767543266.171466,
-      1767543285.316319,
-      1767543318.788886
+      1767547981.674473
     ],
     "spam_count": 0,
     "warnings_given": 0,
