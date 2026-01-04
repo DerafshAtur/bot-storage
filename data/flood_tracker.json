@@ -5581,10 +5581,11 @@
     "is_premium": false
   },
   "8446391985": {
-    "last_message_time": 1767524746.676117,
+    "last_message_time": 1767524795.032924,
     "message_times": [
       1767524708.28061,
-      1767524746.676117
+      1767524746.676117,
+      1767524795.032924
     ],
     "spam_count": 0,
     "warnings_given": 0,
