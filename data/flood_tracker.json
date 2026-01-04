@@ -5937,10 +5937,11 @@
     "is_premium": false
   },
   "5508957630": {
-    "last_message_time": 1767553463.535306,
+    "last_message_time": 1767553513.291386,
     "message_times": [
       1767553422.877746,
-      1767553463.535306
+      1767553463.535306,
+      1767553513.291386
     ],
     "spam_count": 0,
     "warnings_given": 0,
