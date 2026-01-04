@@ -5509,10 +5509,11 @@
     "is_premium": false
   },
   "889495070": {
-    "last_message_time": 1767517249.862323,
+    "last_message_time": 1767517299.611752,
     "message_times": [
       1767517243.183669,
-      1767517249.862323
+      1767517249.862323,
+      1767517299.611752
     ],
     "spam_count": 0,
     "warnings_given": 0,
