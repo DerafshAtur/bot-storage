@@ -5900,10 +5900,11 @@
     "is_premium": false
   },
   "7020372741": {
-    "last_message_time": 1767551709.914257,
+    "last_message_time": 1767551743.045206,
     "message_times": [
       1767551645.126284,
-      1767551709.914257
+      1767551709.914257,
+      1767551743.045206
     ],
     "spam_count": 0,
     "warnings_given": 0,
