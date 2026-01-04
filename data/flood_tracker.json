@@ -5485,9 +5485,10 @@
     "is_premium": false
   },
   "5779167530": {
-    "last_message_time": 1767512555.699184,
+    "last_message_time": 1767512570.971347,
     "message_times": [
-      1767512555.699184
+      1767512555.699184,
+      1767512570.971347
     ],
     "spam_count": 0,
     "warnings_given": 0,
