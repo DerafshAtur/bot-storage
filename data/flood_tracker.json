@@ -5507,5 +5507,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "889495070": {
+    "last_message_time": 1767516903.865987,
+    "message_times": [
+      1767516903.865987
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
