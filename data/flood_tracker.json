@@ -5868,10 +5868,11 @@
     "is_premium": false
   },
   "7920613799": {
-    "last_message_time": 1767551065.391953,
+    "last_message_time": 1767551114.555873,
     "message_times": [
       1767551017.597679,
-      1767551065.391953
+      1767551065.391953,
+      1767551114.555873
     ],
     "spam_count": 0,
     "warnings_given": 0,
