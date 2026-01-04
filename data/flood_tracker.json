@@ -5892,10 +5892,11 @@
     "is_premium": false
   },
   "8463421601": {
-    "last_message_time": 1767551358.265677,
+    "last_message_time": 1767551396.420275,
     "message_times": [
       1767551341.199768,
-      1767551358.265677
+      1767551358.265677,
+      1767551396.420275
     ],
     "spam_count": 0,
     "warnings_given": 0,
