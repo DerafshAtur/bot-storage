@@ -46,5 +46,29 @@
     "message_id": 11247,
     "created_at": "2026-01-03T18:32:34.984654",
     "last_move": null
+  },
+  "5074b833": {
+    "player1": 7336102514,
+    "player1_name": "Amin",
+    "player2": null,
+    "player2_name": null,
+    "current_player": 7336102514,
+    "current_player_name": "Amin",
+    "board": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "status": "waiting",
+    "chat_id": 7336102514,
+    "message_id": 12184,
+    "created_at": "2026-01-04T17:56:24.081676",
+    "last_move": null
   }
 }
