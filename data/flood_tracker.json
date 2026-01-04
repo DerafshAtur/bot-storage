@@ -6048,10 +6048,9 @@
     "is_premium": false
   },
   "6605696764": {
-    "last_message_time": 1767558278.906944,
+    "last_message_time": 1767558468.041557,
     "message_times": [
-      1767558236.796214,
-      1767558278.906944
+      1767558468.041557
     ],
     "spam_count": 0,
     "warnings_given": 0,
