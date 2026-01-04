@@ -6284,5 +6284,21 @@
       "timestamp": "2026-01-04 21:25:27.008755",
       "reply_to": null
     }
+  ],
+  "8428540756": [
+    {
+      "message_id": 12523,
+      "content": "@The_Saad",
+      "timestamp": "2026-01-04 21:38:36.021488",
+      "reply_to": null
+    }
+  ],
+  "7289039405": [
+    {
+      "message_id": 12534,
+      "content": "\ud83e\udd16 Welcome to Jije AI Bot!\n\nAvailable Commands:\n/start - Start bot\n/chat - Chat with AI\n/multi - Multi-modal processing (files, URLs)\n/search - Search the web\n/today - Today's date\n/calc - Calculator\n/reset - Reset conversation\n/language - Change language\n/premium - Premium features\n/image - Generate images\n/id - Account information\n/v2 - V2Ray configs\n/proxy - Telegram proxies\n/translate_farsi - Translate to Farsi\n/translate_english - Translate to English\n/joke - Tell a joke\n/xo - Tic-Tac-Toe game\n/owner - Owner commands\n\nBot Creator: @jijedoni\nCurrent Mode: Chat (default)\n\nVERIFICATION STATUS: \u2705 VERIFIED\nYou can now use the bot in groups and channels.\n\nChoose a command and start using the bot!",
+      "timestamp": "2026-01-04 22:14:41.627813",
+      "reply_to": null
+    }
   ]
 }
