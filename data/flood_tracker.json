@@ -5473,9 +5473,10 @@
     "is_premium": false
   },
   "6410713861": {
-    "last_message_time": 1767512297.745534,
+    "last_message_time": 1767512307.008196,
     "message_times": [
-      1767512297.745534
+      1767512297.745534,
+      1767512307.008196
     ],
     "spam_count": 0,
     "warnings_given": 0,
