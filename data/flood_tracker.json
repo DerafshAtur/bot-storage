@@ -5817,9 +5817,9 @@
     "is_premium": false
   },
   "1202249440": {
-    "last_message_time": 1767551059.832299,
+    "last_message_time": 1767557398.107362,
     "message_times": [
-      1767551059.832299
+      1767557398.107362
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -6030,11 +6030,12 @@
     "is_premium": false
   },
   "8321617891": {
-    "last_message_time": 1767557384.980584,
+    "last_message_time": 1767557389.512893,
     "message_times": [
       1767557344.173729,
       1767557354.847696,
-      1767557384.980584
+      1767557384.980584,
+      1767557389.512893
     ],
     "spam_count": 0,
     "warnings_given": 0,
