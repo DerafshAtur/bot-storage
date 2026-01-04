@@ -5823,10 +5823,9 @@
     "is_premium": false
   },
   "1202249440": {
-    "last_message_time": 1767546161.162332,
+    "last_message_time": 1767551059.832299,
     "message_times": [
-      1767546136.769883,
-      1767546161.162332
+      1767551059.832299
     ],
     "spam_count": 0,
     "warnings_given": 0,
