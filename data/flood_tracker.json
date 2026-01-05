@@ -6468,9 +6468,10 @@
     "is_premium": false
   },
   "8560975776": {
-    "last_message_time": 1767619619.843539,
+    "last_message_time": 1767619644.735382,
     "message_times": [
-      1767619619.843539
+      1767619619.843539,
+      1767619644.735382
     ],
     "spam_count": 0,
     "warnings_given": 0,
