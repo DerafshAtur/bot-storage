@@ -6682,9 +6682,10 @@
     "is_premium": false
   },
   "8274284589": {
-    "last_message_time": 1767636959.639967,
+    "last_message_time": 1767636966.521142,
     "message_times": [
-      1767636959.639967
+      1767636959.639967,
+      1767636966.521142
     ],
     "spam_count": 0,
     "warnings_given": 0,
