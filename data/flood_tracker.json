@@ -6253,10 +6253,11 @@
     "is_premium": false
   },
   "6551043424": {
-    "last_message_time": 1767597701.43712,
+    "last_message_time": 1767597729.723792,
     "message_times": [
       1767597672.977651,
-      1767597701.43712
+      1767597701.43712,
+      1767597729.723792
     ],
     "spam_count": 0,
     "warnings_given": 0,
