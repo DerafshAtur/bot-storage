@@ -6393,9 +6393,17 @@
   },
   "8413587931": {
     "last_message_time": 1767611158.398749,
+    "message_times": [],
+    "spam_count": 2,
+    "warnings_given": 0,
+    "blocked_until": 1767611758.484627,
+    "total_warnings": 1,
+    "is_premium": false
+  },
+  "7406031961": {
+    "last_message_time": 1767611202.434464,
     "message_times": [
-      1767611158.313053,
-      1767611158.398749
+      1767611202.434464
     ],
     "spam_count": 0,
     "warnings_given": 0,
