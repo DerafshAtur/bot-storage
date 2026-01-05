@@ -6669,10 +6669,11 @@
     "is_premium": false
   },
   "8025935908": {
-    "last_message_time": 1767635961.805958,
+    "last_message_time": 1767635976.212504,
     "message_times": [
       1767635935.416366,
-      1767635961.805958
+      1767635961.805958,
+      1767635976.212504
     ],
     "spam_count": 0,
     "warnings_given": 0,
