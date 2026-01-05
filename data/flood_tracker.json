@@ -6531,9 +6531,10 @@
     "is_premium": false
   },
   "5724597652": {
-    "last_message_time": 1767624429.501297,
+    "last_message_time": 1767624511.806142,
     "message_times": [
-      1767624429.501297
+      1767624429.501297,
+      1767624511.806142
     ],
     "spam_count": 0,
     "warnings_given": 0,
