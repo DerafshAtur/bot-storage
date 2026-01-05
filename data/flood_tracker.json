@@ -6753,9 +6753,11 @@
     "is_premium": false
   },
   "7386074445": {
-    "last_message_time": 1767642590.278805,
+    "last_message_time": 1767642622.459237,
     "message_times": [
-      1767642590.278805
+      1767642590.278805,
+      1767642600.896541,
+      1767642622.459237
     ],
     "spam_count": 0,
     "warnings_given": 0,
