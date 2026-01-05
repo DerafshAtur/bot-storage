@@ -6422,5 +6422,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "6444234400": {
+    "last_message_time": 1767614974.314255,
+    "message_times": [
+      1767614974.314255
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
