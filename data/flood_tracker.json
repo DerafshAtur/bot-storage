@@ -6728,10 +6728,10 @@
     "is_premium": false
   },
   "127480378": {
-    "last_message_time": 1767641457.739704,
+    "last_message_time": 1767641561.625226,
     "message_times": [
-      1767641441.318458,
-      1767641457.739704
+      1767641457.739704,
+      1767641561.625226
     ],
     "spam_count": 0,
     "warnings_given": 0,
