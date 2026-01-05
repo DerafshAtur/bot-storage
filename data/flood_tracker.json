@@ -6518,9 +6518,10 @@
     "is_premium": false
   },
   "7229015417": {
-    "last_message_time": 1767623671.790094,
+    "last_message_time": 1767623673.457535,
     "message_times": [
-      1767623671.790094
+      1767623671.790094,
+      1767623673.457535
     ],
     "spam_count": 0,
     "warnings_given": 0,
