@@ -6253,9 +6253,10 @@
     "is_premium": false
   },
   "6551043424": {
-    "last_message_time": 1767596678.097835,
+    "last_message_time": 1767596694.259452,
     "message_times": [
-      1767596678.097835
+      1767596678.097835,
+      1767596694.259452
     ],
     "spam_count": 0,
     "warnings_given": 0,
