@@ -6842,9 +6842,10 @@
     "is_premium": false
   },
   "7443421415": {
-    "last_message_time": 1767653171.999983,
+    "last_message_time": 1767653179.074033,
     "message_times": [
-      1767653171.999983
+      1767653171.999983,
+      1767653179.074033
     ],
     "spam_count": 0,
     "warnings_given": 0,
