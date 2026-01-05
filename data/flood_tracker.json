@@ -6568,9 +6568,10 @@
     "is_premium": false
   },
   "5603540478": {
-    "last_message_time": 1767628944.008039,
+    "last_message_time": 1767628956.343711,
     "message_times": [
-      1767628944.008039
+      1767628944.008039,
+      1767628956.343711
     ],
     "spam_count": 0,
     "warnings_given": 0,
