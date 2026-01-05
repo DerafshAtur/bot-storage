@@ -6305,9 +6305,10 @@
     "is_premium": false
   },
   "6613043758": {
-    "last_message_time": 1767602872.747548,
+    "last_message_time": 1767602878.629415,
     "message_times": [
-      1767602872.747548
+      1767602872.747548,
+      1767602878.629415
     ],
     "spam_count": 0,
     "warnings_given": 0,
