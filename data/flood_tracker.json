@@ -6392,10 +6392,9 @@
     "is_premium": false
   },
   "8413587931": {
-    "last_message_time": 1767610549.195021,
+    "last_message_time": 1767610677.151805,
     "message_times": [
-      1767610508.670319,
-      1767610549.195021
+      1767610677.151805
     ],
     "spam_count": 0,
     "warnings_given": 0,
