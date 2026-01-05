@@ -6800,9 +6800,10 @@
     "is_premium": false
   },
   "8260645687": {
-    "last_message_time": 1767650268.477204,
+    "last_message_time": 1767650314.82073,
     "message_times": [
-      1767650268.477204
+      1767650268.477204,
+      1767650314.82073
     ],
     "spam_count": 0,
     "warnings_given": 0,
