@@ -6269,10 +6269,11 @@
     "is_premium": false
   },
   "8536668417": {
-    "last_message_time": 1767599870.769726,
+    "last_message_time": 1767599935.62231,
     "message_times": [
       1767599816.357831,
-      1767599870.769726
+      1767599870.769726,
+      1767599935.62231
     ],
     "spam_count": 0,
     "warnings_given": 0,
