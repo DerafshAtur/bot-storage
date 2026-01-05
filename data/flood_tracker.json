@@ -6412,9 +6412,10 @@
     "is_premium": false
   },
   "7480070324": {
-    "last_message_time": 1767614366.470447,
+    "last_message_time": 1767614445.74648,
     "message_times": [
-      1767614366.470447
+      1767614366.470447,
+      1767614445.74648
     ],
     "spam_count": 0,
     "warnings_given": 0,
