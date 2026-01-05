@@ -6328,10 +6328,11 @@
     "is_premium": false
   },
   "6298539648": {
-    "last_message_time": 1767605332.617531,
+    "last_message_time": 1767605355.163542,
     "message_times": [
       1767605257.245513,
-      1767605332.617531
+      1767605332.617531,
+      1767605355.163542
     ],
     "spam_count": 0,
     "warnings_given": 0,
