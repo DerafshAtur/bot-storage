@@ -6163,10 +6163,11 @@
     "is_premium": false
   },
   "8097161161": {
-    "last_message_time": 1767572174.088228,
+    "last_message_time": 1767572226.672903,
     "message_times": [
       1767572125.049521,
-      1767572174.088228
+      1767572174.088228,
+      1767572226.672903
     ],
     "spam_count": 0,
     "warnings_given": 0,
