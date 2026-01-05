@@ -6352,9 +6352,10 @@
     "is_premium": false
   },
   "7388205804": {
-    "last_message_time": 1767606627.541164,
+    "last_message_time": 1767606823.199599,
     "message_times": [
-      1767606627.541164
+      1767606743.392892,
+      1767606823.199599
     ],
     "spam_count": 0,
     "warnings_given": 0,
