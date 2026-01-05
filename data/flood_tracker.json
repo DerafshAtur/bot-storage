@@ -6364,10 +6364,11 @@
     "is_premium": false
   },
   "7990774453": {
-    "last_message_time": 1767608034.042649,
+    "last_message_time": 1767608041.24681,
     "message_times": [
       1767607968.876738,
-      1767608034.042649
+      1767608034.042649,
+      1767608041.24681
     ],
     "spam_count": 0,
     "warnings_given": 0,
