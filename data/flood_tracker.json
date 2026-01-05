@@ -6531,10 +6531,11 @@
     "is_premium": false
   },
   "5724597652": {
-    "last_message_time": 1767624168.520182,
+    "last_message_time": 1767624191.523462,
     "message_times": [
       1767624072.374472,
-      1767624168.520182
+      1767624168.520182,
+      1767624191.523462
     ],
     "spam_count": 0,
     "warnings_given": 0,
