@@ -6779,9 +6779,10 @@
     "is_premium": false
   },
   "6453706629": {
-    "last_message_time": 1767648373.677539,
+    "last_message_time": 1767648408.720048,
     "message_times": [
-      1767648373.677539
+      1767648373.677539,
+      1767648408.720048
     ],
     "spam_count": 0,
     "warnings_given": 0,
