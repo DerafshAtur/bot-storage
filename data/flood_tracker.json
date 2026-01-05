@@ -6493,9 +6493,10 @@
     "is_premium": false
   },
   "7020916529": {
-    "last_message_time": 1767621277.848885,
+    "last_message_time": 1767621360.110338,
     "message_times": [
-      1767621277.848885
+      1767621277.848885,
+      1767621360.110338
     ],
     "spam_count": 0,
     "warnings_given": 0,
