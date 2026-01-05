@@ -5633,10 +5633,11 @@
     "is_premium": false
   },
   "7256384572": {
-    "last_message_time": 1767610599.636419,
+    "last_message_time": 1767610623.417128,
     "message_times": [
       1767610564.210711,
-      1767610599.636419
+      1767610599.636419,
+      1767610623.417128
     ],
     "spam_count": 0,
     "warnings_given": 0,
