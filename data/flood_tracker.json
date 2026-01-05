@@ -6376,9 +6376,10 @@
     "is_premium": false
   },
   "8259043980": {
-    "last_message_time": 1767610108.996505,
+    "last_message_time": 1767610116.114988,
     "message_times": [
-      1767610108.996505
+      1767610108.996505,
+      1767610116.114988
     ],
     "spam_count": 0,
     "warnings_given": 0,
