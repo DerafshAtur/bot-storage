@@ -6240,5 +6240,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "5625334098": {
+    "last_message_time": 1767595561.898914,
+    "message_times": [
+      1767595561.898914
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
