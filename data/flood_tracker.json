@@ -6424,10 +6424,11 @@
     "is_premium": false
   },
   "6444234400": {
-    "last_message_time": 1767615335.46708,
+    "last_message_time": 1767615381.176319,
     "message_times": [
       1767615266.360092,
-      1767615335.46708
+      1767615335.46708,
+      1767615381.176319
     ],
     "spam_count": 0,
     "warnings_given": 0,
