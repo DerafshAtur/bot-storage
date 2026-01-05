@@ -6606,9 +6606,10 @@
     "is_premium": false
   },
   "7060154611": {
-    "last_message_time": 1767630617.96561,
+    "last_message_time": 1767630634.747515,
     "message_times": [
-      1767630617.96561
+      1767630617.96561,
+      1767630634.747515
     ],
     "spam_count": 0,
     "warnings_given": 0,
