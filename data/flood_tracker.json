@@ -6812,11 +6812,9 @@
     "is_premium": false
   },
   "7822874061": {
-    "last_message_time": 1767650547.783725,
+    "last_message_time": 1767650690.278478,
     "message_times": [
-      1767650514.608011,
-      1767650534.892871,
-      1767650547.783725
+      1767650690.278478
     ],
     "spam_count": 0,
     "warnings_given": 0,
