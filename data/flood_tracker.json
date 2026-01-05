@@ -6230,9 +6230,10 @@
     "is_premium": false
   },
   "926816120": {
-    "last_message_time": 1767594115.039363,
+    "last_message_time": 1767594147.523835,
     "message_times": [
-      1767594115.039363
+      1767594115.039363,
+      1767594147.523835
     ],
     "spam_count": 0,
     "warnings_given": 0,
