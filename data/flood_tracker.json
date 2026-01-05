@@ -6593,10 +6593,11 @@
     "is_premium": false
   },
   "7420596366": {
-    "last_message_time": 1767630590.979842,
+    "last_message_time": 1767630615.77964,
     "message_times": [
       1767630576.355804,
-      1767630590.979842
+      1767630590.979842,
+      1767630615.77964
     ],
     "spam_count": 0,
     "warnings_given": 0,
