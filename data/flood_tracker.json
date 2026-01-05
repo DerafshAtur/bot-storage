@@ -6410,5 +6410,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "7480070324": {
+    "last_message_time": 1767614366.470447,
+    "message_times": [
+      1767614366.470447
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
