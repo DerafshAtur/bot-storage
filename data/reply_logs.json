@@ -6635,6 +6635,12 @@
       "content": "\u0627\u06cc\u0646\u0648 \u0628\u0631\u0627\u0645 \u0642\u0634\u0646\u06af \u06a9\u0646",
       "timestamp": "2026-01-05 09:25:27.764900",
       "reply_to": null
+    },
+    {
+      "message_id": 12848,
+      "content": "\u23f3 Please wait 7 seconds before sending another message.",
+      "timestamp": "2026-01-05 09:26:12.596825",
+      "reply_to": null
     }
   ]
 }
