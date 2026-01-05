@@ -6741,9 +6741,10 @@
     "is_premium": false
   },
   "8037246430": {
-    "last_message_time": 1767642441.269828,
+    "last_message_time": 1767642474.04741,
     "message_times": [
-      1767642441.269828
+      1767642441.269828,
+      1767642474.04741
     ],
     "spam_count": 0,
     "warnings_given": 0,
