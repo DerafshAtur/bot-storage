@@ -6840,5 +6840,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "7443421415": {
+    "last_message_time": 1767653171.999983,
+    "message_times": [
+      1767653171.999983
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
