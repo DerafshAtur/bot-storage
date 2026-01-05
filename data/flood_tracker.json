@@ -4994,9 +4994,10 @@
     "is_premium": false
   },
   "6957016329": {
-    "last_message_time": 1767593797.52306,
+    "last_message_time": 1767593827.693886,
     "message_times": [
-      1767593797.52306
+      1767593797.52306,
+      1767593827.693886
     ],
     "spam_count": 0,
     "warnings_given": 0,
