@@ -1157,10 +1157,9 @@
     "is_premium": false
   },
   "7018630794": {
-    "last_message_time": 1767628063.540851,
+    "last_message_time": 1767629324.336555,
     "message_times": [
-      1767628063.457426,
-      1767628063.540851
+      1767629324.336555
     ],
     "spam_count": 0,
     "warnings_given": 0,
