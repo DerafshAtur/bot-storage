@@ -6640,9 +6640,10 @@
     "is_premium": false
   },
   "6419017055": {
-    "last_message_time": 1767632673.190897,
+    "last_message_time": 1767632678.314075,
     "message_times": [
-      1767632673.190897
+      1767632673.190897,
+      1767632678.314075
     ],
     "spam_count": 0,
     "warnings_given": 0,
