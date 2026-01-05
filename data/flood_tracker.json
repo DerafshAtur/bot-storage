@@ -6296,10 +6296,9 @@
     "is_premium": false
   },
   "7761771823": {
-    "last_message_time": 1767601152.791292,
+    "last_message_time": 1767601295.482949,
     "message_times": [
-      1767601126.595434,
-      1767601152.791292
+      1767601295.482949
     ],
     "spam_count": 0,
     "warnings_given": 0,
