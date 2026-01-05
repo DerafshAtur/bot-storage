@@ -6544,9 +6544,10 @@
     "is_premium": false
   },
   "8459201808": {
-    "last_message_time": 1767626616.103628,
+    "last_message_time": 1767626619.701093,
     "message_times": [
-      1767626616.103628
+      1767626616.103628,
+      1767626619.701093
     ],
     "spam_count": 0,
     "warnings_given": 0,
