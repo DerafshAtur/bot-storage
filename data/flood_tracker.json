@@ -7179,9 +7179,10 @@
     "is_premium": false
   },
   "7346852434": {
-    "last_message_time": 1767722692.76395,
+    "last_message_time": 1767722720.935771,
     "message_times": [
-      1767722692.76395
+      1767722692.76395,
+      1767722720.935771
     ],
     "spam_count": 0,
     "warnings_given": 0,
