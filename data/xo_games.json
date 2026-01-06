@@ -94,5 +94,29 @@
     "message_id": 1821,
     "created_at": "2026-01-06T11:20:15.990414",
     "last_move": null
+  },
+  "1c891b14": {
+    "player1": 6556736511,
+    "player1_name": "HrOSha",
+    "player2": null,
+    "player2_name": null,
+    "current_player": 6556736511,
+    "current_player_name": "HrOSha",
+    "board": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "status": "waiting",
+    "chat_id": -1003404467040,
+    "message_id": 1824,
+    "created_at": "2026-01-06T11:21:38.580780",
+    "last_move": null
   }
 }
