@@ -7052,9 +7052,10 @@
     "is_premium": false
   },
   "8541745272": {
-    "last_message_time": 1767709338.721739,
+    "last_message_time": 1767709382.83087,
     "message_times": [
-      1767709338.721739
+      1767709338.721739,
+      1767709382.83087
     ],
     "spam_count": 0,
     "warnings_given": 0,
