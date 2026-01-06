@@ -3186,10 +3186,11 @@
     "is_premium": false
   },
   "8024974927": {
-    "last_message_time": 1767719606.524211,
+    "last_message_time": 1767719655.532214,
     "message_times": [
       1767719560.517478,
-      1767719606.524211
+      1767719606.524211,
+      1767719655.532214
     ],
     "spam_count": 0,
     "warnings_given": 0,
