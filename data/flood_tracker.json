@@ -7025,9 +7025,10 @@
     "is_premium": false
   },
   "8130747946": {
-    "last_message_time": 1767706339.20776,
+    "last_message_time": 1767706372.101435,
     "message_times": [
-      1767706339.20776
+      1767706339.20776,
+      1767706372.101435
     ],
     "spam_count": 0,
     "warnings_given": 0,
