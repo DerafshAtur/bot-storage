@@ -7104,10 +7104,9 @@
     "is_premium": false
   },
   "7900225914": {
-    "last_message_time": 1767715621.962424,
+    "last_message_time": 1767716437.389861,
     "message_times": [
-      1767715568.260316,
-      1767715621.962424
+      1767716437.389861
     ],
     "spam_count": 0,
     "warnings_given": 0,
