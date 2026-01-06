@@ -70,5 +70,29 @@
     "message_id": 1098,
     "created_at": "2026-01-06T08:49:26.254986",
     "last_move": null
+  },
+  "cdf6816c": {
+    "player1": 8429285836,
+    "player1_name": "MyDCO02",
+    "player2": null,
+    "player2_name": null,
+    "current_player": 8429285836,
+    "current_player_name": "MyDCO02",
+    "board": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "status": "waiting",
+    "chat_id": -1003404467040,
+    "message_id": 1821,
+    "created_at": "2026-01-06T11:20:15.990414",
+    "last_move": null
   }
 }
