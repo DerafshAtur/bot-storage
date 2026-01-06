@@ -7142,10 +7142,11 @@
     "is_premium": false
   },
   "7294046705": {
-    "last_message_time": 1767722990.173869,
+    "last_message_time": 1767723000.040095,
     "message_times": [
       1767722924.976018,
-      1767722990.173869
+      1767722990.173869,
+      1767723000.040095
     ],
     "spam_count": 0,
     "warnings_given": 0,
