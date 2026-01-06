@@ -146,8 +146,8 @@
   "f27d7afc": {
     "player1": 6556736511,
     "player1_name": "HrOSha",
-    "player2": null,
-    "player2_name": null,
+    "player2": 8429285836,
+    "player2_name": "MyDCO02",
     "current_player": 6556736511,
     "current_player_name": "HrOSha",
     "board": [
@@ -161,7 +161,7 @@
       " ",
       " "
     ],
-    "status": "waiting",
+    "status": "active",
     "chat_id": -1003404467040,
     "message_id": 1828,
     "created_at": "2026-01-06T11:21:44.598826",
