@@ -7076,5 +7076,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "100162883": {
+    "last_message_time": 1767713648.208749,
+    "message_times": [
+      1767713648.208749
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
