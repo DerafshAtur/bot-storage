@@ -7116,10 +7116,11 @@
     "is_premium": false
   },
   "7358765439": {
-    "last_message_time": 1767716067.656821,
+    "last_message_time": 1767716110.479347,
     "message_times": [
       1767716034.361871,
-      1767716067.656821
+      1767716067.656821,
+      1767716110.479347
     ],
     "spam_count": 0,
     "warnings_given": 0,
