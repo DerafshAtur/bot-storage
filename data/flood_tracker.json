@@ -1770,11 +1770,9 @@
     "is_premium": false
   },
   "5439641019": {
-    "last_message_time": 1766495224.513207,
+    "last_message_time": 1767743640.475518,
     "message_times": [
-      1766495113.98984,
-      1766495134.065765,
-      1766495224.513207
+      1767743640.475518
     ],
     "spam_count": 0,
     "warnings_given": 0,
