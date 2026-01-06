@@ -6325,10 +6325,9 @@
     "is_premium": false
   },
   "7701315720": {
-    "last_message_time": 1767741048.357356,
+    "last_message_time": 1767741176.364314,
     "message_times": [
-      1767741017.885827,
-      1767741048.357356
+      1767741176.364314
     ],
     "spam_count": 0,
     "warnings_given": 0,
