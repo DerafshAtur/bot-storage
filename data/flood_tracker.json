@@ -6984,9 +6984,10 @@
     "is_premium": false
   },
   "8585686713": {
-    "last_message_time": 1767704894.791824,
+    "last_message_time": 1767704936.800412,
     "message_times": [
-      1767704894.791824
+      1767704894.791824,
+      1767704936.800412
     ],
     "spam_count": 0,
     "warnings_given": 0,
