@@ -7199,10 +7199,11 @@
     "is_premium": false
   },
   "6708752515": {
-    "last_message_time": 1767726348.103049,
+    "last_message_time": 1767726353.011752,
     "message_times": [
       1767726258.137155,
-      1767726348.103049
+      1767726348.103049,
+      1767726353.011752
     ],
     "spam_count": 0,
     "warnings_given": 0,
