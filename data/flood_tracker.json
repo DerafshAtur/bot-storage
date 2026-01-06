@@ -6909,5 +6909,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "7782987792": {
+    "last_message_time": 1767696590.899049,
+    "message_times": [
+      1767696590.899049
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
