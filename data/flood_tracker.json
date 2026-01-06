@@ -7164,10 +7164,11 @@
     "is_premium": false
   },
   "6878390109": {
-    "last_message_time": 1767722288.24153,
+    "last_message_time": 1767722308.342616,
     "message_times": [
       1767722262.210877,
-      1767722288.24153
+      1767722288.24153,
+      1767722308.342616
     ],
     "spam_count": 0,
     "warnings_given": 0,
