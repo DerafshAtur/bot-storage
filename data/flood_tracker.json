@@ -7038,10 +7038,11 @@
     "is_premium": false
   },
   "7530573932": {
-    "last_message_time": 1767708822.705316,
+    "last_message_time": 1767708834.229382,
     "message_times": [
       1767708804.657101,
-      1767708822.705316
+      1767708822.705316,
+      1767708834.229382
     ],
     "spam_count": 0,
     "warnings_given": 0,
