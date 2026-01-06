@@ -6945,5 +6945,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "8119417161": {
+    "last_message_time": 1767698768.129602,
+    "message_times": [
+      1767698768.129602
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
