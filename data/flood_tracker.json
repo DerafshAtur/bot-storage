@@ -7065,9 +7065,10 @@
     "is_premium": false
   },
   "7089071806": {
-    "last_message_time": 1767710124.702782,
+    "last_message_time": 1767710180.47884,
     "message_times": [
-      1767710124.702782
+      1767710124.702782,
+      1767710180.47884
     ],
     "spam_count": 0,
     "warnings_given": 0,
