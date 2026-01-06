@@ -5230,10 +5230,11 @@
     "is_premium": false
   },
   "7052895960": {
-    "last_message_time": 1767730944.533793,
+    "last_message_time": 1767731026.696487,
     "message_times": [
       1767730910.723977,
-      1767730944.533793
+      1767730944.533793,
+      1767731026.696487
     ],
     "spam_count": 0,
     "warnings_given": 0,
