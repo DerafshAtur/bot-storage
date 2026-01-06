@@ -6889,9 +6889,10 @@
     "is_premium": false
   },
   "1241427172": {
-    "last_message_time": 1767688582.287734,
+    "last_message_time": 1767688672.224234,
     "message_times": [
-      1767688582.287734
+      1767688582.287734,
+      1767688672.224234
     ],
     "spam_count": 0,
     "warnings_given": 0,
