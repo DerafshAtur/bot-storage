@@ -6947,9 +6947,10 @@
     "is_premium": false
   },
   "8119417161": {
-    "last_message_time": 1767698768.129602,
+    "last_message_time": 1767698788.587481,
     "message_times": [
-      1767698768.129602
+      1767698768.129602,
+      1767698788.587481
     ],
     "spam_count": 0,
     "warnings_given": 0,
