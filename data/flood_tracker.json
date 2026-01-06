@@ -6346,10 +6346,11 @@
     "is_premium": false
   },
   "7438616589": {
-    "last_message_time": 1767730448.696206,
+    "last_message_time": 1767730505.381511,
     "message_times": [
       1767730430.155907,
-      1767730448.696206
+      1767730448.696206,
+      1767730505.381511
     ],
     "spam_count": 0,
     "warnings_given": 0,
