@@ -6889,10 +6889,11 @@
     "is_premium": false
   },
   "1241427172": {
-    "last_message_time": 1767688388.336069,
+    "last_message_time": 1767688404.662848,
     "message_times": [
       1767688369.694439,
-      1767688388.336069
+      1767688388.336069,
+      1767688404.662848
     ],
     "spam_count": 0,
     "warnings_given": 0,
