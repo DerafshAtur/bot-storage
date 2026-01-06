@@ -6996,10 +6996,11 @@
     "is_premium": false
   },
   "7023910565": {
-    "last_message_time": 1767705414.18462,
+    "last_message_time": 1767705432.866225,
     "message_times": [
       1767705395.418578,
-      1767705414.18462
+      1767705414.18462,
+      1767705432.866225
     ],
     "spam_count": 0,
     "warnings_given": 0,
