@@ -3192,12 +3192,13 @@
       1767795469.588067,
       1767795473.110816,
       1767795474.708646,
-      1767795475.40728
+      1767795475.40728,
+      1767795476.115174
     ],
-    "spam_count": 2,
-    "warnings_given": 0,
+    "spam_count": 3,
+    "warnings_given": 1,
     "blocked_until": 1767795171.028411,
-    "total_warnings": 1,
+    "total_warnings": 2,
     "is_premium": false
   },
   "7041866887": {
