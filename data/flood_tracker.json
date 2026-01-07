@@ -7623,10 +7623,9 @@
     "is_premium": false
   },
   "7506485297": {
-    "last_message_time": 1767818245.407288,
+    "last_message_time": 1767818483.298076,
     "message_times": [
-      1767818166.980255,
-      1767818245.407288
+      1767818483.298076
     ],
     "spam_count": 0,
     "warnings_given": 0,
