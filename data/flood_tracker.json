@@ -7648,10 +7648,11 @@
     "is_premium": false
   },
   "7521580771": {
-    "last_message_time": 1767823340.537862,
+    "last_message_time": 1767823357.362942,
     "message_times": [
       1767823336.01764,
-      1767823340.537862
+      1767823340.537862,
+      1767823357.362942
     ],
     "spam_count": 0,
     "warnings_given": 0,
