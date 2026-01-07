@@ -3186,9 +3186,10 @@
     "is_premium": false
   },
   "8024974927": {
-    "last_message_time": 1767801702.525357,
+    "last_message_time": 1767801734.790188,
     "message_times": [
-      1767801702.525357
+      1767801702.525357,
+      1767801734.790188
     ],
     "spam_count": 4,
     "warnings_given": 0,
