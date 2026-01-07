@@ -7637,9 +7637,10 @@
     "is_premium": false
   },
   "6822710413": {
-    "last_message_time": 1767819925.507006,
+    "last_message_time": 1767820024.769268,
     "message_times": [
-      1767819925.507006
+      1767819925.507006,
+      1767820024.769268
     ],
     "spam_count": 0,
     "warnings_given": 0,
