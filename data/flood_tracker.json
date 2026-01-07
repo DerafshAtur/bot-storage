@@ -7356,9 +7356,10 @@
     "is_premium": false
   },
   "7917927280": {
-    "last_message_time": 1767766923.928023,
+    "last_message_time": 1767766945.504011,
     "message_times": [
-      1767766923.928023
+      1767766923.928023,
+      1767766945.504011
     ],
     "spam_count": 0,
     "warnings_given": 0,
