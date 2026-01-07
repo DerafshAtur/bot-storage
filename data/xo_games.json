@@ -1,28 +1,4 @@
 {
-  "2c6a44cf": {
-    "player1": 5900021344,
-    "player1_name": "Armin3355",
-    "player2": null,
-    "player2_name": null,
-    "current_player": 5900021344,
-    "current_player_name": "Armin3355",
-    "board": [
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " "
-    ],
-    "status": "waiting",
-    "chat_id": -1003294662184,
-    "message_id": 1098,
-    "created_at": "2026-01-06T08:49:26.254986",
-    "last_move": null
-  },
   "cdf6816c": {
     "player1": 8429285836,
     "player1_name": "MyDCO02",
