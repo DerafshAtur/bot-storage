@@ -7239,9 +7239,10 @@
     "is_premium": false
   },
   "8031787834": {
-    "last_message_time": 1767823176.512189,
+    "last_message_time": 1767823237.989258,
     "message_times": [
-      1767823176.512189
+      1767823176.512189,
+      1767823237.989258
     ],
     "spam_count": 0,
     "warnings_given": 0,
