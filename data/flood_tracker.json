@@ -7392,5 +7392,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "7255572389": {
+    "last_message_time": 1767777949.083442,
+    "message_times": [
+      1767777949.083442
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
