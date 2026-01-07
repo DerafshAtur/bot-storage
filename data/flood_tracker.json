@@ -7599,5 +7599,27 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "6403030263": {
+    "last_message_time": 1767817287.979022,
+    "message_times": [
+      1767817287.979022
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "8550608856": {
+    "last_message_time": 1767817961.252461,
+    "message_times": [
+      1767817961.252461
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
