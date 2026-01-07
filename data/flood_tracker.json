@@ -7540,10 +7540,11 @@
     "is_premium": false
   },
   "8041161254": {
-    "last_message_time": 1767815260.039327,
+    "last_message_time": 1767815267.974527,
     "message_times": [
       1767815231.302369,
-      1767815260.039327
+      1767815260.039327,
+      1767815267.974527
     ],
     "spam_count": 0,
     "warnings_given": 0,
