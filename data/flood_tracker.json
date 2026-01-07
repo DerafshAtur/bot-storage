@@ -7220,11 +7220,9 @@
     "is_premium": false
   },
   "8060331063": {
-    "last_message_time": 1767728729.657385,
+    "last_message_time": 1767782239.315295,
     "message_times": [
-      1767728653.14621,
-      1767728694.033906,
-      1767728729.657385
+      1767782239.315295
     ],
     "spam_count": 0,
     "warnings_given": 0,
