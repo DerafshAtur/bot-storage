@@ -2142,10 +2142,9 @@
     "is_premium": false
   },
   "2070260557": {
-    "last_message_time": 1766511378.764641,
+    "last_message_time": 1767818032.9459,
     "message_times": [
-      1766511286.456157,
-      1766511378.764641
+      1767818032.9459
     ],
     "spam_count": 0,
     "warnings_given": 0,
