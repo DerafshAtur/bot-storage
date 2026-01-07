@@ -7457,5 +7457,17 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "8099587488": {
+    "last_message_time": 1767788468.977703,
+    "message_times": [
+      1767788442.941047,
+      1767788468.977703
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
