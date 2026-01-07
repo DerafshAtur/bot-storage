@@ -7394,9 +7394,10 @@
     "is_premium": false
   },
   "7255572389": {
-    "last_message_time": 1767778371.879298,
+    "last_message_time": 1767778410.638507,
     "message_times": [
-      1767778371.879298
+      1767778371.879298,
+      1767778410.638507
     ],
     "spam_count": 0,
     "warnings_given": 0,
