@@ -7495,9 +7495,10 @@
     "is_premium": false
   },
   "7878413496": {
-    "last_message_time": 1767796032.403733,
+    "last_message_time": 1767796063.542521,
     "message_times": [
-      1767796032.403733
+      1767796032.403733,
+      1767796063.542521
     ],
     "spam_count": 0,
     "warnings_given": 0,
