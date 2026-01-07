@@ -1803,11 +1803,9 @@
     "is_premium": false
   },
   "8346873407": {
-    "last_message_time": 1767732885.624797,
+    "last_message_time": 1767795692.193906,
     "message_times": [
-      1767732768.399523,
-      1767732831.448239,
-      1767732885.624797
+      1767795692.193906
     ],
     "spam_count": 0,
     "warnings_given": 0,
