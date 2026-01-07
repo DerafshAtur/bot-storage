@@ -5824,10 +5824,11 @@
     "is_premium": false
   },
   "1202249440": {
-    "last_message_time": 1767780123.962671,
+    "last_message_time": 1767780145.674381,
     "message_times": [
       1767780096.371392,
-      1767780123.962671
+      1767780123.962671,
+      1767780145.674381
     ],
     "spam_count": 0,
     "warnings_given": 0,
