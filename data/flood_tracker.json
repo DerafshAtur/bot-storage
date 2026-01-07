@@ -7299,10 +7299,11 @@
     "is_premium": false
   },
   "8578433177": {
-    "last_message_time": 1767744366.36547,
+    "last_message_time": 1767744401.367939,
     "message_times": [
       1767744344.265672,
-      1767744366.36547
+      1767744366.36547,
+      1767744401.367939
     ],
     "spam_count": 0,
     "warnings_given": 0,
