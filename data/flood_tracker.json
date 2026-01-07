@@ -7486,10 +7486,11 @@
     "is_premium": false
   },
   "7400398290": {
-    "last_message_time": 1767794525.770815,
+    "last_message_time": 1767794532.230418,
     "message_times": [
       1767794460.535522,
-      1767794525.770815
+      1767794525.770815,
+      1767794532.230418
     ],
     "spam_count": 0,
     "warnings_given": 0,
