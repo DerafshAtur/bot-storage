@@ -7370,10 +7370,11 @@
     "is_premium": false
   },
   "7871151288": {
-    "last_message_time": 1767773344.479413,
+    "last_message_time": 1767773375.020621,
     "message_times": [
       1767773320.931707,
-      1767773344.479413
+      1767773344.479413,
+      1767773375.020621
     ],
     "spam_count": 0,
     "warnings_given": 0,
