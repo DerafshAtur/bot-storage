@@ -148,8 +148,8 @@
     "player1_name": "D3R4F5H",
     "player2": 1759734974,
     "player2_name": "ferchenof",
-    "current_player": 6001769473,
-    "current_player_name": "D3R4F5H",
+    "current_player": 1759734974,
+    "current_player_name": "ferchenof",
     "board": [
       " ",
       " ",
@@ -158,13 +158,13 @@
       "\u274c",
       " ",
       "\u2b55\ufe0f",
-      " ",
+      "\u274c",
       "\u2b55\ufe0f"
     ],
     "status": "active",
     "chat_id": -1002177293171,
     "message_id": 3212502,
     "created_at": "2026-01-07T07:51:14.504053",
-    "last_move": "2026-01-07T07:52:23.890263"
+    "last_move": "2026-01-07T07:52:27.640669"
   }
 }
