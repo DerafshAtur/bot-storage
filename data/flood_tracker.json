@@ -7795,11 +7795,9 @@
     "is_premium": false
   },
   "8064127987": {
-    "last_message_time": 1769130772.796444,
+    "last_message_time": 1769208615.707428,
     "message_times": [
-      1769130654.278233,
-      1769130680.012818,
-      1769130772.796444
+      1769208615.707428
     ],
     "spam_count": 0,
     "warnings_given": 0,
