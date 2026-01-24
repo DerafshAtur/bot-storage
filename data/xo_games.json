@@ -2,8 +2,8 @@
   "12f2fcb0": {
     "player1": 6001769473,
     "player1_name": "D3R4F5H",
-    "player2": null,
-    "player2_name": null,
+    "player2": 8103701446,
+    "player2_name": "Sina_amx",
     "current_player": 6001769473,
     "current_player_name": "D3R4F5H",
     "board": [
@@ -17,7 +17,7 @@
       " ",
       " "
     ],
-    "status": "waiting",
+    "status": "active",
     "chat_id": -1002177293171,
     "message_id": 3236139,
     "created_at": "2026-01-24T19:46:01.365265",
