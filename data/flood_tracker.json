@@ -7850,10 +7850,9 @@
     "is_premium": false
   },
   "8350594375": {
-    "last_message_time": 1769210099.516666,
+    "last_message_time": 1769273279.087762,
     "message_times": [
-      1769210043.323242,
-      1769210099.516666
+      1769273279.087762
     ],
     "spam_count": 0,
     "warnings_given": 0,
