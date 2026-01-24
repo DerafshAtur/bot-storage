@@ -7899,9 +7899,10 @@
     "is_premium": false
   },
   "830589531": {
-    "last_message_time": 1769286597.814477,
+    "last_message_time": 1769286651.665056,
     "message_times": [
-      1769286597.814477
+      1769286597.814477,
+      1769286651.665056
     ],
     "spam_count": 0,
     "warnings_given": 0,
