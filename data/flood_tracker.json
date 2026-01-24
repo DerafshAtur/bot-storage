@@ -7874,10 +7874,11 @@
     "is_premium": false
   },
   "8103701446": {
-    "last_message_time": 1769285052.527102,
+    "last_message_time": 1769285059.940892,
     "message_times": [
       1769285041.417138,
-      1769285052.527102
+      1769285052.527102,
+      1769285059.940892
     ],
     "spam_count": 0,
     "warnings_given": 0,
