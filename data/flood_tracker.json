@@ -7912,10 +7912,11 @@
     "is_premium": false
   },
   "8057647633": {
-    "last_message_time": 1769314579.682902,
+    "last_message_time": 1769314612.712594,
     "message_times": [
       1769314534.343683,
-      1769314579.682902
+      1769314579.682902,
+      1769314612.712594
     ],
     "spam_count": 0,
     "warnings_given": 0,
