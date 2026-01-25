@@ -7754,9 +7754,10 @@
     "is_premium": false
   },
   "8565568390": {
-    "last_message_time": 1769305336.378486,
+    "last_message_time": 1769305372.951648,
     "message_times": [
-      1769305336.378486
+      1769305336.378486,
+      1769305372.951648
     ],
     "spam_count": 0,
     "warnings_given": 0,
