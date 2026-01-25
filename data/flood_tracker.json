@@ -7920,9 +7920,10 @@
     "is_premium": false
   },
   "7460168428": {
-    "last_message_time": 1769329580.960157,
+    "last_message_time": 1769329667.079734,
     "message_times": [
-      1769329580.960157
+      1769329580.960157,
+      1769329667.079734
     ],
     "spam_count": 0,
     "warnings_given": 0,
