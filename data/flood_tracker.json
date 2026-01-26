@@ -7944,10 +7944,11 @@
     "is_premium": false
   },
   "7697967047": {
-    "last_message_time": 1769424558.193624,
+    "last_message_time": 1769424584.949873,
     "message_times": [
       1769424537.984477,
-      1769424558.193624
+      1769424558.193624,
+      1769424584.949873
     ],
     "spam_count": 0,
     "warnings_given": 0,
