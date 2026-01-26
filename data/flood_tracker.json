@@ -2110,9 +2110,10 @@
     "is_premium": false
   },
   "7268301685": {
-    "last_message_time": 1769397544.336215,
+    "last_message_time": 1769397567.869304,
     "message_times": [
-      1769397544.336215
+      1769397544.336215,
+      1769397567.869304
     ],
     "spam_count": 2,
     "warnings_given": 0,
