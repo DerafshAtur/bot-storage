@@ -1746,10 +1746,9 @@
     "is_premium": false
   },
   "692574033": {
-    "last_message_time": 1769424831.770499,
+    "last_message_time": 1769424974.540137,
     "message_times": [
-      1769424771.513248,
-      1769424831.770499
+      1769424974.540137
     ],
     "spam_count": 0,
     "warnings_given": 0,
