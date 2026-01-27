@@ -7966,5 +7966,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "6755754714": {
+    "last_message_time": 1769546413.926448,
+    "message_times": [
+      1769546413.926448
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
