@@ -11763,5 +11763,2075 @@
     "original_chat_id": 6001769473,
     "success_count": 415,
     "fail_count": 294
+  },
+  "ebe48cab": {
+    "sent_message_ids": [
+      {
+        "chat_id": 1404147721,
+        "message_id": 17910,
+        "type": "user"
+      },
+      {
+        "chat_id": 7754901513,
+        "message_id": 17911,
+        "type": "user"
+      },
+      {
+        "chat_id": 5898018828,
+        "message_id": 17912,
+        "type": "user"
+      },
+      {
+        "chat_id": 7438616589,
+        "message_id": 17913,
+        "type": "user"
+      },
+      {
+        "chat_id": 6749022225,
+        "message_id": 17914,
+        "type": "user"
+      },
+      {
+        "chat_id": 7626018846,
+        "message_id": 17915,
+        "type": "user"
+      },
+      {
+        "chat_id": 8334250023,
+        "message_id": 17916,
+        "type": "user"
+      },
+      {
+        "chat_id": 7445340203,
+        "message_id": 17917,
+        "type": "user"
+      },
+      {
+        "chat_id": 8274284589,
+        "message_id": 17918,
+        "type": "user"
+      },
+      {
+        "chat_id": 6942154799,
+        "message_id": 17919,
+        "type": "user"
+      },
+      {
+        "chat_id": 7506485297,
+        "message_id": 17920,
+        "type": "user"
+      },
+      {
+        "chat_id": 8452818995,
+        "message_id": 17921,
+        "type": "user"
+      },
+      {
+        "chat_id": 6313527352,
+        "message_id": 17922,
+        "type": "user"
+      },
+      {
+        "chat_id": 7191396410,
+        "message_id": 17923,
+        "type": "user"
+      },
+      {
+        "chat_id": 6912116796,
+        "message_id": 17924,
+        "type": "user"
+      },
+      {
+        "chat_id": 8581189697,
+        "message_id": 17925,
+        "type": "user"
+      },
+      {
+        "chat_id": 6549135429,
+        "message_id": 17926,
+        "type": "user"
+      },
+      {
+        "chat_id": 5736728652,
+        "message_id": 17927,
+        "type": "user"
+      },
+      {
+        "chat_id": 7244138573,
+        "message_id": 17928,
+        "type": "user"
+      },
+      {
+        "chat_id": 8362307670,
+        "message_id": 17929,
+        "type": "user"
+      },
+      {
+        "chat_id": 8210765919,
+        "message_id": 17930,
+        "type": "user"
+      },
+      {
+        "chat_id": 7779186788,
+        "message_id": 17931,
+        "type": "user"
+      },
+      {
+        "chat_id": 7896402036,
+        "message_id": 17932,
+        "type": "user"
+      },
+      {
+        "chat_id": 7975770232,
+        "message_id": 17933,
+        "type": "user"
+      },
+      {
+        "chat_id": 8541745272,
+        "message_id": 17934,
+        "type": "user"
+      },
+      {
+        "chat_id": 7138214008,
+        "message_id": 17935,
+        "type": "user"
+      },
+      {
+        "chat_id": 7107883131,
+        "message_id": 17936,
+        "type": "user"
+      },
+      {
+        "chat_id": 6811988094,
+        "message_id": 17937,
+        "type": "user"
+      },
+      {
+        "chat_id": 7701315720,
+        "message_id": 17938,
+        "type": "user"
+      },
+      {
+        "chat_id": 6971807892,
+        "message_id": 17939,
+        "type": "user"
+      },
+      {
+        "chat_id": 8463421601,
+        "message_id": 17940,
+        "type": "user"
+      },
+      {
+        "chat_id": 8195027107,
+        "message_id": 17941,
+        "type": "user"
+      },
+      {
+        "chat_id": 7871301796,
+        "message_id": 17942,
+        "type": "user"
+      },
+      {
+        "chat_id": 8495311021,
+        "message_id": 17943,
+        "type": "user"
+      },
+      {
+        "chat_id": 6641223855,
+        "message_id": 17944,
+        "type": "user"
+      },
+      {
+        "chat_id": 503392432,
+        "message_id": 17945,
+        "type": "user"
+      },
+      {
+        "chat_id": 6836635827,
+        "message_id": 17946,
+        "type": "user"
+      },
+      {
+        "chat_id": 6855153845,
+        "message_id": 17947,
+        "type": "user"
+      },
+      {
+        "chat_id": 7587014839,
+        "message_id": 17948,
+        "type": "user"
+      },
+      {
+        "chat_id": 7270666423,
+        "message_id": 17949,
+        "type": "user"
+      },
+      {
+        "chat_id": 1394055358,
+        "message_id": 17950,
+        "type": "user"
+      },
+      {
+        "chat_id": 8036985026,
+        "message_id": 17951,
+        "type": "user"
+      },
+      {
+        "chat_id": 7378538695,
+        "message_id": 17952,
+        "type": "user"
+      },
+      {
+        "chat_id": 7567780041,
+        "message_id": 17953,
+        "type": "user"
+      },
+      {
+        "chat_id": 7759960267,
+        "message_id": 17954,
+        "type": "user"
+      },
+      {
+        "chat_id": 5000855759,
+        "message_id": 17955,
+        "type": "user"
+      },
+      {
+        "chat_id": 6591140049,
+        "message_id": 17956,
+        "type": "user"
+      },
+      {
+        "chat_id": 6981611751,
+        "message_id": 17957,
+        "type": "user"
+      },
+      {
+        "chat_id": 7949412591,
+        "message_id": 17958,
+        "type": "user"
+      },
+      {
+        "chat_id": 8536062193,
+        "message_id": 17959,
+        "type": "user"
+      },
+      {
+        "chat_id": 7060154611,
+        "message_id": 17960,
+        "type": "user"
+      },
+      {
+        "chat_id": 8536668417,
+        "message_id": 17961,
+        "type": "user"
+      },
+      {
+        "chat_id": 589902082,
+        "message_id": 17962,
+        "type": "user"
+      },
+      {
+        "chat_id": 7120089355,
+        "message_id": 17963,
+        "type": "user"
+      },
+      {
+        "chat_id": 6623234317,
+        "message_id": 17964,
+        "type": "user"
+      },
+      {
+        "chat_id": 7612664079,
+        "message_id": 17965,
+        "type": "user"
+      },
+      {
+        "chat_id": 8212345106,
+        "message_id": 17966,
+        "type": "user"
+      },
+      {
+        "chat_id": 5290236187,
+        "message_id": 17967,
+        "type": "user"
+      },
+      {
+        "chat_id": 7973503266,
+        "message_id": 17968,
+        "type": "user"
+      },
+      {
+        "chat_id": 7076204837,
+        "message_id": 17969,
+        "type": "user"
+      },
+      {
+        "chat_id": 7999854888,
+        "message_id": 17970,
+        "type": "user"
+      },
+      {
+        "chat_id": 8267415850,
+        "message_id": 17971,
+        "type": "user"
+      },
+      {
+        "chat_id": 6764714282,
+        "message_id": 17972,
+        "type": "user"
+      },
+      {
+        "chat_id": 5998143789,
+        "message_id": 17973,
+        "type": "user"
+      },
+      {
+        "chat_id": 7069110570,
+        "message_id": 17974,
+        "type": "user"
+      },
+      {
+        "chat_id": 8119417161,
+        "message_id": 17975,
+        "type": "user"
+      },
+      {
+        "chat_id": 6500661582,
+        "message_id": 17976,
+        "type": "user"
+      },
+      {
+        "chat_id": 5281151311,
+        "message_id": 17977,
+        "type": "user"
+      },
+      {
+        "chat_id": 7153574224,
+        "message_id": 17978,
+        "type": "user"
+      },
+      {
+        "chat_id": 6030670159,
+        "message_id": 17979,
+        "type": "user"
+      },
+      {
+        "chat_id": 6495775058,
+        "message_id": 17980,
+        "type": "user"
+      },
+      {
+        "chat_id": 8088217938,
+        "message_id": 17981,
+        "type": "user"
+      },
+      {
+        "chat_id": 5625334098,
+        "message_id": 17982,
+        "type": "user"
+      },
+      {
+        "chat_id": 8221165910,
+        "message_id": 17983,
+        "type": "user"
+      },
+      {
+        "chat_id": 7302232409,
+        "message_id": 17984,
+        "type": "user"
+      },
+      {
+        "chat_id": 7030923612,
+        "message_id": 17985,
+        "type": "user"
+      },
+      {
+        "chat_id": 6216040804,
+        "message_id": 17986,
+        "type": "user"
+      },
+      {
+        "chat_id": 7210068326,
+        "message_id": 17987,
+        "type": "user"
+      },
+      {
+        "chat_id": 6582077805,
+        "message_id": 17988,
+        "type": "user"
+      },
+      {
+        "chat_id": 8415222129,
+        "message_id": 17989,
+        "type": "user"
+      },
+      {
+        "chat_id": 6443317620,
+        "message_id": 17990,
+        "type": "user"
+      },
+      {
+        "chat_id": 7502784885,
+        "message_id": 17991,
+        "type": "user"
+      },
+      {
+        "chat_id": 6820270458,
+        "message_id": 17992,
+        "type": "user"
+      },
+      {
+        "chat_id": 7900225914,
+        "message_id": 17993,
+        "type": "user"
+      },
+      {
+        "chat_id": 7358765439,
+        "message_id": 17994,
+        "type": "user"
+      },
+      {
+        "chat_id": 7825406337,
+        "message_id": 17995,
+        "type": "user"
+      },
+      {
+        "chat_id": 7926141315,
+        "message_id": 17996,
+        "type": "user"
+      },
+      {
+        "chat_id": 1939540358,
+        "message_id": 17997,
+        "type": "user"
+      },
+      {
+        "chat_id": 8213088648,
+        "message_id": 17998,
+        "type": "user"
+      },
+      {
+        "chat_id": 5598450069,
+        "message_id": 17999,
+        "type": "user"
+      },
+      {
+        "chat_id": 467861911,
+        "message_id": 18000,
+        "type": "user"
+      },
+      {
+        "chat_id": 8506407320,
+        "message_id": 18001,
+        "type": "user"
+      },
+      {
+        "chat_id": 7335772581,
+        "message_id": 18002,
+        "type": "user"
+      },
+      {
+        "chat_id": 7920613799,
+        "message_id": 18003,
+        "type": "user"
+      },
+      {
+        "chat_id": 8193192378,
+        "message_id": 18004,
+        "type": "user"
+      },
+      {
+        "chat_id": 7971211710,
+        "message_id": 18005,
+        "type": "user"
+      },
+      {
+        "chat_id": 7827806656,
+        "message_id": 18006,
+        "type": "user"
+      },
+      {
+        "chat_id": 6587150787,
+        "message_id": 18007,
+        "type": "user"
+      },
+      {
+        "chat_id": 6220446149,
+        "message_id": 18008,
+        "type": "user"
+      },
+      {
+        "chat_id": 8429285836,
+        "message_id": 18009,
+        "type": "user"
+      },
+      {
+        "chat_id": 8527155660,
+        "message_id": 18010,
+        "type": "user"
+      },
+      {
+        "chat_id": 7369619919,
+        "message_id": 18011,
+        "type": "user"
+      },
+      {
+        "chat_id": 5860940243,
+        "message_id": 18012,
+        "type": "user"
+      },
+      {
+        "chat_id": 7627487704,
+        "message_id": 18013,
+        "type": "user"
+      },
+      {
+        "chat_id": 8413587931,
+        "message_id": 18014,
+        "type": "user"
+      },
+      {
+        "chat_id": 7960394208,
+        "message_id": 18015,
+        "type": "user"
+      },
+      {
+        "chat_id": 6426626530,
+        "message_id": 18016,
+        "type": "user"
+      },
+      {
+        "chat_id": 8266770922,
+        "message_id": 18017,
+        "type": "user"
+      },
+      {
+        "chat_id": 7294046705,
+        "message_id": 18018,
+        "type": "user"
+      },
+      {
+        "chat_id": 7766495737,
+        "message_id": 18019,
+        "type": "user"
+      },
+      {
+        "chat_id": 7690166784,
+        "message_id": 18020,
+        "type": "user"
+      },
+      {
+        "chat_id": 8142324229,
+        "message_id": 18021,
+        "type": "user"
+      },
+      {
+        "chat_id": 8565420558,
+        "message_id": 18022,
+        "type": "user"
+      },
+      {
+        "chat_id": 8057647633,
+        "message_id": 18023,
+        "type": "user"
+      },
+      {
+        "chat_id": 7942783508,
+        "message_id": 18024,
+        "type": "user"
+      },
+      {
+        "chat_id": 8537891353,
+        "message_id": 18025,
+        "type": "user"
+      },
+      {
+        "chat_id": 8137304611,
+        "message_id": 18026,
+        "type": "user"
+      },
+      {
+        "chat_id": 8201374252,
+        "message_id": 18027,
+        "type": "user"
+      },
+      {
+        "chat_id": 6613043758,
+        "message_id": 18028,
+        "type": "user"
+      },
+      {
+        "chat_id": 7544662573,
+        "message_id": 18029,
+        "type": "user"
+      },
+      {
+        "chat_id": 8408158769,
+        "message_id": 18030,
+        "type": "user"
+      },
+      {
+        "chat_id": 8509057591,
+        "message_id": 18031,
+        "type": "user"
+      },
+      {
+        "chat_id": 93876792,
+        "message_id": 18032,
+        "type": "user"
+      },
+      {
+        "chat_id": 8440037953,
+        "message_id": 18033,
+        "type": "user"
+      },
+      {
+        "chat_id": 6333655620,
+        "message_id": 18034,
+        "type": "user"
+      },
+      {
+        "chat_id": 6104693321,
+        "message_id": 18035,
+        "type": "user"
+      },
+      {
+        "chat_id": 7434814026,
+        "message_id": 18036,
+        "type": "user"
+      },
+      {
+        "chat_id": 7771849296,
+        "message_id": 18037,
+        "type": "user"
+      },
+      {
+        "chat_id": 106777178,
+        "message_id": 18038,
+        "type": "user"
+      },
+      {
+        "chat_id": 830589531,
+        "message_id": 18039,
+        "type": "user"
+      },
+      {
+        "chat_id": 7336102514,
+        "message_id": 18040,
+        "type": "user"
+      },
+      {
+        "chat_id": 7477207676,
+        "message_id": 18041,
+        "type": "user"
+      },
+      {
+        "chat_id": 7317133961,
+        "message_id": 18042,
+        "type": "user"
+      },
+      {
+        "chat_id": 7248544396,
+        "message_id": 18043,
+        "type": "user"
+      },
+      {
+        "chat_id": 8259043980,
+        "message_id": 18044,
+        "type": "user"
+      },
+      {
+        "chat_id": 5280524948,
+        "message_id": 18045,
+        "type": "user"
+      },
+      {
+        "chat_id": 5983339156,
+        "message_id": 18046,
+        "type": "user"
+      },
+      {
+        "chat_id": 7265735316,
+        "message_id": 18047,
+        "type": "user"
+      },
+      {
+        "chat_id": 5874164380,
+        "message_id": 18048,
+        "type": "user"
+      },
+      {
+        "chat_id": 7948018334,
+        "message_id": 18049,
+        "type": "user"
+      },
+      {
+        "chat_id": 8062933684,
+        "message_id": 18050,
+        "type": "user"
+      },
+      {
+        "chat_id": 7990774453,
+        "message_id": 18051,
+        "type": "user"
+      },
+      {
+        "chat_id": 5662149300,
+        "message_id": 18052,
+        "type": "user"
+      },
+      {
+        "chat_id": 5547619001,
+        "message_id": 18053,
+        "type": "user"
+      },
+      {
+        "chat_id": 8412283580,
+        "message_id": 18054,
+        "type": "user"
+      },
+      {
+        "chat_id": 6668430015,
+        "message_id": 18055,
+        "type": "user"
+      },
+      {
+        "chat_id": 8574075584,
+        "message_id": 18056,
+        "type": "user"
+      },
+      {
+        "chat_id": 8497867459,
+        "message_id": 18057,
+        "type": "user"
+      },
+      {
+        "chat_id": 6629196491,
+        "message_id": 18058,
+        "type": "user"
+      },
+      {
+        "chat_id": 7992378061,
+        "message_id": 18059,
+        "type": "user"
+      },
+      {
+        "chat_id": 8074449614,
+        "message_id": 18060,
+        "type": "user"
+      },
+      {
+        "chat_id": 5360911055,
+        "message_id": 18061,
+        "type": "user"
+      },
+      {
+        "chat_id": 7666414291,
+        "message_id": 18062,
+        "type": "user"
+      },
+      {
+        "chat_id": 5234201315,
+        "message_id": 18063,
+        "type": "user"
+      },
+      {
+        "chat_id": 8521370341,
+        "message_id": 18064,
+        "type": "user"
+      },
+      {
+        "chat_id": 7388205804,
+        "message_id": 18065,
+        "type": "user"
+      },
+      {
+        "chat_id": 7460168428,
+        "message_id": 18066,
+        "type": "user"
+      },
+      {
+        "chat_id": 6201477870,
+        "message_id": 18067,
+        "type": "user"
+      },
+      {
+        "chat_id": 7565388527,
+        "message_id": 18068,
+        "type": "user"
+      },
+      {
+        "chat_id": 8564316915,
+        "message_id": 18069,
+        "type": "user"
+      },
+      {
+        "chat_id": 5442247416,
+        "message_id": 18070,
+        "type": "user"
+      },
+      {
+        "chat_id": 1703267077,
+        "message_id": 18071,
+        "type": "user"
+      },
+      {
+        "chat_id": 7344790278,
+        "message_id": 18072,
+        "type": "user"
+      },
+      {
+        "chat_id": 7020372741,
+        "message_id": 18073,
+        "type": "user"
+      },
+      {
+        "chat_id": 6801066762,
+        "message_id": 18074,
+        "type": "user"
+      },
+      {
+        "chat_id": 8332907291,
+        "message_id": 18075,
+        "type": "user"
+      },
+      {
+        "chat_id": 6916139807,
+        "message_id": 18076,
+        "type": "user"
+      },
+      {
+        "chat_id": 864117537,
+        "message_id": 18077,
+        "type": "user"
+      },
+      {
+        "chat_id": 8260645687,
+        "message_id": 18078,
+        "type": "user"
+      },
+      {
+        "chat_id": 8031787834,
+        "message_id": 18079,
+        "type": "user"
+      },
+      {
+        "chat_id": 7271045955,
+        "message_id": 18080,
+        "type": "user"
+      },
+      {
+        "chat_id": 7919938374,
+        "message_id": 18081,
+        "type": "user"
+      },
+      {
+        "chat_id": 6375011146,
+        "message_id": 18082,
+        "type": "user"
+      },
+      {
+        "chat_id": 2070260557,
+        "message_id": 18083,
+        "type": "user"
+      },
+      {
+        "chat_id": 7282830157,
+        "message_id": 18084,
+        "type": "user"
+      },
+      {
+        "chat_id": 7418018642,
+        "message_id": 18085,
+        "type": "user"
+      },
+      {
+        "chat_id": 6281423699,
+        "message_id": 18086,
+        "type": "user"
+      },
+      {
+        "chat_id": 7734702933,
+        "message_id": 18087,
+        "type": "user"
+      },
+      {
+        "chat_id": 8209093461,
+        "message_id": 18088,
+        "type": "user"
+      },
+      {
+        "chat_id": 981318486,
+        "message_id": 18089,
+        "type": "user"
+      },
+      {
+        "chat_id": 1650301786,
+        "message_id": 18090,
+        "type": "user"
+      },
+      {
+        "chat_id": 226276206,
+        "message_id": 18091,
+        "type": "user"
+      },
+      {
+        "chat_id": 6573505392,
+        "message_id": 18092,
+        "type": "user"
+      },
+      {
+        "chat_id": 7917927280,
+        "message_id": 18093,
+        "type": "user"
+      },
+      {
+        "chat_id": 7268301685,
+        "message_id": 18094,
+        "type": "user"
+      },
+      {
+        "chat_id": 8033180536,
+        "message_id": 18095,
+        "type": "user"
+      },
+      {
+        "chat_id": 8156625792,
+        "message_id": 18096,
+        "type": "user"
+      },
+      {
+        "chat_id": 8565568390,
+        "message_id": 18097,
+        "type": "user"
+      },
+      {
+        "chat_id": 6983826319,
+        "message_id": 18098,
+        "type": "user"
+      },
+      {
+        "chat_id": 7172871066,
+        "message_id": 18099,
+        "type": "user"
+      },
+      {
+        "chat_id": 1372670888,
+        "message_id": 18100,
+        "type": "user"
+      },
+      {
+        "chat_id": 8441097131,
+        "message_id": 18101,
+        "type": "user"
+      },
+      {
+        "chat_id": 7768282050,
+        "message_id": 18102,
+        "type": "user"
+      },
+      {
+        "chat_id": 6812898246,
+        "message_id": 18103,
+        "type": "user"
+      },
+      {
+        "chat_id": 8103701446,
+        "message_id": 18104,
+        "type": "user"
+      },
+      {
+        "chat_id": 6493410254,
+        "message_id": 18105,
+        "type": "user"
+      },
+      {
+        "chat_id": 519541720,
+        "message_id": 18106,
+        "type": "user"
+      },
+      {
+        "chat_id": 7130725339,
+        "message_id": 18107,
+        "type": "user"
+      },
+      {
+        "chat_id": 6032116700,
+        "message_id": 18108,
+        "type": "user"
+      },
+      {
+        "chat_id": 7129310173,
+        "message_id": 18109,
+        "type": "user"
+      },
+      {
+        "chat_id": 6546418659,
+        "message_id": 18110,
+        "type": "user"
+      },
+      {
+        "chat_id": 7129563131,
+        "message_id": 18111,
+        "type": "user"
+      },
+      {
+        "chat_id": 7506158568,
+        "message_id": 18112,
+        "type": "user"
+      },
+      {
+        "chat_id": 7681594350,
+        "message_id": 18113,
+        "type": "user"
+      },
+      {
+        "chat_id": 7313949680,
+        "message_id": 18114,
+        "type": "user"
+      },
+      {
+        "chat_id": 8064127987,
+        "message_id": 18115,
+        "type": "user"
+      },
+      {
+        "chat_id": 6650319860,
+        "message_id": 18116,
+        "type": "user"
+      },
+      {
+        "chat_id": 6234379255,
+        "message_id": 18117,
+        "type": "user"
+      },
+      {
+        "chat_id": 8105079803,
+        "message_id": 18118,
+        "type": "user"
+      },
+      {
+        "chat_id": 7993400316,
+        "message_id": 18119,
+        "type": "user"
+      },
+      {
+        "chat_id": 5931686914,
+        "message_id": 18120,
+        "type": "user"
+      },
+      {
+        "chat_id": 8271451139,
+        "message_id": 18121,
+        "type": "user"
+      },
+      {
+        "chat_id": 6706689032,
+        "message_id": 18122,
+        "type": "user"
+      },
+      {
+        "chat_id": 6418476044,
+        "message_id": 18123,
+        "type": "user"
+      },
+      {
+        "chat_id": 6236974108,
+        "message_id": 18124,
+        "type": "user"
+      },
+      {
+        "chat_id": 7991442462,
+        "message_id": 18125,
+        "type": "user"
+      },
+      {
+        "chat_id": 6538849314,
+        "message_id": 18126,
+        "type": "user"
+      },
+      {
+        "chat_id": 6638126118,
+        "message_id": 18127,
+        "type": "user"
+      },
+      {
+        "chat_id": 7918302255,
+        "message_id": 18128,
+        "type": "user"
+      },
+      {
+        "chat_id": 8060331063,
+        "message_id": 18129,
+        "type": "user"
+      },
+      {
+        "chat_id": 7256384572,
+        "message_id": 18130,
+        "type": "user"
+      },
+      {
+        "chat_id": 1279163452,
+        "message_id": 18131,
+        "type": "user"
+      },
+      {
+        "chat_id": 7325760574,
+        "message_id": 18132,
+        "type": "user"
+      },
+      {
+        "chat_id": 6659441729,
+        "message_id": 18133,
+        "type": "user"
+      },
+      {
+        "chat_id": 8008000585,
+        "message_id": 18134,
+        "type": "user"
+      },
+      {
+        "chat_id": 6540645464,
+        "message_id": 18135,
+        "type": "user"
+      },
+      {
+        "chat_id": 7406031961,
+        "message_id": 18136,
+        "type": "user"
+      },
+      {
+        "chat_id": 6342612060,
+        "message_id": 18137,
+        "type": "user"
+      },
+      {
+        "chat_id": 2058703964,
+        "message_id": 18138,
+        "type": "user"
+      },
+      {
+        "chat_id": 7925032027,
+        "message_id": 18139,
+        "type": "user"
+      },
+      {
+        "chat_id": 7687619677,
+        "message_id": 18140,
+        "type": "user"
+      },
+      {
+        "chat_id": 1504939101,
+        "message_id": 18141,
+        "type": "user"
+      },
+      {
+        "chat_id": 6041738347,
+        "message_id": 18142,
+        "type": "user"
+      },
+      {
+        "chat_id": 6296007796,
+        "message_id": 18143,
+        "type": "user"
+      },
+      {
+        "chat_id": 5430097020,
+        "message_id": 18144,
+        "type": "user"
+      },
+      {
+        "chat_id": 7548279940,
+        "message_id": 18145,
+        "type": "user"
+      },
+      {
+        "chat_id": 7642690695,
+        "message_id": 18146,
+        "type": "user"
+      },
+      {
+        "chat_id": 5860844683,
+        "message_id": 18147,
+        "type": "user"
+      },
+      {
+        "chat_id": 7202604172,
+        "message_id": 18148,
+        "type": "user"
+      },
+      {
+        "chat_id": 6822710413,
+        "message_id": 18149,
+        "type": "user"
+      },
+      {
+        "chat_id": 8374402200,
+        "message_id": 18150,
+        "type": "user"
+      },
+      {
+        "chat_id": 7871151288,
+        "message_id": 18151,
+        "type": "user"
+      },
+      {
+        "chat_id": 7479954617,
+        "message_id": 18152,
+        "type": "user"
+      },
+      {
+        "chat_id": 122991802,
+        "message_id": 18153,
+        "type": "user"
+      },
+      {
+        "chat_id": 7878413496,
+        "message_id": 18154,
+        "type": "user"
+      },
+      {
+        "chat_id": 8151493820,
+        "message_id": 18155,
+        "type": "user"
+      },
+      {
+        "chat_id": 5969497277,
+        "message_id": 18156,
+        "type": "user"
+      },
+      {
+        "chat_id": 7271316673,
+        "message_id": 18157,
+        "type": "user"
+      },
+      {
+        "chat_id": 7461430466,
+        "message_id": 18158,
+        "type": "user"
+      },
+      {
+        "chat_id": 7991338180,
+        "message_id": 18159,
+        "type": "user"
+      },
+      {
+        "chat_id": 6474497227,
+        "message_id": 18160,
+        "type": "user"
+      },
+      {
+        "chat_id": 129635544,
+        "message_id": 18161,
+        "type": "user"
+      },
+      {
+        "chat_id": 6810744046,
+        "message_id": 18162,
+        "type": "user"
+      },
+      {
+        "chat_id": 8419429623,
+        "message_id": 18163,
+        "type": "user"
+      },
+      {
+        "chat_id": 5183620358,
+        "message_id": 18164,
+        "type": "user"
+      },
+      {
+        "chat_id": 8441873671,
+        "message_id": 18165,
+        "type": "user"
+      },
+      {
+        "chat_id": 6957016329,
+        "message_id": 18166,
+        "type": "user"
+      },
+      {
+        "chat_id": 8459201808,
+        "message_id": 18167,
+        "type": "user"
+      },
+      {
+        "chat_id": 8564600081,
+        "message_id": 18168,
+        "type": "user"
+      },
+      {
+        "chat_id": 6605327635,
+        "message_id": 18169,
+        "type": "user"
+      },
+      {
+        "chat_id": 6341491998,
+        "message_id": 18170,
+        "type": "user"
+      },
+      {
+        "chat_id": 6871334176,
+        "message_id": 18171,
+        "type": "user"
+      },
+      {
+        "chat_id": 1768377637,
+        "message_id": 18172,
+        "type": "user"
+      },
+      {
+        "chat_id": 7761771823,
+        "message_id": 18173,
+        "type": "user"
+      },
+      {
+        "chat_id": 8351251772,
+        "message_id": 18174,
+        "type": "user"
+      },
+      {
+        "chat_id": 100162883,
+        "message_id": 18175,
+        "type": "user"
+      },
+      {
+        "chat_id": 6485685575,
+        "message_id": 18176,
+        "type": "user"
+      },
+      {
+        "chat_id": 5651569991,
+        "message_id": 18177,
+        "type": "user"
+      },
+      {
+        "chat_id": 7894478153,
+        "message_id": 18178,
+        "type": "user"
+      },
+      {
+        "chat_id": 8350594375,
+        "message_id": 18179,
+        "type": "user"
+      },
+      {
+        "chat_id": 1316095307,
+        "message_id": 18180,
+        "type": "user"
+      },
+      {
+        "chat_id": 7386074445,
+        "message_id": 18181,
+        "type": "user"
+      },
+      {
+        "chat_id": 7000565072,
+        "message_id": 18182,
+        "type": "user"
+      },
+      {
+        "chat_id": 5987302740,
+        "message_id": 18183,
+        "type": "user"
+      },
+      {
+        "chat_id": 8550528341,
+        "message_id": 18184,
+        "type": "user"
+      },
+      {
+        "chat_id": 7832540503,
+        "message_id": 18185,
+        "type": "user"
+      },
+      {
+        "chat_id": 6419017055,
+        "message_id": 18186,
+        "type": "user"
+      },
+      {
+        "chat_id": 6551043424,
+        "message_id": 18187,
+        "type": "user"
+      },
+      {
+        "chat_id": 6802304356,
+        "message_id": 18188,
+        "type": "user"
+      },
+      {
+        "chat_id": 986455403,
+        "message_id": 18189,
+        "type": "user"
+      },
+      {
+        "chat_id": 2100460907,
+        "message_id": 18190,
+        "type": "user"
+      },
+      {
+        "chat_id": 8204500333,
+        "message_id": 18191,
+        "type": "user"
+      },
+      {
+        "chat_id": 8218285420,
+        "message_id": 18192,
+        "type": "user"
+      },
+      {
+        "chat_id": 7602208111,
+        "message_id": 18193,
+        "type": "user"
+      },
+      {
+        "chat_id": 7469770097,
+        "message_id": 18194,
+        "type": "user"
+      },
+      {
+        "chat_id": 8359417207,
+        "message_id": 18195,
+        "type": "user"
+      },
+      {
+        "chat_id": 8237454712,
+        "message_id": 18196,
+        "type": "user"
+      },
+      {
+        "chat_id": 1632568697,
+        "message_id": 18197,
+        "type": "user"
+      },
+      {
+        "chat_id": 8280175991,
+        "message_id": 18198,
+        "type": "user"
+      },
+      {
+        "chat_id": 7076797820,
+        "message_id": 18199,
+        "type": "user"
+      },
+      {
+        "chat_id": 6089002371,
+        "message_id": 18200,
+        "type": "user"
+      },
+      {
+        "chat_id": 7992061322,
+        "message_id": 18201,
+        "type": "user"
+      },
+      {
+        "chat_id": 1621278091,
+        "message_id": 18202,
+        "type": "user"
+      },
+      {
+        "chat_id": 8010489228,
+        "message_id": 18203,
+        "type": "user"
+      },
+      {
+        "chat_id": 6807930253,
+        "message_id": 18204,
+        "type": "user"
+      },
+      {
+        "chat_id": 148018578,
+        "message_id": 18205,
+        "type": "user"
+      },
+      {
+        "chat_id": 5724597652,
+        "message_id": 18206,
+        "type": "user"
+      },
+      {
+        "chat_id": 6524585367,
+        "message_id": 18207,
+        "type": "user"
+      },
+      {
+        "chat_id": 8577779102,
+        "message_id": 18208,
+        "type": "user"
+      },
+      {
+        "chat_id": 7307091366,
+        "message_id": 18209,
+        "type": "user"
+      },
+      {
+        "chat_id": 8499008939,
+        "message_id": 18210,
+        "type": "user"
+      },
+      {
+        "chat_id": 7935681966,
+        "message_id": 18211,
+        "type": "user"
+      },
+      {
+        "chat_id": 6183443887,
+        "message_id": 18212,
+        "type": "user"
+      },
+      {
+        "chat_id": 7819431347,
+        "message_id": 18213,
+        "type": "user"
+      },
+      {
+        "chat_id": 5703292344,
+        "message_id": 18214,
+        "type": "user"
+      },
+      {
+        "chat_id": 5439641019,
+        "message_id": 18215,
+        "type": "user"
+      },
+      {
+        "chat_id": 5508957630,
+        "message_id": 18216,
+        "type": "user"
+      },
+      {
+        "chat_id": 8496209345,
+        "message_id": 18217,
+        "type": "user"
+      },
+      {
+        "chat_id": 7400398290,
+        "message_id": 18218,
+        "type": "user"
+      },
+      {
+        "chat_id": 6320405971,
+        "message_id": 18219,
+        "type": "user"
+      },
+      {
+        "chat_id": 8037246430,
+        "message_id": 18220,
+        "type": "user"
+      },
+      {
+        "chat_id": 6879043050,
+        "message_id": 18221,
+        "type": "user"
+      },
+      {
+        "chat_id": 7415528944,
+        "message_id": 18222,
+        "type": "user"
+      },
+      {
+        "chat_id": 8169592316,
+        "message_id": 18223,
+        "type": "user"
+      },
+      {
+        "chat_id": 7468453375,
+        "message_id": 18224,
+        "type": "user"
+      },
+      {
+        "chat_id": 7342882313,
+        "message_id": 18225,
+        "type": "user"
+      },
+      {
+        "chat_id": 7887248919,
+        "message_id": 18226,
+        "type": "user"
+      },
+      {
+        "chat_id": 6544377383,
+        "message_id": 18227,
+        "type": "user"
+      },
+      {
+        "chat_id": 6955189802,
+        "message_id": 18228,
+        "type": "user"
+      },
+      {
+        "chat_id": 8130747946,
+        "message_id": 18229,
+        "type": "user"
+      },
+      {
+        "chat_id": 6146883128,
+        "message_id": 18230,
+        "type": "user"
+      },
+      {
+        "chat_id": 8346873407,
+        "message_id": 18231,
+        "type": "user"
+      },
+      {
+        "chat_id": 6649652804,
+        "message_id": 18232,
+        "type": "user"
+      },
+      {
+        "chat_id": 6525427272,
+        "message_id": 18233,
+        "type": "user"
+      },
+      {
+        "chat_id": 8024974927,
+        "message_id": 18234,
+        "type": "user"
+      },
+      {
+        "chat_id": 7906223714,
+        "message_id": 18235,
+        "type": "user"
+      },
+      {
+        "chat_id": 8367552099,
+        "message_id": 18236,
+        "type": "user"
+      },
+      {
+        "chat_id": 7159780966,
+        "message_id": 18237,
+        "type": "user"
+      },
+      {
+        "chat_id": 7068558965,
+        "message_id": 18238,
+        "type": "user"
+      },
+      {
+        "chat_id": 1487277697,
+        "message_id": 18239,
+        "type": "user"
+      },
+      {
+        "chat_id": 8375936657,
+        "message_id": 18240,
+        "type": "user"
+      },
+      {
+        "chat_id": 7759621778,
+        "message_id": 18241,
+        "type": "user"
+      },
+      {
+        "chat_id": 8305743506,
+        "message_id": 18242,
+        "type": "user"
+      },
+      {
+        "chat_id": 6983671447,
+        "message_id": 18243,
+        "type": "user"
+      },
+      {
+        "chat_id": 7855210138,
+        "message_id": 18244,
+        "type": "user"
+      },
+      {
+        "chat_id": 5047244443,
+        "message_id": 18245,
+        "type": "user"
+      },
+      {
+        "chat_id": 7023910565,
+        "message_id": 18246,
+        "type": "user"
+      },
+      {
+        "chat_id": 7037107882,
+        "message_id": 18247,
+        "type": "user"
+      },
+      {
+        "chat_id": 6598022833,
+        "message_id": 18248,
+        "type": "user"
+      },
+      {
+        "chat_id": 7631308467,
+        "message_id": 18249,
+        "type": "user"
+      },
+      {
+        "chat_id": 8446391985,
+        "message_id": 18250,
+        "type": "user"
+      },
+      {
+        "chat_id": 6612539063,
+        "message_id": 18251,
+        "type": "user"
+      },
+      {
+        "chat_id": 8585686713,
+        "message_id": 18252,
+        "type": "user"
+      },
+      {
+        "chat_id": 7408529082,
+        "message_id": 18253,
+        "type": "user"
+      },
+      {
+        "chat_id": 8133373626,
+        "message_id": 18254,
+        "type": "user"
+      },
+      {
+        "chat_id": 7021276860,
+        "message_id": 18255,
+        "type": "user"
+      },
+      {
+        "chat_id": 7089071806,
+        "message_id": 18256,
+        "type": "user"
+      },
+      {
+        "chat_id": 1100504769,
+        "message_id": 18257,
+        "type": "user"
+      },
+      {
+        "chat_id": 8329055937,
+        "message_id": 18258,
+        "type": "user"
+      },
+      {
+        "chat_id": 7294185158,
+        "message_id": 18259,
+        "type": "user"
+      },
+      {
+        "chat_id": 6479025869,
+        "message_id": 18260,
+        "type": "user"
+      },
+      {
+        "chat_id": 7407460048,
+        "message_id": 18261,
+        "type": "user"
+      },
+      {
+        "chat_id": 7577908952,
+        "message_id": 18262,
+        "type": "user"
+      },
+      {
+        "chat_id": 7473630940,
+        "message_id": 18263,
+        "type": "user"
+      },
+      {
+        "chat_id": 1202249440,
+        "message_id": 18264,
+        "type": "user"
+      },
+      {
+        "chat_id": 7909752555,
+        "message_id": 18265,
+        "type": "user"
+      },
+      {
+        "chat_id": 6912859892,
+        "message_id": 18266,
+        "type": "user"
+      },
+      {
+        "chat_id": 6605696764,
+        "message_id": 18267,
+        "type": "user"
+      },
+      {
+        "chat_id": 7434737411,
+        "message_id": 18268,
+        "type": "user"
+      },
+      {
+        "chat_id": 5580019468,
+        "message_id": 18269,
+        "type": "user"
+      },
+      {
+        "chat_id": 250357539,
+        "message_id": 18270,
+        "type": "user"
+      },
+      {
+        "chat_id": 7970490150,
+        "message_id": 18271,
+        "type": "user"
+      },
+      {
+        "chat_id": 7020916529,
+        "message_id": 18272,
+        "type": "user"
+      },
+      {
+        "chat_id": 8409472821,
+        "message_id": 18273,
+        "type": "user"
+      },
+      {
+        "chat_id": 7401959229,
+        "message_id": 18274,
+        "type": "user"
+      },
+      {
+        "chat_id": 7837951808,
+        "message_id": 18275,
+        "type": "user"
+      },
+      {
+        "chat_id": 6830157637,
+        "message_id": 18276,
+        "type": "user"
+      },
+      {
+        "chat_id": 5993754441,
+        "message_id": 18277,
+        "type": "user"
+      },
+      {
+        "chat_id": 6341185357,
+        "message_id": 18278,
+        "type": "user"
+      },
+      {
+        "chat_id": 7306938189,
+        "message_id": 18279,
+        "type": "user"
+      },
+      {
+        "chat_id": 692574033,
+        "message_id": 18280,
+        "type": "user"
+      },
+      {
+        "chat_id": 7329179474,
+        "message_id": 18281,
+        "type": "user"
+      },
+      {
+        "chat_id": 5314379602,
+        "message_id": 18282,
+        "type": "user"
+      },
+      {
+        "chat_id": 6689380179,
+        "message_id": 18283,
+        "type": "user"
+      },
+      {
+        "chat_id": 5964558166,
+        "message_id": 18284,
+        "type": "user"
+      },
+      {
+        "chat_id": 8150579035,
+        "message_id": 18285,
+        "type": "user"
+      },
+      {
+        "chat_id": 8243349340,
+        "message_id": 18286,
+        "type": "user"
+      },
+      {
+        "chat_id": 7274889054,
+        "message_id": 18287,
+        "type": "user"
+      },
+      {
+        "chat_id": 6199449440,
+        "message_id": 18288,
+        "type": "user"
+      },
+      {
+        "chat_id": 6799222626,
+        "message_id": 18289,
+        "type": "user"
+      },
+      {
+        "chat_id": 148567907,
+        "message_id": 18290,
+        "type": "user"
+      },
+      {
+        "chat_id": 7804809061,
+        "message_id": 18291,
+        "type": "user"
+      },
+      {
+        "chat_id": 5872291686,
+        "message_id": 18292,
+        "type": "user"
+      },
+      {
+        "chat_id": 6518454121,
+        "message_id": 18293,
+        "type": "user"
+      },
+      {
+        "chat_id": 2140176238,
+        "message_id": 18294,
+        "type": "user"
+      },
+      {
+        "chat_id": 8251918192,
+        "message_id": 18295,
+        "type": "user"
+      },
+      {
+        "chat_id": 8294539124,
+        "message_id": 18296,
+        "type": "user"
+      },
+      {
+        "chat_id": 5652834165,
+        "message_id": 18297,
+        "type": "user"
+      },
+      {
+        "chat_id": 6925903732,
+        "message_id": 18298,
+        "type": "user"
+      },
+      {
+        "chat_id": 7033081722,
+        "message_id": 18299,
+        "type": "user"
+      },
+      {
+        "chat_id": 8275486597,
+        "message_id": 18300,
+        "type": "user"
+      },
+      {
+        "chat_id": 7955031942,
+        "message_id": 18301,
+        "type": "user"
+      },
+      {
+        "chat_id": 7789422473,
+        "message_id": 18302,
+        "type": "user"
+      },
+      {
+        "chat_id": 6447740815,
+        "message_id": 18303,
+        "type": "user"
+      },
+      {
+        "chat_id": 6718257044,
+        "message_id": 18304,
+        "type": "user"
+      },
+      {
+        "chat_id": 7297832854,
+        "message_id": 18305,
+        "type": "user"
+      },
+      {
+        "chat_id": 8092456856,
+        "message_id": 18306,
+        "type": "user"
+      },
+      {
+        "chat_id": 7442939801,
+        "message_id": 18307,
+        "type": "user"
+      },
+      {
+        "chat_id": 7096219552,
+        "message_id": 18308,
+        "type": "user"
+      },
+      {
+        "chat_id": 7255572389,
+        "message_id": 18309,
+        "type": "user"
+      },
+      {
+        "chat_id": 7463319466,
+        "message_id": 18310,
+        "type": "user"
+      },
+      {
+        "chat_id": 7672152003,
+        "message_id": 18311,
+        "type": "user"
+      },
+      {
+        "chat_id": 7804626885,
+        "message_id": 18312,
+        "type": "user"
+      },
+      {
+        "chat_id": 7697967047,
+        "message_id": 18313,
+        "type": "user"
+      },
+      {
+        "chat_id": 8097161161,
+        "message_id": 18314,
+        "type": "user"
+      },
+      {
+        "chat_id": 8472123345,
+        "message_id": 18315,
+        "type": "user"
+      },
+      {
+        "chat_id": 8376272853,
+        "message_id": 18316,
+        "type": "user"
+      },
+      {
+        "chat_id": 7490310127,
+        "message_id": 18317,
+        "type": "user"
+      },
+      {
+        "chat_id": 8422772727,
+        "message_id": 18318,
+        "type": "user"
+      },
+      {
+        "chat_id": 7652315129,
+        "message_id": 18319,
+        "type": "user"
+      },
+      {
+        "chat_id": -1002610002026,
+        "message_id": 69527,
+        "type": "group"
+      },
+      {
+        "chat_id": -1002177293171,
+        "message_id": 3254651,
+        "type": "group"
+      }
+    ],
+    "target_type": "all",
+    "timestamp": "2026-01-28T12:46:06.343989",
+    "original_message_id": 17907,
+    "original_chat_id": 6001769473,
+    "success_count": 412,
+    "fail_count": 301
   }
 }
