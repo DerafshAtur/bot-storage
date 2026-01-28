@@ -7974,5 +7974,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "7175599066": {
+    "last_message_time": 1769633183.446311,
+    "message_times": [
+      1769633183.446311
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
