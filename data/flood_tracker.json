@@ -8034,10 +8034,11 @@
     "is_premium": false
   },
   "7368785994": {
-    "last_message_time": 1769765502.473449,
+    "last_message_time": 1769765532.17482,
     "message_times": [
       1769765475.215488,
-      1769765502.473449
+      1769765502.473449,
+      1769765532.17482
     ],
     "spam_count": 0,
     "warnings_given": 0,
