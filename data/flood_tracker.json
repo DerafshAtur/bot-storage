@@ -8108,10 +8108,11 @@
     "is_premium": false
   },
   "8043441623": {
-    "last_message_time": 1769783985.763365,
+    "last_message_time": 1769784028.43565,
     "message_times": [
       1769783939.617402,
-      1769783985.763365
+      1769783985.763365,
+      1769784028.43565
     ],
     "spam_count": 0,
     "warnings_given": 0,
