@@ -8130,11 +8130,9 @@
     "is_premium": false
   },
   "6473979470": {
-    "last_message_time": 1769792682.347428,
+    "last_message_time": 1769794344.302316,
     "message_times": [
-      1769792652.146923,
-      1769792680.442439,
-      1769792682.347428
+      1769794344.302316
     ],
     "spam_count": 0,
     "warnings_given": 0,
