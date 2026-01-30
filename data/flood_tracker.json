@@ -8048,10 +8048,11 @@
     "is_premium": false
   },
   "7638372899": {
-    "last_message_time": 1769769383.878969,
+    "last_message_time": 1769769470.034045,
     "message_times": [
       1769769359.589417,
-      1769769383.878969
+      1769769383.878969,
+      1769769470.034045
     ],
     "spam_count": 0,
     "warnings_given": 0,
