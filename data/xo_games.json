@@ -4,14 +4,14 @@
     "player1_name": "D3R4F5H",
     "player2": 7044387042,
     "player2_name": "NottHadi",
-    "current_player": 6001769473,
-    "current_player_name": "D3R4F5H",
+    "current_player": 7044387042,
+    "current_player_name": "NottHadi",
     "board": [
       " ",
       " ",
       " ",
       " ",
-      " ",
+      "\u274c",
       " ",
       " ",
       " ",
@@ -21,6 +21,6 @@
     "chat_id": -1002177293171,
     "message_id": 3270357,
     "created_at": "2026-01-31T13:36:34.614792",
-    "last_move": null
+    "last_move": "2026-01-31T13:37:26.682951"
   }
 }
