@@ -8224,9 +8224,10 @@
     "is_premium": false
   },
   "8495628191": {
-    "last_message_time": 1769861125.536122,
+    "last_message_time": 1769861190.320046,
     "message_times": [
-      1769861125.536122
+      1769861125.536122,
+      1769861190.320046
     ],
     "spam_count": 0,
     "warnings_given": 0,
