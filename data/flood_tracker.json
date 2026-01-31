@@ -8351,9 +8351,10 @@
     "is_premium": false
   },
   "7597461543": {
-    "last_message_time": 1769894222.469664,
+    "last_message_time": 1769894244.259654,
     "message_times": [
-      1769894222.469664
+      1769894222.469664,
+      1769894244.259654
     ],
     "spam_count": 0,
     "warnings_given": 0,
