@@ -8278,10 +8278,11 @@
     "is_premium": false
   },
   "6541838600": {
-    "last_message_time": 1769870245.487166,
+    "last_message_time": 1769870268.927436,
     "message_times": [
       1769870238.075712,
-      1769870245.487166
+      1769870245.487166,
+      1769870268.927436
     ],
     "spam_count": 0,
     "warnings_given": 0,
