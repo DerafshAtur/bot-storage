@@ -8328,9 +8328,10 @@
     "is_premium": false
   },
   "7005305685": {
-    "last_message_time": 1769879390.265705,
+    "last_message_time": 1769879403.025021,
     "message_times": [
-      1769879390.265705
+      1769879390.265705,
+      1769879403.025021
     ],
     "spam_count": 0,
     "warnings_given": 0,
