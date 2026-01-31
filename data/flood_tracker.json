@@ -8214,9 +8214,10 @@
     "is_premium": false
   },
   "1580006573": {
-    "last_message_time": 1769856312.000975,
+    "last_message_time": 1769856345.714914,
     "message_times": [
-      1769856312.000975
+      1769856312.000975,
+      1769856345.714914
     ],
     "spam_count": 0,
     "warnings_given": 0,
