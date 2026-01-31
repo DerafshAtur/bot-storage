@@ -17,6 +17,12 @@
       "mode": "chat",
       "timestamp": "2026-01-21T00:03:44.151869",
       "processed": false
+    },
+    {
+      "message": "\u06a9\u0635\u06a9\u0634",
+      "mode": "chatvision",
+      "timestamp": "2026-01-31T00:35:29.175706",
+      "processed": false
     }
   ]
 }
