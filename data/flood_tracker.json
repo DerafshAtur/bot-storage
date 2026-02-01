@@ -8593,10 +8593,11 @@
     "is_premium": false
   },
   "71273570": {
-    "last_message_time": 1769980393.168841,
+    "last_message_time": 1769980468.066362,
     "message_times": [
       1769980354.84133,
-      1769980393.168841
+      1769980393.168841,
+      1769980468.066362
     ],
     "spam_count": 0,
     "warnings_given": 0,
