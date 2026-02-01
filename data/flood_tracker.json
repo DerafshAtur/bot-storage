@@ -8511,9 +8511,10 @@
     "is_premium": false
   },
   "1839209090": {
-    "last_message_time": 1769970579.476799,
+    "last_message_time": 1769970616.656099,
     "message_times": [
-      1769970579.476799
+      1769970579.476799,
+      1769970616.656099
     ],
     "spam_count": 0,
     "warnings_given": 0,
