@@ -8317,9 +8317,10 @@
     "is_premium": false
   },
   "482602295": {
-    "last_message_time": 1769940698.620341,
+    "last_message_time": 1769940754.636278,
     "message_times": [
-      1769940698.620341
+      1769940698.620341,
+      1769940754.636278
     ],
     "spam_count": 0,
     "warnings_given": 0,
