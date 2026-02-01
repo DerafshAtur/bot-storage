@@ -1,28 +1,4 @@
 {
-  "469952e6": {
-    "player1": 6678443174,
-    "player1_name": "ciel",
-    "player2": null,
-    "player2_name": null,
-    "current_player": 6678443174,
-    "current_player_name": "ciel",
-    "board": [
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " ",
-      " "
-    ],
-    "status": "waiting",
-    "chat_id": -1002177293171,
-    "message_id": 3270412,
-    "created_at": "2026-01-31T13:59:04.895080",
-    "last_move": null
-  },
   "6a257e68": {
     "player1": 6473979470,
     "player1_name": "Sa",
