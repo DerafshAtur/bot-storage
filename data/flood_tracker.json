@@ -8434,9 +8434,10 @@
     "is_premium": false
   },
   "8307583487": {
-    "last_message_time": 1769950713.755073,
+    "last_message_time": 1769950720.610176,
     "message_times": [
-      1769950713.755073
+      1769950713.755073,
+      1769950720.610176
     ],
     "spam_count": 0,
     "warnings_given": 0,
