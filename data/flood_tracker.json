@@ -8546,10 +8546,11 @@
     "is_premium": false
   },
   "7059725611": {
-    "last_message_time": 1769978479.869149,
+    "last_message_time": 1769978497.441469,
     "message_times": [
       1769978445.891781,
-      1769978479.869149
+      1769978479.869149,
+      1769978497.441469
     ],
     "spam_count": 0,
     "warnings_given": 0,
