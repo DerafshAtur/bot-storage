@@ -8621,9 +8621,10 @@
     "is_premium": false
   },
   "5710050530": {
-    "last_message_time": 1769987271.02539,
+    "last_message_time": 1769987292.128072,
     "message_times": [
-      1769987271.02539
+      1769987271.02539,
+      1769987292.128072
     ],
     "spam_count": 0,
     "warnings_given": 0,
