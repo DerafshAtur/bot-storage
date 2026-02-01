@@ -477,10 +477,11 @@
     "is_premium": false
   },
   "6929931044": {
-    "last_message_time": 1769985735.723948,
+    "last_message_time": 1769985779.955055,
     "message_times": [
       1769985695.976601,
-      1769985735.723948
+      1769985735.723948,
+      1769985779.955055
     ],
     "spam_count": 0,
     "warnings_given": 0,
