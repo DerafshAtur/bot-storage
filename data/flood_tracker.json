@@ -8022,10 +8022,9 @@
     "is_premium": false
   },
   "6171040308": {
-    "last_message_time": 1769889411.547798,
+    "last_message_time": 1769960707.353582,
     "message_times": [
-      1769889377.31245,
-      1769889411.547798
+      1769960707.353582
     ],
     "spam_count": 0,
     "warnings_given": 0,
