@@ -8504,9 +8504,10 @@
     "is_premium": false
   },
   "8465482277": {
-    "last_message_time": 1769970235.787587,
+    "last_message_time": 1769970262.529299,
     "message_times": [
-      1769970235.787587
+      1769970235.787587,
+      1769970262.529299
     ],
     "spam_count": 0,
     "warnings_given": 0,
