@@ -8409,10 +8409,11 @@
     "is_premium": false
   },
   "415296472": {
-    "last_message_time": 1769930245.9065,
+    "last_message_time": 1769930285.224188,
     "message_times": [
       1769930186.649456,
-      1769930245.9065
+      1769930245.9065,
+      1769930285.224188
     ],
     "spam_count": 0,
     "warnings_given": 0,
