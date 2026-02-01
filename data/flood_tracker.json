@@ -8447,10 +8447,11 @@
     "is_premium": false
   },
   "8192644263": {
-    "last_message_time": 1769957358.129143,
+    "last_message_time": 1769957394.021405,
     "message_times": [
       1769957314.926992,
-      1769957358.129143
+      1769957358.129143,
+      1769957394.021405
     ],
     "spam_count": 0,
     "warnings_given": 0,
