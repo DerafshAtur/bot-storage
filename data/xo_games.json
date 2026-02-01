@@ -1,1 +1,26 @@
-{}
+{
+  "2bc984f6": {
+    "player1": 7059725611,
+    "player1_name": "This_sp",
+    "player2": null,
+    "player2_name": null,
+    "current_player": 7059725611,
+    "current_player_name": "This_sp",
+    "board": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "status": "waiting",
+    "chat_id": 7059725611,
+    "message_id": 19879,
+    "created_at": "2026-02-01T20:46:08.360439",
+    "last_move": null
+  }
+}
