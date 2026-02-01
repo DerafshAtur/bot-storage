@@ -478,10 +478,11 @@
     "is_premium": false
   },
   "6929931044": {
-    "last_message_time": 1769985053.450846,
+    "last_message_time": 1769985069.045297,
     "message_times": [
       1769985024.478971,
-      1769985053.450846
+      1769985053.450846,
+      1769985069.045297
     ],
     "spam_count": 0,
     "warnings_given": 0,
