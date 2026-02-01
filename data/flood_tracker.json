@@ -8397,10 +8397,9 @@
     "is_premium": false
   },
   "7672152003": {
-    "last_message_time": 1769927392.768033,
+    "last_message_time": 1769946219.33071,
     "message_times": [
-      1769927297.455264,
-      1769927392.768033
+      1769946219.33071
     ],
     "spam_count": 0,
     "warnings_given": 0,
