@@ -8695,9 +8695,10 @@
     "is_premium": false
   },
   "7537673874": {
-    "last_message_time": 1770048715.698773,
+    "last_message_time": 1770048753.946332,
     "message_times": [
-      1770048715.698773
+      1770048715.698773,
+      1770048753.946332
     ],
     "spam_count": 0,
     "warnings_given": 0,
