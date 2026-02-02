@@ -8633,9 +8633,10 @@
     "is_premium": false
   },
   "8575339437": {
-    "last_message_time": 1769990918.406614,
+    "last_message_time": 1769991027.201745,
     "message_times": [
-      1769990918.406614
+      1769990918.406614,
+      1769991027.201745
     ],
     "spam_count": 0,
     "warnings_given": 0,
