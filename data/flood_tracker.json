@@ -4587,10 +4587,9 @@
     "is_premium": false
   },
   "8074449614": {
-    "last_message_time": 1769866531.476905,
+    "last_message_time": 1770030062.64673,
     "message_times": [
-      1769866485.536515,
-      1769866531.476905
+      1770030062.64673
     ],
     "spam_count": 0,
     "warnings_given": 0,
