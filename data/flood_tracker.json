@@ -8126,10 +8126,9 @@
     "is_premium": false
   },
   "8510468341": {
-    "last_message_time": 1769794412.3716,
+    "last_message_time": 1770064647.657922,
     "message_times": [
-      1769794389.322456,
-      1769794412.3716
+      1770064647.657922
     ],
     "spam_count": 0,
     "warnings_given": 0,
