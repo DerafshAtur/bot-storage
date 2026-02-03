@@ -8926,10 +8926,11 @@
     "is_premium": false
   },
   "8577994451": {
-    "last_message_time": 1770141937.946596,
+    "last_message_time": 1770141962.258503,
     "message_times": [
       1770141904.204022,
-      1770141937.946596
+      1770141937.946596,
+      1770141962.258503
     ],
     "spam_count": 0,
     "warnings_given": 0,
