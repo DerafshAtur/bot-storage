@@ -3692,10 +3692,11 @@
     "is_premium": false
   },
   "226276206": {
-    "last_message_time": 1770112086.323231,
+    "last_message_time": 1770112114.987633,
     "message_times": [
       1770112065.440315,
-      1770112086.323231
+      1770112086.323231,
+      1770112114.987633
     ],
     "spam_count": 0,
     "warnings_given": 0,
