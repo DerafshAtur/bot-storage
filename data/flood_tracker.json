@@ -8826,10 +8826,11 @@
     "is_premium": false
   },
   "8116507447": {
-    "last_message_time": 1770131276.012097,
+    "last_message_time": 1770131292.658797,
     "message_times": [
       1770131217.453487,
-      1770131276.012097
+      1770131276.012097,
+      1770131292.658797
     ],
     "spam_count": 0,
     "warnings_given": 0,
