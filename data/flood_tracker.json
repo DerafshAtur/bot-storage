@@ -8776,9 +8776,10 @@
     "is_premium": false
   },
   "8226688455": {
-    "last_message_time": 1770106293.463201,
+    "last_message_time": 1770106298.544948,
     "message_times": [
-      1770106293.463201
+      1770106293.463201,
+      1770106298.544948
     ],
     "spam_count": 0,
     "warnings_given": 0,
