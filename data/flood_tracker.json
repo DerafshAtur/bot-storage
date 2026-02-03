@@ -7811,11 +7811,9 @@
     "is_premium": false
   },
   "6235723076": {
-    "last_message_time": 1769235743.711528,
+    "last_message_time": 1770156872.90898,
     "message_times": [
-      1769235670.016429,
-      1769235717.202499,
-      1769235743.711528
+      1770156872.90898
     ],
     "spam_count": 0,
     "warnings_given": 0,
