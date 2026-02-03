@@ -8903,10 +8903,11 @@
     "is_premium": false
   },
   "7667650227": {
-    "last_message_time": 1770138647.086234,
+    "last_message_time": 1770138657.020402,
     "message_times": [
       1770138622.922742,
-      1770138647.086234
+      1770138647.086234,
+      1770138657.020402
     ],
     "spam_count": 0,
     "warnings_given": 0,
