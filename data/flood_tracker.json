@@ -9016,9 +9016,10 @@
     "is_premium": false
   },
   "818343845": {
-    "last_message_time": 1770192017.537079,
+    "last_message_time": 1770192070.598784,
     "message_times": [
-      1770192017.537079
+      1770192017.537079,
+      1770192070.598784
     ],
     "spam_count": 0,
     "warnings_given": 0,
