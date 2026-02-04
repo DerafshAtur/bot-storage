@@ -9091,10 +9091,11 @@
     "is_premium": false
   },
   "6965979232": {
-    "last_message_time": 1770227503.671926,
+    "last_message_time": 1770227552.265771,
     "message_times": [
       1770227483.879104,
-      1770227503.671926
+      1770227503.671926,
+      1770227552.265771
     ],
     "spam_count": 0,
     "warnings_given": 0,
