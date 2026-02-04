@@ -1,1 +1,22 @@
-
+{
+  "-1002610002026": {
+    "title": "\u062c\u06cc\u062c\u0647 \u062f\u0648\u0646\u06cc \u0631\u0633\u0645\u06cc",
+    "member_count": 116,
+    "added_date": "2025-12-20T18:32:34.791947",
+    "chat_type": "supergroup",
+    "discovered_via": "active_scan",
+    "active": true,
+    "last_message": "2026-02-03T16:44:39.420379",
+    "message_count": 4623
+  },
+  "-1002177293171": {
+    "title": "DLGAMES GP \ud83d\udda4\u2764",
+    "member_count": 3311,
+    "added_date": "2025-12-21T09:55:42.585587",
+    "chat_type": "supergroup",
+    "discovered_via": "active_scan",
+    "active": true,
+    "last_message": "2026-02-04T06:31:20.679138",
+    "message_count": 142893
+  }
+}
