@@ -9028,10 +9028,11 @@
     "is_premium": false
   },
   "7640857102": {
-    "last_message_time": 1770196161.634413,
+    "last_message_time": 1770196180.878631,
     "message_times": [
       1770196156.14949,
-      1770196161.634413
+      1770196161.634413,
+      1770196180.878631
     ],
     "spam_count": 0,
     "warnings_given": 0,
