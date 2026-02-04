@@ -9102,5 +9102,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "8439776523": {
+    "last_message_time": 1770228823.375313,
+    "message_times": [
+      1770228823.375313
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
