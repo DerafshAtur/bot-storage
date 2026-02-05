@@ -9245,9 +9245,10 @@
     "is_premium": false
   },
   "6738593462": {
-    "last_message_time": 1770299034.914184,
+    "last_message_time": 1770299038.38227,
     "message_times": [
-      1770299034.914184
+      1770299034.914184,
+      1770299038.38227
     ],
     "spam_count": 0,
     "warnings_given": 0,
