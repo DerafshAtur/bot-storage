@@ -87,11 +87,9 @@
     "is_premium": true
   },
   "7000565072": {
-    "last_message_time": 1766496627.565806,
+    "last_message_time": 1770263352.238905,
     "message_times": [
-      1766496513.456814,
-      1766496578.827434,
-      1766496627.565806
+      1770263352.238905
     ],
     "spam_count": 0,
     "warnings_given": 0,
