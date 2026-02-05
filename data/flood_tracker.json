@@ -3138,9 +3138,10 @@
     "is_premium": false
   },
   "7687619677": {
-    "last_message_time": 1770293158.87719,
+    "last_message_time": 1770293171.804867,
     "message_times": [
-      1770293158.87719
+      1770293158.87719,
+      1770293171.804867
     ],
     "spam_count": 1,
     "warnings_given": 0,
