@@ -3137,9 +3137,9 @@
     "is_premium": false
   },
   "7687619677": {
-    "last_message_time": 1770293453.351206,
+    "last_message_time": 1770293618.01426,
     "message_times": [
-      1770293453.351206
+      1770293618.01426
     ],
     "spam_count": 1,
     "warnings_given": 0,
@@ -9233,11 +9233,12 @@
     "is_premium": false
   },
   "6513725334": {
-    "last_message_time": 1770293593.070843,
+    "last_message_time": 1770293618.819964,
     "message_times": [
       1770293508.138507,
       1770293576.42172,
-      1770293593.070843
+      1770293593.070843,
+      1770293618.819964
     ],
     "spam_count": 0,
     "warnings_given": 0,
