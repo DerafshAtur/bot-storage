@@ -135,10 +135,9 @@
     "is_premium": false
   },
   "7768282050": {
-    "last_message_time": 1770141510.883495,
+    "last_message_time": 1770295402.914517,
     "message_times": [
-      1770141416.79228,
-      1770141510.883495
+      1770295402.914517
     ],
     "spam_count": 1,
     "warnings_given": 0,
@@ -7931,10 +7930,11 @@
     "is_premium": false
   },
   "6030670159": {
-    "last_message_time": 1770295339.383776,
+    "last_message_time": 1770295402.932108,
     "message_times": [
       1770295327.888723,
-      1770295339.383776
+      1770295339.383776,
+      1770295402.932108
     ],
     "spam_count": 0,
     "warnings_given": 0,
