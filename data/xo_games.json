@@ -1,1 +1,26 @@
-{}
+{
+  "1f52e0df": {
+    "player1": 6001769473,
+    "player1_name": "D3R4F5H",
+    "player2": null,
+    "player2_name": null,
+    "current_player": 6001769473,
+    "current_player_name": "D3R4F5H",
+    "board": [
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " ",
+      " "
+    ],
+    "status": "waiting",
+    "chat_id": -1002177293171,
+    "message_id": 3285035,
+    "created_at": "2026-02-05T05:29:12.541954",
+    "last_move": null
+  }
+}
