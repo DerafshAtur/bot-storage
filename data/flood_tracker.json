@@ -9210,10 +9210,9 @@
     "is_premium": false
   },
   "6465595407": {
-    "last_message_time": 1770288401.142646,
+    "last_message_time": 1770288896.45331,
     "message_times": [
-      1770288349.634299,
-      1770288401.142646
+      1770288896.45331
     ],
     "spam_count": 0,
     "warnings_given": 0,
