@@ -3690,10 +3690,11 @@
     "is_premium": false
   },
   "226276206": {
-    "last_message_time": 1770266040.632656,
+    "last_message_time": 1770266052.5207,
     "message_times": [
       1770265995.905189,
-      1770266040.632656
+      1770266040.632656,
+      1770266052.5207
     ],
     "spam_count": 0,
     "warnings_given": 0,
