@@ -8052,9 +8052,10 @@
     "is_premium": false
   },
   "7638372899": {
-    "last_message_time": 1770308635.909002,
+    "last_message_time": 1770308712.814143,
     "message_times": [
-      1770308635.909002
+      1770308635.909002,
+      1770308712.814143
     ],
     "spam_count": 0,
     "warnings_given": 0,
