@@ -175,10 +175,11 @@
     "is_premium": false
   },
   "7971211710": {
-    "last_message_time": 1770293614.022143,
+    "last_message_time": 1770293624.64525,
     "message_times": [
       1770293556.503095,
-      1770293614.022143
+      1770293614.022143,
+      1770293624.64525
     ],
     "spam_count": 0,
     "warnings_given": 0,
