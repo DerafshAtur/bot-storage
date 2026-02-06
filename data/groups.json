@@ -6,8 +6,8 @@
     "chat_type": "supergroup",
     "discovered_via": "active_scan",
     "active": true,
-    "last_message": "2026-02-05T08:44:20.758521",
-    "message_count": 4627
+    "last_message": "2026-02-06T00:35:50.555426",
+    "message_count": 4628
   },
   "-1002177293171": {
     "title": "DLGAMES GP \ud83d\udda4\u2764",
@@ -16,7 +16,7 @@
     "chat_type": "supergroup",
     "discovered_via": "active_scan",
     "active": true,
-    "last_message": "2026-02-06T00:35:37.014305",
-    "message_count": 146753
+    "last_message": "2026-02-06T00:35:50.813864",
+    "message_count": 146754
   }
 }
