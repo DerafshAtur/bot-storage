@@ -9315,10 +9315,11 @@
     "is_premium": false
   },
   "6332848722": {
-    "last_message_time": 1770337496.668056,
+    "last_message_time": 1770337506.907551,
     "message_times": [
       1770337457.351384,
-      1770337496.668056
+      1770337496.668056,
+      1770337506.907551
     ],
     "spam_count": 0,
     "warnings_given": 0,
