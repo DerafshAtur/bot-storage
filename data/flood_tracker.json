@@ -9362,5 +9362,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "125117796": {
+    "last_message_time": 1770368068.774797,
+    "message_times": [
+      1770368068.774797
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
