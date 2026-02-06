@@ -9401,9 +9401,10 @@
     "is_premium": false
   },
   "6738451348": {
-    "last_message_time": 1770387010.734293,
+    "last_message_time": 1770387022.371986,
     "message_times": [
-      1770387010.734293
+      1770387010.734293,
+      1770387022.371986
     ],
     "spam_count": 0,
     "warnings_given": 0,
