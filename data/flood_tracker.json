@@ -9460,5 +9460,11 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "1546744736": {
+    "last_message_time": 1770565547.938948,
+    "message_count": 1,
+    "warnings": 0,
+    "is_premium": false
   }
 }
