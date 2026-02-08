@@ -2343,7 +2343,7 @@
     "is_premium": false
   },
   "7021276860": {
-    "last_message_time": 1766936880.775131,
+    "last_message_time": 1770566146.731831,
     "message_times": [
       1766936880.775131
     ],
@@ -2351,7 +2351,8 @@
     "warnings_given": 0,
     "blocked_until": 0,
     "total_warnings": 0,
-    "is_premium": false
+    "is_premium": false,
+    "message_count": 1
   },
   "7942783508": {
     "last_message_time": 1769262900.963816,
