@@ -5807,7 +5807,7 @@
     "is_premium": false
   },
   "1202249440": {
-    "last_message_time": 1767780391.638315,
+    "last_message_time": 1770566223.316841,
     "message_times": [
       1767780391.638315
     ],
@@ -5815,7 +5815,8 @@
     "warnings_given": 0,
     "blocked_until": 0,
     "total_warnings": 0,
-    "is_premium": false
+    "is_premium": false,
+    "message_count": 1
   },
   "6313527352": {
     "last_message_time": 1767547191.599088,
