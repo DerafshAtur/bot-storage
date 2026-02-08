@@ -3190,7 +3190,7 @@
     "is_premium": false
   },
   "8024974927": {
-    "last_message_time": 1770553274.682298,
+    "last_message_time": 1770566219.905044,
     "message_times": [
       1770553200.127727,
       1770553274.682298
@@ -3199,7 +3199,8 @@
     "warnings_given": 0,
     "blocked_until": 1767796076.755003,
     "total_warnings": 2,
-    "is_premium": false
+    "is_premium": false,
+    "message_count": 1
   },
   "7041866887": {
     "last_message_time": 1767037411.387086,
