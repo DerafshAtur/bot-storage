@@ -8096,7 +8096,7 @@
     "is_premium": false
   },
   "8043441623": {
-    "last_message_time": 1769784262.714102,
+    "last_message_time": 1770565065.971917,
     "message_times": [
       1769784153.449193,
       1769784205.453542,
@@ -8107,7 +8107,8 @@
     "warnings_given": 0,
     "blocked_until": 0,
     "total_warnings": 0,
-    "is_premium": false
+    "is_premium": false,
+    "message_count": 1
   },
   "8510468341": {
     "last_message_time": 1770065159.807842,
