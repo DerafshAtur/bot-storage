@@ -8179,10 +8179,9 @@
     "is_premium": false
   },
   "5571715423": {
-    "last_message_time": 1770542913.956727,
+    "last_message_time": 1770552986.938942,
     "message_times": [
-      1770542799.678449,
-      1770542913.956727
+      1770552986.938942
     ],
     "spam_count": 0,
     "warnings_given": 0,
