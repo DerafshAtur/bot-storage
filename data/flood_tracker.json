@@ -7787,7 +7787,7 @@
     "is_premium": false
   },
   "6235723076": {
-    "last_message_time": 1770156872.90898,
+    "last_message_time": 1770565237.201634,
     "message_times": [
       1770156872.90898
     ],
@@ -7795,7 +7795,8 @@
     "warnings_given": 0,
     "blocked_until": 0,
     "total_warnings": 0,
-    "is_premium": false
+    "is_premium": false,
+    "message_count": 1
   },
   "5927809894": {
     "last_message_time": 1769164767.400977,
