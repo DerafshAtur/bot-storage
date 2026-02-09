@@ -1,4 +1,14 @@
 {
-  "warnings": {},
-  "cooldowns": {}
+  "1364363576": {
+    "last_message_time": 1770642607.243702,
+    "message_count": 1,
+    "warnings": 0,
+    "is_premium": false
+  },
+  "6471738505": {
+    "last_message_time": 1770642607.591098,
+    "message_count": 1,
+    "warnings": 0,
+    "is_premium": false
+  }
 }
