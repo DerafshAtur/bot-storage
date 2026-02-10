@@ -17,8 +17,8 @@
     "chat_type": "supergroup",
     "discovered_via": "active_scan",
     "active": true,
-    "last_message": "2026-02-10T12:09:29.513343",
-    "message_count": 152440,
+    "last_message": "2026-02-10T12:10:48.203083",
+    "message_count": 152447,
     "last_seen": "2026-02-10T09:36:47.843201"
   },
   "-1003404467040": {
@@ -62,8 +62,8 @@
     "added_date": "2026-02-10T07:58:58.077357",
     "last_seen": "2026-02-10T09:53:40.615858",
     "active": true,
-    "last_message": "2026-02-10T12:09:38.990266",
-    "message_count": 10
+    "last_message": "2026-02-10T12:10:39.180339",
+    "message_count": 12
   },
   "-1002742120460": {
     "title": "Goon trios",
