@@ -4,39 +4,11 @@
   ],
   "verified_details": {
     "6001769473": {
-      "verified_at": "2026-02-10T08:21:03.594960",
+      "verified_at": "2026-02-10T09:57:49.149110",
       "language": "english",
-      "last_active": "2026-02-10T08:21:05.082326"
+      "last_active": "2026-02-10T09:57:49.149126"
     }
   },
   "blocked_bot": [],
-  "updated_at": "2026-02-10T08:21:05.082343",
-  "7241009907": {
-    "verified": true,
-    "verified_at": "2026-02-10T09:20:51.599500",
-    "bot_blocked": false,
-    "last_check": "2026-02-10T09:20:51.599508",
-    "language": "english"
-  },
-  "6001769473": {
-    "verified": true,
-    "verified_at": "2026-02-10T09:28:10.682102",
-    "bot_blocked": false,
-    "last_check": "2026-02-10T09:28:10.682110",
-    "language": "farsi"
-  },
-  "7153521668": {
-    "verified": true,
-    "verified_at": "2026-02-10T09:20:51.600898",
-    "bot_blocked": false,
-    "last_check": "2026-02-10T09:20:51.600900",
-    "language": "english"
-  },
-  "5988742686": {
-    "verified": true,
-    "verified_at": "2026-02-10T09:48:07.276829",
-    "bot_blocked": false,
-    "last_check": "2026-02-10T09:48:07.276836",
-    "language": "english"
-  }
+  "updated_at": "2026-02-10T09:57:49.149137"
 }
