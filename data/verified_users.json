@@ -31,5 +31,12 @@
     "bot_blocked": false,
     "last_check": "2026-02-10T09:20:51.600900",
     "language": "english"
+  },
+  "5988742686": {
+    "verified": true,
+    "verified_at": "2026-02-10T09:48:07.276829",
+    "bot_blocked": false,
+    "last_check": "2026-02-10T09:48:07.276836",
+    "language": "english"
   }
 }
