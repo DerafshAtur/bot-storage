@@ -86,9 +86,10 @@
     "is_premium": false
   },
   "8097378221": {
-    "last_message_time": 1770731606.363316,
+    "last_message_time": 1770731682.023205,
     "message_times": [
-      1770731606.363316
+      1770731606.363316,
+      1770731682.023205
     ],
     "spam_count": 0,
     "warnings_given": 0,
