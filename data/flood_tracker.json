@@ -12,10 +12,11 @@
     "is_premium": false
   },
   "6182076955": {
-    "last_message_time": 1770726348.675598,
+    "last_message_time": 1770726356.774829,
     "message_times": [
       1770726257.487022,
-      1770726348.675598
+      1770726348.675598,
+      1770726356.774829
     ],
     "spam_count": 0,
     "warnings_given": 0,
