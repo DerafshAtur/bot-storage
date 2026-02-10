@@ -202,10 +202,11 @@
     "is_premium": false
   },
   "7922772947": {
-    "last_message_time": 1770757389.358284,
+    "last_message_time": 1770757404.823772,
     "message_times": [
       1770757353.697674,
-      1770757389.358284
+      1770757389.358284,
+      1770757404.823772
     ],
     "spam_count": 0,
     "warnings_given": 0,
