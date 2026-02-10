@@ -1,7 +1,14 @@
-[
-  6001769473,
-  "verified_details",
-  "verified",
-  "blocked_bot",
-  "updated_at"
-]
+{
+  "verified": [
+    "6001769473"
+  ],
+  "verified_details": {
+    "6001769473": {
+      "verified_at": "2026-02-10T08:19:59.722129",
+      "language": "english",
+      "last_active": "2026-02-10T08:19:59.722139"
+    }
+  },
+  "blocked_bot": [],
+  "updated_at": "2026-02-10T08:19:59.722145"
+}
