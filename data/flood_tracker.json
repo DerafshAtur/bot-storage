@@ -137,9 +137,10 @@
     "is_premium": false
   },
   "7288632953": {
-    "last_message_time": 1770747929.383519,
+    "last_message_time": 1770859964.112373,
     "message_times": [
-      1770747929.383519
+      1770859964.091804,
+      1770859964.112373
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -332,9 +333,10 @@
     "is_premium": false
   },
   "7189202664": {
-    "last_message_time": 1770859959.246188,
+    "last_message_time": 1770859963.895436,
     "message_times": [
-      1770859959.246188
+      1770859959.246188,
+      1770859963.895436
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -439,6 +441,30 @@
     "last_message_time": 1770859961.697603,
     "message_times": [
       1770859961.697603
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "7954730754": {
+    "last_message_time": 1770859963.394723,
+    "message_times": [
+      1770859963.394476,
+      1770859963.394723
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "7555620777": {
+    "last_message_time": 1770859963.507268,
+    "message_times": [
+      1770859963.506828,
+      1770859963.507268
     ],
     "spam_count": 0,
     "warnings_given": 0,
