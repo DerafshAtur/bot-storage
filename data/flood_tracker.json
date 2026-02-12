@@ -549,10 +549,11 @@
     "is_premium": false
   },
   "8266675249": {
-    "last_message_time": 1770883764.645475,
+    "last_message_time": 1770883787.621213,
     "message_times": [
       1770883701.978638,
-      1770883764.645475
+      1770883764.645475,
+      1770883787.621213
     ],
     "spam_count": 0,
     "warnings_given": 0,
