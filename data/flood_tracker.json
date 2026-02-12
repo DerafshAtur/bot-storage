@@ -647,10 +647,11 @@
     "is_premium": false
   },
   "6552942004": {
-    "last_message_time": 1770913613.174346,
+    "last_message_time": 1770913644.830212,
     "message_times": [
       1770913587.791321,
-      1770913613.174346
+      1770913613.174346,
+      1770913644.830212
     ],
     "spam_count": 0,
     "warnings_given": 0,
