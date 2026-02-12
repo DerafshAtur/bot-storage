@@ -473,10 +473,11 @@
     "is_premium": false
   },
   "7824133218": {
-    "last_message_time": 1770866775.456048,
+    "last_message_time": 1770866822.61132,
     "message_times": [
       1770866749.976115,
-      1770866775.456048
+      1770866775.456048,
+      1770866822.61132
     ],
     "spam_count": 0,
     "warnings_given": 0,
