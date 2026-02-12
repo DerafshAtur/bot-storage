@@ -425,10 +425,11 @@
     "is_premium": false
   },
   "8338922555": {
-    "last_message_time": 1770871879.212053,
+    "last_message_time": 1770871927.293424,
     "message_times": [
       1770871856.591702,
-      1770871879.212053
+      1770871879.212053,
+      1770871927.293424
     ],
     "spam_count": 1,
     "warnings_given": 0,
