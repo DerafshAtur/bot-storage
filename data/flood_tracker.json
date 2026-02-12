@@ -488,10 +488,9 @@
     "is_premium": false
   },
   "6767230518": {
-    "last_message_time": 1770881586.344221,
+    "last_message_time": 1770882485.222884,
     "message_times": [
-      1770881553.578033,
-      1770881586.344221
+      1770882485.222884
     ],
     "spam_count": 0,
     "warnings_given": 0,
