@@ -341,5 +341,98 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "8553172719": {
+    "last_message_time": 1770859959.392063,
+    "message_times": [
+      1770859959.392063
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "7349089611": {
+    "last_message_time": 1770859959.53662,
+    "message_times": [
+      1770859959.5295,
+      1770859959.53662,
+      1770859959.649782
+    ],
+    "spam_count": 1,
+    "warnings_given": 1,
+    "blocked_until": 0,
+    "total_warnings": 1,
+    "is_premium": false
+  },
+  "7198666555": {
+    "last_message_time": 1770859959.836276,
+    "message_times": [
+      1770859959.836276
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "8501439898": {
+    "last_message_time": 1770859960.092198,
+    "message_times": [
+      1770859960.092198
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "5520938617": {
+    "last_message_time": 1770859960.104664,
+    "message_times": [
+      1770859960.104664
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "692574033": {
+    "last_message_time": 1770859960.166466,
+    "message_times": [
+      1770859960.165968,
+      1770859960.166466
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "7975770232": {
+    "last_message_time": 1770859960.728302,
+    "message_times": [
+      1770859960.728302
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "8338922555": {
+    "last_message_time": 1770859961.164378,
+    "message_times": [
+      1770859961.162156,
+      1770859961.164378,
+      1770859961.165192
+    ],
+    "spam_count": 1,
+    "warnings_given": 1,
+    "blocked_until": 0,
+    "total_warnings": 1,
+    "is_premium": false
   }
 }
