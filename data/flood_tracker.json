@@ -689,9 +689,10 @@
     "is_premium": false
   },
   "8324399042": {
-    "last_message_time": 1770917642.479808,
+    "last_message_time": 1770917681.999216,
     "message_times": [
-      1770917642.479808
+      1770917642.479808,
+      1770917681.999216
     ],
     "spam_count": 0,
     "warnings_given": 0,
