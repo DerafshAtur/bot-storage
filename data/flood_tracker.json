@@ -846,5 +846,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "691764681": {
+    "last_message_time": 1770987073.774855,
+    "message_times": [
+      1770987073.774855
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
