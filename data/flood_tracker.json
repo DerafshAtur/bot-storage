@@ -943,9 +943,10 @@
     "is_premium": false
   },
   "66091939": {
-    "last_message_time": 1771002991.889933,
+    "last_message_time": 1771003040.995497,
     "message_times": [
-      1771002991.889933
+      1771002991.889933,
+      1771003040.995497
     ],
     "spam_count": 0,
     "warnings_given": 0,
