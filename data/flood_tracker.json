@@ -870,9 +870,10 @@
     "is_premium": false
   },
   "6006732802": {
-    "last_message_time": 1770991546.994354,
+    "last_message_time": 1770991589.63977,
     "message_times": [
-      1770991546.994354
+      1770991546.994354,
+      1770991589.63977
     ],
     "spam_count": 0,
     "warnings_given": 0,
