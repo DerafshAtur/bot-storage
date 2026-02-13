@@ -955,11 +955,9 @@
     "is_premium": false
   },
   "8515337171": {
-    "last_message_time": 1771004394.506721,
+    "last_message_time": 1771004769.526773,
     "message_times": [
-      1771004331.492739,
-      1771004358.92523,
-      1771004394.506721
+      1771004769.526773
     ],
     "spam_count": 0,
     "warnings_given": 0,
