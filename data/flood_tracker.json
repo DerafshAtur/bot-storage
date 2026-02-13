@@ -966,9 +966,10 @@
     "is_premium": false
   },
   "8490978363": {
-    "last_message_time": 1771009371.160022,
+    "last_message_time": 1771009411.95248,
     "message_times": [
-      1771009371.160022
+      1771009371.160022,
+      1771009411.95248
     ],
     "spam_count": 0,
     "warnings_given": 0,
