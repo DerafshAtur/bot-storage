@@ -1014,10 +1014,9 @@
     "is_premium": false
   },
   "8177682843": {
-    "last_message_time": 1771017601.454341,
+    "last_message_time": 1771017731.717196,
     "message_times": [
-      1771017551.285952,
-      1771017601.454341
+      1771017731.717196
     ],
     "spam_count": 0,
     "warnings_given": 0,
