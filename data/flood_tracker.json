@@ -1323,5 +1323,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "8292980581": {
+    "last_message_time": 1771104714.007739,
+    "message_times": [
+      1771104714.007739
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
