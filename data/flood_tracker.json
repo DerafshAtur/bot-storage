@@ -1325,9 +1325,10 @@
     "is_premium": false
   },
   "8292980581": {
-    "last_message_time": 1771104714.007739,
+    "last_message_time": 1771104753.347358,
     "message_times": [
-      1771104714.007739
+      1771104714.007739,
+      1771104753.347358
     ],
     "spam_count": 0,
     "warnings_given": 0,
