@@ -1291,9 +1291,10 @@
     "is_premium": false
   },
   "6426260594": {
-    "last_message_time": 1771101059.43633,
+    "last_message_time": 1771101114.077437,
     "message_times": [
-      1771101059.43633
+      1771101059.43633,
+      1771101114.077437
     ],
     "spam_count": 0,
     "warnings_given": 0,
