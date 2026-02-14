@@ -699,9 +699,10 @@
     "is_premium": false
   },
   "7505507432": {
-    "last_message_time": 1771066636.96269,
+    "last_message_time": 1771066638.633561,
     "message_times": [
-      1771066636.96269
+      1771066636.96269,
+      1771066638.633561
     ],
     "spam_count": 0,
     "warnings_given": 0,
