@@ -1045,5 +1045,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "8080845186": {
+    "last_message_time": 1771038330.389231,
+    "message_times": [
+      1771038330.389231
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
