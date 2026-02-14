@@ -1279,9 +1279,10 @@
     "is_premium": false
   },
   "6507337895": {
-    "last_message_time": 1771097174.704612,
+    "last_message_time": 1771097229.126405,
     "message_times": [
-      1771097174.704612
+      1771097174.704612,
+      1771097229.126405
     ],
     "spam_count": 0,
     "warnings_given": 0,
