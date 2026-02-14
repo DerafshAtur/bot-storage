@@ -1058,10 +1058,11 @@
     "is_premium": false
   },
   "7104155475": {
-    "last_message_time": 1771044587.429785,
+    "last_message_time": 1771044608.946933,
     "message_times": [
       1771044580.735249,
-      1771044587.429785
+      1771044587.429785,
+      1771044608.946933
     ],
     "spam_count": 0,
     "warnings_given": 0,
