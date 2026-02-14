@@ -1025,10 +1025,9 @@
     "is_premium": false
   },
   "8053341580": {
-    "last_message_time": 1771034309.341855,
+    "last_message_time": 1771034551.473028,
     "message_times": [
-      1771034213.536711,
-      1771034309.341855
+      1771034551.473028
     ],
     "spam_count": 0,
     "warnings_given": 0,
