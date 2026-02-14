@@ -1221,9 +1221,10 @@
     "is_premium": false
   },
   "8473985155": {
-    "last_message_time": 1771088776.142077,
+    "last_message_time": 1771088817.961181,
     "message_times": [
-      1771088776.142077
+      1771088776.142077,
+      1771088817.961181
     ],
     "spam_count": 0,
     "warnings_given": 0,
