@@ -1047,10 +1047,9 @@
     "is_premium": false
   },
   "8080845186": {
-    "last_message_time": 1771039379.744211,
+    "last_message_time": 1771039685.856253,
     "message_times": [
-      1771039287.484782,
-      1771039379.744211
+      1771039685.856253
     ],
     "spam_count": 0,
     "warnings_given": 0,
