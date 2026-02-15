@@ -1430,10 +1430,11 @@
     "is_premium": false
   },
   "8229180353": {
-    "last_message_time": 1771139485.944723,
+    "last_message_time": 1771139514.975196,
     "message_times": [
       1771139436.81489,
-      1771139485.944723
+      1771139485.944723,
+      1771139514.975196
     ],
     "spam_count": 0,
     "warnings_given": 0,
