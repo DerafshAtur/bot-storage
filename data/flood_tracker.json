@@ -1493,10 +1493,11 @@
     "is_premium": false
   },
   "8561600852": {
-    "last_message_time": 1771150504.848597,
+    "last_message_time": 1771150538.467224,
     "message_times": [
       1771150492.519104,
-      1771150504.848597
+      1771150504.848597,
+      1771150538.467224
     ],
     "spam_count": 0,
     "warnings_given": 0,
