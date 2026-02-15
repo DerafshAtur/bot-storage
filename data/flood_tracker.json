@@ -1441,9 +1441,10 @@
     "is_premium": false
   },
   "6264843240": {
-    "last_message_time": 1771141730.813477,
+    "last_message_time": 1771141758.933635,
     "message_times": [
-      1771141730.813477
+      1771141730.813477,
+      1771141758.933635
     ],
     "spam_count": 0,
     "warnings_given": 0,
