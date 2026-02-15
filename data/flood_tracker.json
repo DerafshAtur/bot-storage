@@ -1,8 +1,9 @@
 {
   "6001769473": {
-    "last_message_time": 1771190236.781751,
+    "last_message_time": 1771190250.37747,
     "message_times": [
-      1771190236.781751
+      1771190236.781751,
+      1771190250.37747
     ],
     "spam_count": 0,
     "warnings_given": 0,
