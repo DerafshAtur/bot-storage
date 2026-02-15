@@ -1077,10 +1077,9 @@
     "is_premium": false
   },
   "7625144242": {
-    "last_message_time": 1771057822.365028,
+    "last_message_time": 1771164505.146299,
     "message_times": [
-      1771057803.656746,
-      1771057822.365028
+      1771164505.146299
     ],
     "spam_count": 0,
     "warnings_given": 0,
