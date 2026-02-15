@@ -1479,10 +1479,11 @@
     "is_premium": false
   },
   "7628362490": {
-    "last_message_time": 1771150274.356875,
+    "last_message_time": 1771150278.567512,
     "message_times": [
       1771150227.024712,
-      1771150274.356875
+      1771150274.356875,
+      1771150278.567512
     ],
     "spam_count": 0,
     "warnings_given": 0,
