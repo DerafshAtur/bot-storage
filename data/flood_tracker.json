@@ -622,9 +622,10 @@
     "is_premium": false
   },
   "7723659398": {
-    "last_message_time": 1771125927.259503,
+    "last_message_time": 1771125986.53425,
     "message_times": [
-      1771125927.259503
+      1771125927.259503,
+      1771125986.53425
     ],
     "spam_count": 0,
     "warnings_given": 0,
