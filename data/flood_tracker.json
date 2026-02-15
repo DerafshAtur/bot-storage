@@ -1603,11 +1603,9 @@
     "is_premium": false
   },
   "6406226336": {
-    "last_message_time": 1771181445.064762,
+    "last_message_time": 1771181600.007005,
     "message_times": [
-      1771181385.052662,
-      1771181414.838686,
-      1771181445.064762
+      1771181600.007005
     ],
     "spam_count": 0,
     "warnings_given": 0,
