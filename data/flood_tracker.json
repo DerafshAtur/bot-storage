@@ -1411,9 +1411,10 @@
     "is_premium": false
   },
   "6815371352": {
-    "last_message_time": 1771139263.361335,
+    "last_message_time": 1771139269.278004,
     "message_times": [
-      1771139263.361335
+      1771139263.361335,
+      1771139269.278004
     ],
     "spam_count": 0,
     "warnings_given": 0,
