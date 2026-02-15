@@ -1678,9 +1678,10 @@
     "is_premium": false
   },
   "6947251977": {
-    "last_message_time": 1771194737.194317,
+    "last_message_time": 1771194765.141363,
     "message_times": [
-      1771194737.194317
+      1771194737.194317,
+      1771194765.141363
     ],
     "spam_count": 0,
     "warnings_given": 0,
