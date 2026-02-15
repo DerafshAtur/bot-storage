@@ -1398,9 +1398,10 @@
     "is_premium": false
   },
   "8351344845": {
-    "last_message_time": 1771139102.650671,
+    "last_message_time": 1771139126.888983,
     "message_times": [
-      1771139102.650671
+      1771139102.650671,
+      1771139126.888983
     ],
     "spam_count": 0,
     "warnings_given": 0,
