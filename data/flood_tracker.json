@@ -1702,10 +1702,11 @@
     "is_premium": false
   },
   "6050554539": {
-    "last_message_time": 1771219131.076632,
+    "last_message_time": 1771219140.003094,
     "message_times": [
       1771219067.674929,
-      1771219131.076632
+      1771219131.076632,
+      1771219140.003094
     ],
     "spam_count": 0,
     "warnings_given": 0,
