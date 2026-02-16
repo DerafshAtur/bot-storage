@@ -1791,9 +1791,10 @@
     "is_premium": false
   },
   "7582021197": {
-    "last_message_time": 1771255568.455658,
+    "last_message_time": 1771255609.910177,
     "message_times": [
-      1771255568.455658
+      1771255568.455658,
+      1771255609.910177
     ],
     "spam_count": 0,
     "warnings_given": 0,
