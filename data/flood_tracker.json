@@ -1733,5 +1733,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "6516800686": {
+    "last_message_time": 1771229429.266022,
+    "message_times": [
+      1771229429.266022
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
