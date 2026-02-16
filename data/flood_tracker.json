@@ -1803,9 +1803,10 @@
     "is_premium": false
   },
   "8440379163": {
-    "last_message_time": 1771271090.40816,
+    "last_message_time": 1771271148.230681,
     "message_times": [
-      1771271090.40816
+      1771271090.40816,
+      1771271148.230681
     ],
     "spam_count": 0,
     "warnings_given": 0,
