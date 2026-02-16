@@ -1909,10 +1909,9 @@
     "is_premium": false
   },
   "5810954710": {
-    "last_message_time": 1771280894.868982,
+    "last_message_time": 1771281260.821527,
     "message_times": [
-      1771280823.730983,
-      1771280894.868982
+      1771281260.821527
     ],
     "spam_count": 0,
     "warnings_given": 0,
