@@ -1857,10 +1857,9 @@
     "is_premium": false
   },
   "8246054552": {
-    "last_message_time": 1771268385.820206,
+    "last_message_time": 1771268513.110088,
     "message_times": [
-      1771268337.167521,
-      1771268385.820206
+      1771268513.110088
     ],
     "spam_count": 0,
     "warnings_given": 0,
