@@ -2158,10 +2158,9 @@
     "is_premium": false
   },
   "8578672613": {
-    "last_message_time": 1771366646.172886,
+    "last_message_time": 1771366824.871161,
     "message_times": [
-      1771366599.367151,
-      1771366646.172886
+      1771366824.871161
     ],
     "spam_count": 0,
     "warnings_given": 0,
