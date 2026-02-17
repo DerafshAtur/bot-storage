@@ -2074,5 +2074,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "8528229945": {
+    "last_message_time": 1771354713.427751,
+    "message_times": [
+      1771354713.427751
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
