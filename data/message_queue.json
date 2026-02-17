@@ -5,6 +5,12 @@
       "mode": "chat",
       "timestamp": "2026-02-17T09:52:16.206068",
       "processed": false
+    },
+    {
+      "message": "timezone",
+      "mode": "chat",
+      "timestamp": "2026-02-17T09:53:48.209069",
+      "processed": false
     }
   ]
 }
