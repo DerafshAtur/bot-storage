@@ -2090,11 +2090,9 @@
     "is_premium": false
   },
   "8191890144": {
-    "last_message_time": 1771356946.676642,
+    "last_message_time": 1771357274.242113,
     "message_times": [
-      1771356856.485348,
-      1771356919.356265,
-      1771356946.676642
+      1771357274.242113
     ],
     "spam_count": 0,
     "warnings_given": 0,
