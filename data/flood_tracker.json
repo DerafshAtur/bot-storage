@@ -2005,5 +2005,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "7118301053": {
+    "last_message_time": 1771331534.395967,
+    "message_times": [
+      1771331534.395967
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
