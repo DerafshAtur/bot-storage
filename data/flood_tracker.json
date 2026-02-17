@@ -766,11 +766,9 @@
     "is_premium": false
   },
   "6513725334": {
-    "last_message_time": 1770959569.280577,
+    "last_message_time": 1771332062.61972,
     "message_times": [
-      1770959481.38783,
-      1770959549.065581,
-      1770959569.280577
+      1771332062.61972
     ],
     "spam_count": 0,
     "warnings_given": 0,
