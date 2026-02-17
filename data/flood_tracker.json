@@ -2065,10 +2065,9 @@
     "is_premium": false
   },
   "6206546543": {
-    "last_message_time": 1771352887.105279,
+    "last_message_time": 1771354036.470856,
     "message_times": [
-      1771352784.658031,
-      1771352887.105279
+      1771354036.470856
     ],
     "spam_count": 0,
     "warnings_given": 0,
