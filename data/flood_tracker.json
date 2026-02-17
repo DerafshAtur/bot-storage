@@ -2076,9 +2076,10 @@
     "is_premium": false
   },
   "8528229945": {
-    "last_message_time": 1771354713.427751,
+    "last_message_time": 1771354747.635533,
     "message_times": [
-      1771354713.427751
+      1771354713.427751,
+      1771354747.635533
     ],
     "spam_count": 0,
     "warnings_given": 0,
