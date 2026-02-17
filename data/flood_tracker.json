@@ -2112,9 +2112,10 @@
     "is_premium": false
   },
   "6782234188": {
-    "last_message_time": 1771357715.276922,
+    "last_message_time": 1771357814.00501,
     "message_times": [
-      1771357715.276922
+      1771357715.276922,
+      1771357814.00501
     ],
     "spam_count": 0,
     "warnings_given": 0,
