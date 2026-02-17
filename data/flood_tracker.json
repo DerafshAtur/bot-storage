@@ -1942,9 +1942,10 @@
     "is_premium": false
   },
   "7271487755": {
-    "last_message_time": 1771317892.162124,
+    "last_message_time": 1771317922.83572,
     "message_times": [
-      1771317892.162124
+      1771317892.162124,
+      1771317922.83572
     ],
     "spam_count": 0,
     "warnings_given": 0,
