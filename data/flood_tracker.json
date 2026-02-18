@@ -2276,9 +2276,10 @@
     "is_premium": false
   },
   "7975019331": {
-    "last_message_time": 1771434749.921763,
+    "last_message_time": 1771434789.876243,
     "message_times": [
-      1771434749.921763
+      1771434749.921763,
+      1771434789.876243
     ],
     "spam_count": 0,
     "warnings_given": 0,
