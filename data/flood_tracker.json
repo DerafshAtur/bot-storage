@@ -2290,10 +2290,11 @@
     "is_premium": false
   },
   "6052917944": {
-    "last_message_time": 1771435960.265927,
+    "last_message_time": 1771436001.83895,
     "message_times": [
       1771435895.83027,
-      1771435960.265927
+      1771435960.265927,
+      1771436001.83895
     ],
     "spam_count": 0,
     "warnings_given": 0,
