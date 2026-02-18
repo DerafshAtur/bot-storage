@@ -1637,11 +1637,9 @@
     "is_premium": false
   },
   "6021752899": {
-    "last_message_time": 1771408932.672179,
+    "last_message_time": 1771409055.632534,
     "message_times": [
-      1771408863.582237,
-      1771408913.118412,
-      1771408932.672179
+      1771409055.632534
     ],
     "spam_count": 0,
     "warnings_given": 0,
