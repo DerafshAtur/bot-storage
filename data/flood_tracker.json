@@ -2244,10 +2244,11 @@
     "is_premium": false
   },
   "6478546279": {
-    "last_message_time": 1771412044.435542,
+    "last_message_time": 1771412080.707261,
     "message_times": [
       1771411994.271223,
-      1771412044.435542
+      1771412044.435542,
+      1771412080.707261
     ],
     "spam_count": 0,
     "warnings_given": 0,
