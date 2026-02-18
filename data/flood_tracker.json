@@ -2218,9 +2218,10 @@
     "is_premium": false
   },
   "7877870322": {
-    "last_message_time": 1771407046.274962,
+    "last_message_time": 1771407095.443832,
     "message_times": [
-      1771407046.274962
+      1771407046.274962,
+      1771407095.443832
     ],
     "spam_count": 0,
     "warnings_given": 0,
