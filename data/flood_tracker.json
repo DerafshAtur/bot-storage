@@ -2618,10 +2618,9 @@
     "is_premium": false
   },
   "7032876931": {
-    "last_message_time": 1771532259.711758,
+    "last_message_time": 1771533102.476561,
     "message_times": [
-      1771532173.18777,
-      1771532259.711758
+      1771533102.476561
     ],
     "spam_count": 0,
     "warnings_given": 0,
