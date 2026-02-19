@@ -2630,10 +2630,11 @@
     "is_premium": false
   },
   "6315544204": {
-    "last_message_time": 1771535505.819582,
+    "last_message_time": 1771535537.317263,
     "message_times": [
       1771535502.117222,
-      1771535505.819582
+      1771535505.819582,
+      1771535537.317263
     ],
     "spam_count": 0,
     "warnings_given": 0,
