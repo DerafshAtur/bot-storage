@@ -2593,10 +2593,11 @@
     "is_premium": false
   },
   "7469924962": {
-    "last_message_time": 1771527503.910474,
+    "last_message_time": 1771527555.451009,
     "message_times": [
       1771527472.462438,
-      1771527503.910474
+      1771527503.910474,
+      1771527555.451009
     ],
     "spam_count": 0,
     "warnings_given": 0,
