@@ -2463,9 +2463,10 @@
     "is_premium": false
   },
   "8447409316": {
-    "last_message_time": 1771499295.055727,
+    "last_message_time": 1771499367.909051,
     "message_times": [
-      1771499295.055727
+      1771499295.055727,
+      1771499367.909051
     ],
     "spam_count": 0,
     "warnings_given": 0,
