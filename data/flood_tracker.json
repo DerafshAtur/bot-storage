@@ -2416,9 +2416,10 @@
     "is_premium": false
   },
   "7320889221": {
-    "last_message_time": 1771491022.597419,
+    "last_message_time": 1771491030.525203,
     "message_times": [
-      1771491022.597419
+      1771491022.597419,
+      1771491030.525203
     ],
     "spam_count": 0,
     "warnings_given": 0,
