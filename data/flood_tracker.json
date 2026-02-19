@@ -2570,5 +2570,17 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "6211982150": {
+    "last_message_time": 1771520652.542793,
+    "message_times": [
+      1771520652.367816,
+      1771520652.542793
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
