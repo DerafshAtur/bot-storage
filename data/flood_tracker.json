@@ -2404,9 +2404,10 @@
     "is_premium": false
   },
   "8005351551": {
-    "last_message_time": 1771481827.810247,
+    "last_message_time": 1771481832.363873,
     "message_times": [
-      1771481827.810247
+      1771481827.810247,
+      1771481832.363873
     ],
     "spam_count": 0,
     "warnings_given": 0,
