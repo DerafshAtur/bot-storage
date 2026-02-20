@@ -2763,9 +2763,10 @@
     "is_premium": false
   },
   "6254469018": {
-    "last_message_time": 1771587440.366547,
+    "last_message_time": 1771587449.776831,
     "message_times": [
-      1771587440.366547
+      1771587440.366547,
+      1771587449.776831
     ],
     "spam_count": 0,
     "warnings_given": 0,
