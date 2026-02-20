@@ -3014,10 +3014,11 @@
     "is_premium": false
   },
   "7688077667": {
-    "last_message_time": 1771629294.886051,
+    "last_message_time": 1771629309.210327,
     "message_times": [
       1771629192.618162,
-      1771629294.886051
+      1771629294.886051,
+      1771629309.210327
     ],
     "spam_count": 0,
     "warnings_given": 0,
