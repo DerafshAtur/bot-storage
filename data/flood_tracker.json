@@ -2333,10 +2333,9 @@
     "is_premium": false
   },
   "8092456856": {
-    "last_message_time": 1771586300.929217,
+    "last_message_time": 1771586461.944894,
     "message_times": [
-      1771586223.639416,
-      1771586300.929217
+      1771586461.944894
     ],
     "spam_count": 0,
     "warnings_given": 0,
