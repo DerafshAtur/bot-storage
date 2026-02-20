@@ -2836,10 +2836,11 @@
     "is_premium": false
   },
   "6999168542": {
-    "last_message_time": 1771605803.8921,
+    "last_message_time": 1771605820.534372,
     "message_times": [
       1771605720.933487,
-      1771605803.8921
+      1771605803.8921,
+      1771605820.534372
     ],
     "spam_count": 0,
     "warnings_given": 0,
