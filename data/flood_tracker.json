@@ -2864,9 +2864,10 @@
     "is_premium": false
   },
   "8364087313": {
-    "last_message_time": 1771609729.915424,
+    "last_message_time": 1771609770.844438,
     "message_times": [
-      1771609729.915424
+      1771609729.915424,
+      1771609770.844438
     ],
     "spam_count": 0,
     "warnings_given": 0,
