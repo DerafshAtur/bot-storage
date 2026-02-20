@@ -2916,10 +2916,11 @@
     "is_premium": false
   },
   "7519415330": {
-    "last_message_time": 1771617424.809058,
+    "last_message_time": 1771617479.240647,
     "message_times": [
       1771617378.86824,
-      1771617424.809058
+      1771617424.809058,
+      1771617479.240647
     ],
     "spam_count": 0,
     "warnings_given": 0,
