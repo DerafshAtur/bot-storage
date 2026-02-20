@@ -2775,9 +2775,10 @@
     "is_premium": false
   },
   "2132741790": {
-    "last_message_time": 1771588563.584151,
+    "last_message_time": 1771588571.508896,
     "message_times": [
-      1771588563.584151
+      1771588563.584151,
+      1771588571.508896
     ],
     "spam_count": 0,
     "warnings_given": 0,
