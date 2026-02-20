@@ -2678,9 +2678,10 @@
     "is_premium": false
   },
   "8402697945": {
-    "last_message_time": 1771566961.61107,
+    "last_message_time": 1771566991.459249,
     "message_times": [
-      1771566961.61107
+      1771566961.61107,
+      1771566991.459249
     ],
     "spam_count": 0,
     "warnings_given": 0,
