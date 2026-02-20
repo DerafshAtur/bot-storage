@@ -2824,9 +2824,10 @@
     "is_premium": false
   },
   "8203226409": {
-    "last_message_time": 1771600620.160273,
+    "last_message_time": 1771600654.833015,
     "message_times": [
-      1771600620.160273
+      1771600620.160273,
+      1771600654.833015
     ],
     "spam_count": 0,
     "warnings_given": 0,
