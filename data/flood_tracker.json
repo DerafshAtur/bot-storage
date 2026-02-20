@@ -2978,9 +2978,10 @@
     "is_premium": false
   },
   "5746578728": {
-    "last_message_time": 1771622467.853285,
+    "last_message_time": 1771622485.496396,
     "message_times": [
-      1771622467.853285
+      1771622467.853285,
+      1771622485.496396
     ],
     "spam_count": 0,
     "warnings_given": 0,
