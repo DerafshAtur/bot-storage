@@ -2702,9 +2702,10 @@
     "is_premium": false
   },
   "6453113889": {
-    "last_message_time": 1771569904.045356,
+    "last_message_time": 1771569953.945785,
     "message_times": [
-      1771569904.045356
+      1771569904.045356,
+      1771569953.945785
     ],
     "spam_count": 0,
     "warnings_given": 0,
