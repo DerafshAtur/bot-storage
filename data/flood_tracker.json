@@ -3014,12 +3014,24 @@
     "is_premium": false
   },
   "7688077667": {
-    "last_message_time": 1771629596.760808,
+    "last_message_time": 1771629599.116816,
     "message_times": [
       1771629499.10349,
       1771629528.90206,
       1771629589.599994,
-      1771629596.760808
+      1771629596.760808,
+      1771629599.116816
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
+  },
+  "6129973471": {
+    "last_message_time": 1771629767.811361,
+    "message_times": [
+      1771629767.811361
     ],
     "spam_count": 0,
     "warnings_given": 0,
