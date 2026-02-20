@@ -2737,9 +2737,10 @@
     "is_premium": false
   },
   "7988410529": {
-    "last_message_time": 1771580244.955799,
+    "last_message_time": 1771580300.906356,
     "message_times": [
-      1771580244.955799
+      1771580244.955799,
+      1771580300.906356
     ],
     "spam_count": 0,
     "warnings_given": 0,
