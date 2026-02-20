@@ -2916,10 +2916,9 @@
     "is_premium": false
   },
   "7519415330": {
-    "last_message_time": 1771617559.587862,
+    "last_message_time": 1771617733.87011,
     "message_times": [
-      1771617479.240647,
-      1771617559.587862
+      1771617733.87011
     ],
     "spam_count": 0,
     "warnings_given": 0,
