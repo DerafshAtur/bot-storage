@@ -2890,9 +2890,10 @@
     "is_premium": false
   },
   "6878344486": {
-    "last_message_time": 1771614303.881844,
+    "last_message_time": 1771614396.393534,
     "message_times": [
-      1771614303.881844
+      1771614303.881844,
+      1771614396.393534
     ],
     "spam_count": 0,
     "warnings_given": 0,
