@@ -2966,9 +2966,10 @@
     "is_premium": false
   },
   "7669196071": {
-    "last_message_time": 1771619639.676742,
+    "last_message_time": 1771619676.349861,
     "message_times": [
-      1771619639.676742
+      1771619639.676742,
+      1771619676.349861
     ],
     "spam_count": 0,
     "warnings_given": 0,
