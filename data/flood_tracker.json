@@ -1140,9 +1140,10 @@
     "is_premium": false
   },
   "6520686782": {
-    "last_message_time": 1771690228.893476,
+    "last_message_time": 1771690263.528622,
     "message_times": [
-      1771690228.893476
+      1771690228.893476,
+      1771690263.528622
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -3061,9 +3062,10 @@
     "is_premium": false
   },
   "6288825776": {
-    "last_message_time": 1771690192.228853,
+    "last_message_time": 1771690230.597401,
     "message_times": [
-      1771690192.228853
+      1771690192.228853,
+      1771690230.597401
     ],
     "spam_count": 0,
     "warnings_given": 0,
