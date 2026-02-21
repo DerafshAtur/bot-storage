@@ -3050,10 +3050,9 @@
     "is_premium": false
   },
   "6158937391": {
-    "last_message_time": 1771654310.424129,
+    "last_message_time": 1771654474.610464,
     "message_times": [
-      1771654196.669594,
-      1771654310.424129
+      1771654474.610464
     ],
     "spam_count": 0,
     "warnings_given": 0,
