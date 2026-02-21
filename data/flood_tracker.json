@@ -3254,11 +3254,9 @@
     "is_premium": false
   },
   "7586586898": {
-    "last_message_time": 1771706444.828777,
+    "last_message_time": 1771706568.294208,
     "message_times": [
-      1771706328.334274,
-      1771706422.305963,
-      1771706444.828777
+      1771706568.294208
     ],
     "spam_count": 0,
     "warnings_given": 0,
