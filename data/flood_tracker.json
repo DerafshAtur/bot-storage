@@ -3228,9 +3228,10 @@
     "is_premium": false
   },
   "8505435122": {
-    "last_message_time": 1771699833.129262,
+    "last_message_time": 1771699923.368369,
     "message_times": [
-      1771699833.129262
+      1771699833.129262,
+      1771699923.368369
     ],
     "spam_count": 0,
     "warnings_given": 0,
