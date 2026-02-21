@@ -3240,10 +3240,11 @@
     "is_premium": false
   },
   "8301296535": {
-    "last_message_time": 1771703645.695574,
+    "last_message_time": 1771703651.0055,
     "message_times": [
       1771703641.893662,
-      1771703645.695574
+      1771703645.695574,
+      1771703651.0055
     ],
     "spam_count": 0,
     "warnings_given": 0,
