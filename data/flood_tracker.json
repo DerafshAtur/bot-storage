@@ -3120,9 +3120,10 @@
     "is_premium": false
   },
   "6387511796": {
-    "last_message_time": 1771665965.456346,
+    "last_message_time": 1771665990.54385,
     "message_times": [
-      1771665965.456346
+      1771665965.456346,
+      1771665990.54385
     ],
     "spam_count": 0,
     "warnings_given": 0,
