@@ -1129,10 +1129,9 @@
     "is_premium": false
   },
   "6030670159": {
-    "last_message_time": 1771655006.274374,
+    "last_message_time": 1771655167.488607,
     "message_times": [
-      1771654971.274978,
-      1771655006.274374
+      1771655167.488607
     ],
     "spam_count": 0,
     "warnings_given": 0,
