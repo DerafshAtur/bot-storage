@@ -3075,10 +3075,9 @@
     "is_premium": false
   },
   "7235651111": {
-    "last_message_time": 1771661855.804129,
+    "last_message_time": 1771667830.849041,
     "message_times": [
-      1771661784.957276,
-      1771661855.804129
+      1771667830.849041
     ],
     "spam_count": 0,
     "warnings_given": 0,
