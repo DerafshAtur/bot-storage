@@ -1352,9 +1352,10 @@
     "is_premium": false
   },
   "8232068563": {
-    "last_message_time": 1771781988.433727,
+    "last_message_time": 1771782042.260838,
     "message_times": [
-      1771781988.433727
+      1771781988.433727,
+      1771782042.260838
     ],
     "spam_count": 0,
     "warnings_given": 0,
