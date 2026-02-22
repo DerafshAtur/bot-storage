@@ -1,9 +1,10 @@
 {
   "6001769473": {
-    "last_message_time": 1771781744.006977,
+    "last_message_time": 1771781745.638089,
     "message_times": [
       1771781702.317502,
-      1771781744.006977
+      1771781744.006977,
+      1771781745.638089
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -1351,10 +1352,9 @@
     "is_premium": false
   },
   "8232068563": {
-    "last_message_time": 1771107008.721241,
+    "last_message_time": 1771781988.433727,
     "message_times": [
-      1771106905.843457,
-      1771107008.721241
+      1771781988.433727
     ],
     "spam_count": 0,
     "warnings_given": 0,
