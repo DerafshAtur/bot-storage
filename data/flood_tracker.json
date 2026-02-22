@@ -3084,10 +3084,9 @@
     "is_premium": false
   },
   "226276206": {
-    "last_message_time": 1771780180.027824,
+    "last_message_time": 1771780316.970207,
     "message_times": [
-      1771780106.969141,
-      1771780180.027824
+      1771780316.970207
     ],
     "spam_count": 0,
     "warnings_given": 0,
@@ -3409,10 +3408,12 @@
     "is_premium": false
   },
   "5063252732": {
-    "last_message_time": 1771780284.621805,
+    "last_message_time": 1771780318.287999,
     "message_times": [
       1771780278.704691,
-      1771780284.621805
+      1771780284.621805,
+      1771780294.865553,
+      1771780318.287999
     ],
     "spam_count": 0,
     "warnings_given": 0,
