@@ -3490,9 +3490,10 @@
     "is_premium": false
   },
   "6990429240": {
-    "last_message_time": 1771789074.309692,
+    "last_message_time": 1771789153.537439,
     "message_times": [
-      1771789074.309692
+      1771789074.309692,
+      1771789153.537439
     ],
     "spam_count": 0,
     "warnings_given": 0,
