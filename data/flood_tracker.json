@@ -3276,9 +3276,10 @@
     "is_premium": false
   },
   "6711088119": {
-    "last_message_time": 1771730644.536652,
+    "last_message_time": 1771730677.972223,
     "message_times": [
-      1771730644.536652
+      1771730644.536652,
+      1771730677.972223
     ],
     "spam_count": 0,
     "warnings_given": 0,
