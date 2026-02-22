@@ -3444,9 +3444,10 @@
     "is_premium": false
   },
   "6270740508": {
-    "last_message_time": 1771780722.059317,
+    "last_message_time": 1771780748.518427,
     "message_times": [
-      1771780722.059317
+      1771780722.059317,
+      1771780748.518427
     ],
     "spam_count": 0,
     "warnings_given": 0,
