@@ -3313,9 +3313,10 @@
     "is_premium": false
   },
   "6017187623": {
-    "last_message_time": 1771752434.332999,
+    "last_message_time": 1771752439.499565,
     "message_times": [
-      1771752434.332999
+      1771752434.332999,
+      1771752439.499565
     ],
     "spam_count": 0,
     "warnings_given": 0,
