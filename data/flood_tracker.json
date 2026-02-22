@@ -1102,10 +1102,9 @@
     "is_premium": false
   },
   "7952454199": {
-    "last_message_time": 1771797321.199379,
+    "last_message_time": 1771797907.784877,
     "message_times": [
-      1771797234.847677,
-      1771797321.199379
+      1771797907.784877
     ],
     "spam_count": 0,
     "warnings_given": 0,
