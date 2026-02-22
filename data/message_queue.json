@@ -11,6 +11,12 @@
       "mode": "chat",
       "timestamp": "2026-02-19T14:37:43.371701",
       "processed": false
+    },
+    {
+      "message": "List product features: \"iPhone 15 Pro with 256GB storage\"",
+      "mode": "chat",
+      "timestamp": "2026-02-22T17:31:17.030669",
+      "processed": false
     }
   ]
 }
