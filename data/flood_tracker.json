@@ -3381,5 +3381,17 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "7913033548": {
+    "last_message_time": 1771775525.614565,
+    "message_times": [
+      1771775524.768687,
+      1771775525.614565
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
