@@ -3371,10 +3371,11 @@
     "is_premium": false
   },
   "6541515211": {
-    "last_message_time": 1771774016.184561,
+    "last_message_time": 1771774024.607097,
     "message_times": [
       1771774008.954897,
-      1771774016.184561
+      1771774016.184561,
+      1771774024.607097
     ],
     "spam_count": 0,
     "warnings_given": 0,
