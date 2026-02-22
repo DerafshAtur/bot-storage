@@ -3084,10 +3084,9 @@
     "is_premium": false
   },
   "226276206": {
-    "last_message_time": 1771780458.149079,
+    "last_message_time": 1771780621.769144,
     "message_times": [
-      1771780413.920845,
-      1771780458.149079
+      1771780621.769144
     ],
     "spam_count": 0,
     "warnings_given": 0,
