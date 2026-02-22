@@ -2944,11 +2944,9 @@
     "is_premium": false
   },
   "557201991": {
-    "last_message_time": 1771622690.257921,
+    "last_message_time": 1771783916.44949,
     "message_times": [
-      1771622587.517467,
-      1771622648.742519,
-      1771622690.257921
+      1771783916.44949
     ],
     "spam_count": 0,
     "warnings_given": 0,
