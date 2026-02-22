@@ -3478,9 +3478,10 @@
     "is_premium": false
   },
   "8436614542": {
-    "last_message_time": 1771787210.009544,
+    "last_message_time": 1771787276.913465,
     "message_times": [
-      1771787210.009544
+      1771787210.009544,
+      1771787276.913465
     ],
     "spam_count": 0,
     "warnings_given": 0,
