@@ -3396,10 +3396,11 @@
     "is_premium": false
   },
   "8301003895": {
-    "last_message_time": 1771778452.939731,
+    "last_message_time": 1771778472.237961,
     "message_times": [
       1771778378.758491,
-      1771778452.939731
+      1771778452.939731,
+      1771778472.237961
     ],
     "spam_count": 0,
     "warnings_given": 0,
