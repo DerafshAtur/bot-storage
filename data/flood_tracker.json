@@ -3612,10 +3612,11 @@
     "is_premium": false
   },
   "7995197361": {
-    "last_message_time": 1771854827.103484,
+    "last_message_time": 1771854844.435333,
     "message_times": [
       1771854792.637686,
-      1771854827.103484
+      1771854827.103484,
+      1771854844.435333
     ],
     "spam_count": 0,
     "warnings_given": 0,
