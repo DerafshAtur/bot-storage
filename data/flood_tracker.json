@@ -3648,9 +3648,10 @@
     "is_premium": false
   },
   "8479998078": {
-    "last_message_time": 1771862925.10679,
+    "last_message_time": 1771862944.268357,
     "message_times": [
-      1771862925.10679
+      1771862925.10679,
+      1771862944.268357
     ],
     "spam_count": 0,
     "warnings_given": 0,
