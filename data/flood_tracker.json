@@ -3658,10 +3658,11 @@
     "is_premium": false
   },
   "8562757806": {
-    "last_message_time": 1771863236.370575,
+    "last_message_time": 1771863296.651775,
     "message_times": [
       1771863188.369206,
-      1771863236.370575
+      1771863236.370575,
+      1771863296.651775
     ],
     "spam_count": 0,
     "warnings_given": 0,
