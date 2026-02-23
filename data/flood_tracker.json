@@ -412,10 +412,9 @@
     "is_premium": false
   },
   "7975770232": {
-    "last_message_time": 1771442713.189722,
+    "last_message_time": 1771807326.506261,
     "message_times": [
-      1771442649.940718,
-      1771442713.189722
+      1771807326.506261
     ],
     "spam_count": 0,
     "warnings_given": 0,
