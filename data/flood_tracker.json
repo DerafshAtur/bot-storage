@@ -3544,5 +3544,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "7445192822": {
+    "last_message_time": 1771808223.469794,
+    "message_times": [
+      1771808223.469794
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
