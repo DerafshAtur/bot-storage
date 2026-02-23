@@ -3623,10 +3623,11 @@
     "is_premium": false
   },
   "7294054537": {
-    "last_message_time": 1771855974.182114,
+    "last_message_time": 1771855994.948274,
     "message_times": [
       1771855954.059451,
-      1771855974.182114
+      1771855974.182114,
+      1771855994.948274
     ],
     "spam_count": 0,
     "warnings_given": 0,
