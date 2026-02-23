@@ -3554,5 +3554,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "8428540756": {
+    "last_message_time": 1771831541.382838,
+    "message_times": [
+      1771831541.382838
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
