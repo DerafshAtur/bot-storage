@@ -2711,9 +2711,10 @@
     "is_premium": false
   },
   "5417998481": {
-    "last_message_time": 1771884251.953259,
+    "last_message_time": 1771884320.841504,
     "message_times": [
-      1771884251.953259
+      1771884251.953259,
+      1771884320.841504
     ],
     "spam_count": 0,
     "warnings_given": 0,
