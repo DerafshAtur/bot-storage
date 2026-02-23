@@ -3567,10 +3567,9 @@
     "is_premium": false
   },
   "7088938505": {
-    "last_message_time": 1771844210.543293,
+    "last_message_time": 1771846638.167377,
     "message_times": [
-      1771844124.59239,
-      1771844210.543293
+      1771846638.167377
     ],
     "spam_count": 0,
     "warnings_given": 0,
