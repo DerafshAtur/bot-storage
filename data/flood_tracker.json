@@ -122,10 +122,11 @@
     "is_premium": false
   },
   "7667199641": {
-    "last_message_time": 1771871190.911015,
+    "last_message_time": 1771871194.402032,
     "message_times": [
       1771871126.252802,
-      1771871190.911015
+      1771871190.911015,
+      1771871194.402032
     ],
     "spam_count": 0,
     "warnings_given": 0,
