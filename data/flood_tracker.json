@@ -3680,5 +3680,16 @@
     "blocked_until": 0,
     "total_warnings": 0,
     "is_premium": false
+  },
+  "8360976066": {
+    "last_message_time": 1771872301.682708,
+    "message_times": [
+      1771872301.682708
+    ],
+    "spam_count": 0,
+    "warnings_given": 0,
+    "blocked_until": 0,
+    "total_warnings": 0,
+    "is_premium": false
   }
 }
