@@ -3765,9 +3765,10 @@
     "is_premium": false
   },
   "6418476044": {
-    "last_message_time": 1771950815.795385,
+    "last_message_time": 1771950818.710588,
     "message_times": [
-      1771950815.795385
+      1771950815.795385,
+      1771950818.710588
     ],
     "spam_count": 0,
     "warnings_given": 0,
