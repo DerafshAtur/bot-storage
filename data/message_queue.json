@@ -47,6 +47,12 @@
       "mode": "chatvision",
       "timestamp": "2026-02-24T17:47:10.876252",
       "processed": false
+    },
+    {
+      "message": "hi",
+      "mode": "chat",
+      "timestamp": "2026-02-24T17:51:09.347231",
+      "processed": false
     }
   ]
 }
