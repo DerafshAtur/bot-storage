@@ -3778,10 +3778,11 @@
     "is_premium": false
   },
   "5742666995": {
-    "last_message_time": 1771951236.076489,
+    "last_message_time": 1771951317.440436,
     "message_times": [
       1771951202.170713,
-      1771951236.076489
+      1771951236.076489,
+      1771951317.440436
     ],
     "spam_count": 0,
     "warnings_given": 0,
